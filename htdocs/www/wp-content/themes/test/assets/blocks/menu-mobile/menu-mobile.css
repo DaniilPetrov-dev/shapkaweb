@@ -1,0 +1,25 @@
+.menu-mobile {
+	display: none;
+}
+
+@media (max-width: 830px) {
+	.menu-mobile {
+		display: flex;
+		place-items: center;
+		flex-direction: column;
+		position:fixed;
+		z-index: 10;
+		left: 0;
+		top: -100%;
+		width: 100%;
+		height: 100%;
+		background-color: #EFEDE8;
+		transition: .8s;
+	}
+
+
+
+	.menu-mobile.active {
+		top:0;
+	}
+}

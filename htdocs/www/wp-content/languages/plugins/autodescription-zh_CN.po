@@ -1,0 +1,3096 @@
+# Translation of Plugins - The SEO Framework – Fast, Automated, Effortless. - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - The SEO Framework – Fast, Automated, Effortless. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-02 14:12:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - The SEO Framework – Fast, Automated, Effortless. - Stable (latest release)\n"
+
+#: inc/classes/builders/seobar/page.class.php:187
+msgid "It's built from the page title."
+msgstr "它是从页面标题构建的。"
+
+#: inc/views/edit/seo-settings-singular.php:166
+#: inc/views/edit/seo-settings-singular.php:173
+#: inc/views/edit/seo-settings-tt.php:158
+#: inc/views/settings/metaboxes/post-type-archive.php:208
+msgid "Remove the site title?"
+msgstr "删除网站标题？"
+
+#: inc/views/settings/metaboxes/robots.php:370
+msgid "These settings apply to other globally registered content types."
+msgstr "这些设置适用于其他全局注册的内容类型。"
+
+#: inc/views/settings/metaboxes/robots.php:369
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: inc/views/settings/metaboxes/robots.php:339
+msgid "These settings apply to the taxonomies of post types. When taxonomies have all their bound post types' options checked, they will inherit their status."
+msgstr "这些设置适用于帖子类型的分类。当分类法检查所有绑定的帖子类型选项时，它们将继承其状态。"
+
+#: inc/views/settings/metaboxes/robots.php:338
+msgid "Taxonomy Settings"
+msgstr "分类设置"
+
+#. translators: PLURAL. 1 = noindex/nofollow/noarchive, 2 = Archives, Posts,
+#. Pages, etc.
+#: inc/views/settings/metaboxes/robots.php:296
+msgctxt "plural"
+msgid "Apply %1$s to %2$s?"
+msgstr "将 %1$s 应用到 %2$s？"
+
+#. translators: SINGULAR. 1 = noindex/nofollow/noarchive, 2 = The entire site
+#: inc/views/settings/metaboxes/robots.php:294
+msgctxt "singular"
+msgid "Apply %1$s to %2$s?"
+msgstr "将 %1$s 应用到 %2$s？"
+
+#: inc/views/settings/metaboxes/social.php:371
+msgid "LinkedIn displays the post's featured image in embeds. Check this option if you want to replace it with the social image."
+msgstr "LinkedIn在嵌入中显示帖子的特色图片。如果您想用社媒图像替换它，请勾选此项。"
+
+#: inc/views/settings/metaboxes/social.php:370
+msgid "Use social image?"
+msgstr "使用社媒图像？"
+
+#: inc/views/settings/metaboxes/social.php:363
+msgid "Only custom social images that are selected via the Media Library are considered."
+msgstr "仅考虑通过媒体库选择的自定义社媒图像"
+
+#: inc/views/settings/metaboxes/social.php:358
+msgid "Check this option if you want to replace page titles with Open Graph titles in embeds."
+msgstr "如果您想在嵌入中用Open Graph标题替换页面标题，请勾选此项。"
+
+#: inc/views/settings/metaboxes/social.php:357
+msgid "Use Open Graph title?"
+msgstr "使用Open Graph标题？"
+
+#: inc/views/settings/metaboxes/social.php:125
+msgid "Remove site title from generated social titles?"
+msgstr "从生成的社媒标题中删除站点标题？"
+
+#: inc/views/settings/metaboxes/social.php:117
+msgid "When you provide a custom Open Graph or Twitter title, the site title will be omitted automatically."
+msgstr "当您提供自定义Open Graph或Twitter标题时，站点标题将被自动省略。"
+
+#: inc/views/settings/metaboxes/social.php:114
+msgid "Most social sites and third-party services automatically include the website URL inside their embeds. When the site title is described well in the site URL, including it in the social title will be redundant."
+msgstr "大多数社媒网站和第三方服务会自动在其嵌入内容中包含网站URL。当站点标题在站点URL中描述得很好时，将其包含在社媒标题中将是多余的。"
+
+#: inc/views/settings/metaboxes/social.php:113
+msgid "Social Title Settings"
+msgstr "社媒标题设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:358
+msgid "Show logo next to sitemap header title?"
+msgstr "在站点地图页眉标题旁显示徽标？"
+
+#: inc/views/settings/metaboxes/sitemaps.php:353
+msgid "Header Title Logo"
+msgstr "页眉标题徽标"
+
+#: inc/views/settings/metaboxes/sitemaps.php:308
+msgid "Optimized Sitemap Styling Settings"
+msgstr "优化网站地图样式设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:276
+msgid "Only enable prerendering when generating the sitemap takes over 60 seconds."
+msgstr "仅在生成站点地图超过60秒时启用预渲染。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:272
+msgid "This mitigates timeouts some search engines may experience when waiting for the sitemap to render. Transient caching for the sitemap must be enabled for this to work."
+msgstr "这减轻了某些搜索引擎在等待站点地图呈现时可能遇到的超时。必须启用站点地图的瞬态缓存才能使其工作。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:270
+msgid "Prerender optimized sitemap before pinging via cron?"
+msgstr "在通过cron ping之前预渲染优化的站点地图？"
+
+#: inc/views/settings/metaboxes/sitemaps.php:157
+msgid "This setting affects how many pages are requested from the database per query."
+msgstr "此设置会影响每个查询从数据库请求的页面数。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:124
+msgid "View the sitemap index."
+msgstr "查看站点地图索引。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:97
+msgid "This sitemap is processed quicker by search engines."
+msgstr "搜索引擎可以更快地处理此站点地图"
+
+#: inc/views/settings/metaboxes/sitemaps.php:95
+msgid "Output optimized sitemap?"
+msgstr "输出优化的站点地图？"
+
+#. translators: %s = Learn more URL. Markdown!
+#: inc/views/settings/metaboxes/sitemaps.php:72
+msgid "The sitemap does not contribute to ranking; [it can only help with indexing](%s). Search engines process smaller, less complicated sitemaps quicker, which shortens the time required for indexing pages."
+msgstr "站点地图对排名没有贡献；[它只能帮助索引](%s)。搜索引擎更快地处理更小、更简单的站点地图，从而缩短索引页面所需的时间。"
+
+#. translators: 1: Option label, 2: [?] option info note, 3: Optional warning
+#: inc/views/settings/metaboxes/homepage.php:446
+#: inc/views/settings/metaboxes/homepage.php:462
+#: inc/views/settings/metaboxes/homepage.php:478
+msgctxt "robots setting"
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#: inc/views/settings/metaboxes/description.php:34
+msgid "Learn how this feature works."
+msgstr "了解此功能的工作原理"
+
+#: inc/views/settings/metaboxes/title.php:323
+msgid "Remove term type prefixes from generated archive titles?"
+msgstr "从生成的存档标题中删除术语类型前缀？"
+
+#: inc/views/settings/metaboxes/title.php:292
+msgid "Remove site title from the title?"
+msgstr "从标题中删除站点标题？"
+
+#: inc/views/settings/metaboxes/title.php:284
+msgid "Always brand your titles. Search engines may ignore your titles with this feature enabled."
+msgstr "始终为您的标题打上烙印。启用此功能后，搜索引擎可能会忽略您的标题。"
+
+#: inc/views/settings/metaboxes/title.php:234
+msgid "Site Title"
+msgstr "网站标题"
+
+#: inc/views/settings/metaboxes/title.php:252
+msgid "Site Title Location"
+msgstr "标题位置"
+
+#: inc/views/settings/metaboxes/title.php:249
+msgid "This option does not affect the homepage; it uses a different one."
+msgstr "此选项不影响主页；它使用一个不同的。"
+
+#. translators: %s = HTML tag example
+#: inc/views/settings/metaboxes/title.php:212
+msgid "This strips HTML tags, like %s, from the title. Disable this option to display generated HTML tags as plain text in meta titles."
+msgstr "这会从标题中去除HTML标签，例如:%s。禁用此项以在元标题中将生成的HTML标签显示为纯文本。"
+
+#. translators: 1: Extension name, 2: Extension link. Markdown!
+#: inc/views/settings/metaboxes/title.php:123
+msgid "The current theme doesn't support a feature that allows predictable output of titles. Consider installing [%1$s](%2$s) when you notice the title output in the browser-tab isn't as you have configured."
+msgstr "当前主题不支持允许可预测的标题输出的功能。当您注意到浏览器选项卡中的标题输出与您配置的不同时，请考虑安装[%1$s](%2$s)。"
+
+#. translators: %s = title-tag
+#: inc/views/settings/metaboxes/title.php:115
+msgid "Theme %s Support Missing"
+msgstr "主题%s支持缺失"
+
+#: inc/views/settings/metaboxes/title.php:75
+msgid "Example Archive Title Output"
+msgstr "示例存档标题输出"
+
+#: inc/views/settings/metaboxes/title.php:58
+msgid "Example Page Title Output"
+msgstr "示例页面标题输出"
+
+#: inc/views/settings/metaboxes/title.php:28
+msgid "Example Post"
+msgstr "示例帖子"
+
+#: inc/views/settings/metaboxes/general.php:411
+msgid "When taxonomies have all their bound post types excluded, they will inherit their exclusion status."
+msgstr "当分类法将所有绑定的帖子类型排除在外时，它们将继承其排除状态。"
+
+#: inc/views/settings/metaboxes/general.php:410
+msgid "Select taxonomies which should be excluded."
+msgstr "选择应排除的分类法。"
+
+#: inc/views/settings/metaboxes/general.php:409
+msgid "Taxonomy Exclusions"
+msgstr "分类排除"
+
+#: inc/views/settings/metaboxes/general.php:379
+msgid "Select post types which should be excluded."
+msgstr "选择应排除的帖子类型。"
+
+#: inc/views/settings/metaboxes/general.php:378
+msgid "Post Type Exclusions"
+msgstr "帖子类型排除"
+
+#: inc/views/settings/metaboxes/general.php:373
+msgid "Default post types and taxonomies can not be excluded."
+msgstr "不能排除默认的帖子类型和分类法。"
+
+#. translators: backticks are code wraps. Markdown!
+#: inc/views/settings/metaboxes/general.php:369
+msgid "These options should not need changing when post types and taxonomies are registered correctly. When they aren't, consider applying `noindex` to purge them from search engines, instead."
+msgstr "当帖子类型和分类正确注册时，这些选项不需要更改。如果不是，请考虑应用“noindex”从搜索引擎中清除它们。"
+
+#: inc/views/settings/metaboxes/general.php:365
+msgid "When checked, these options will remove meta optimizations, SEO suggestions, and sitemap inclusions for the selected post types and taxonomies. This will allow search engines to crawl the post type and taxonomies without advanced restrictions or directions."
+msgstr "勾选后，这些选项将删除所选帖子类型和分类法的元优化、SEO建议和站点地图包含内容。这将允许搜索引擎在没有高级限制或指示的情况下抓取帖子类型和分类法。"
+
+#: inc/views/settings/metaboxes/general.php:364
+msgid "Exclusion Settings"
+msgstr "排除设置"
+
+#: inc/views/settings/metaboxes/general.php:237
+msgid "Enable optimized sitemap generation cache?"
+msgstr "启用优化的站点地图生成缓存？"
+
+#: inc/views/settings/metaboxes/general.php:42
+msgid "Exclusions"
+msgstr "排除"
+
+#: inc/views/templates/settings/settings.php:59
+msgid "This taxonomy inherited the state from the post type, so this option won't have any effect."
+msgstr "此分类法从帖子类型继承了状态，因此此选项不会产生任何影响。"
+
+#: inc/views/templates/settings/settings.php:49
+msgid "The site title is already removed from meta titles, so this option only affects the homepage."
+msgstr "站点标题已从元标题中删除，因此此选项仅影响主页。"
+
+#: inc/views/templates/settings/settings.php:39
+msgid "This taxonomy's post types are also excluded, so this option won't have any effect."
+msgstr "此分类法的帖子类型也被排除在外，因此此选项不会产生任何影响。"
+
+#: inc/views/templates/settings/settings.php:29
+msgid "This taxonomy is excluded, so this option won't work."
+msgstr "此分类法已排除，因此此选项不起作用。"
+
+#. translators: %s: Taxonomy singular name.
+#: inc/classes/bridges/listedit.class.php:405
+#: inc/classes/bridges/scripts.class.php:510
+#: inc/classes/generate-title.class.php:971
+#: inc/classes/generate-title.class.php:1007
+#: inc/classes/internal/deprecated.class.php:1565
+msgctxt "taxonomy term archive title prefix"
+msgid "%s:"
+msgstr "%s:"
+
+#: inc/classes/generate-title.class.php:963
+#: inc/classes/generate-title.class.php:1017
+msgctxt "post type archive title prefix"
+msgid "Archives:"
+msgstr "归档："
+
+#: inc/classes/generate-title.class.php:939
+msgctxt "date archive title prefix"
+msgid "Day:"
+msgstr "日："
+
+#: inc/classes/generate-title.class.php:936
+msgctxt "date archive title prefix"
+msgid "Month:"
+msgstr "月："
+
+#: inc/classes/generate-title.class.php:933
+msgctxt "date archive title prefix"
+msgid "Year:"
+msgstr "年："
+
+#: inc/classes/generate-title.class.php:929
+#: inc/classes/generate-title.class.php:1014
+msgctxt "author archive title prefix"
+msgid "Author:"
+msgstr "作者："
+
+#: inc/classes/generate-title.class.php:926
+#: inc/classes/generate-title.class.php:1002
+msgctxt "tag archive title prefix"
+msgid "Tag:"
+msgstr "标签："
+
+#: inc/classes/generate-title.class.php:923
+#: inc/classes/generate-title.class.php:999
+#: inc/views/settings/metaboxes/title.php:31
+msgctxt "category archive title prefix"
+msgid "Category:"
+msgstr "分类："
+
+#. translators: 1: Title prefix. 2: Title.
+#: inc/classes/generate-title.class.php:875
+#: inc/classes/internal/deprecated.class.php:1563
+#: inc/views/settings/metaboxes/title.php:39
+msgctxt "archive title"
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#. translators: %s = number
+#: inc/classes/interpreters/form.class.php:144
+msgid "Characters: %s"
+msgstr "字符：%s"
+
+#: inc/classes/builders/seobar/term.class.php:401
+msgid "It's built from the term SEO meta input."
+msgstr "它是根据术语SEO元输入构建的。"
+
+#: inc/classes/builders/seobar/term.class.php:399
+msgid "Obtained from the term SEO meta input."
+msgstr "从术语SEO元输入中获取。"
+
+#: inc/classes/builders/seobar/term.class.php:199
+msgid "It's built from the term name."
+msgstr "它是根据术语名称构建的。"
+
+#. translators: %s = timestamp
+#: inc/classes/builders/sitemap/base.class.php:178
+msgid "Sitemap is prerendered on %s"
+msgstr "站点地图已在%s上预呈现"
+
+#: inc/classes/builders/seobar/page.class.php:414
+msgid "It's built from the page SEO meta input."
+msgstr "它是从页面SEO元输入构建的。"
+
+#: inc/classes/builders/seobar/page.class.php:412
+msgid "Obtained from the page SEO meta input."
+msgstr "从页面SEO元输入中获取。"
+
+#: inc/classes/builders/seobar/page.class.php:381
+#: inc/classes/builders/seobar/term.class.php:368
+msgid "Markup syntax was found that isn't transformed. Consider rewriting the custom description."
+msgstr "发现未转换的标记语法。考虑重写自定义描述。"
+
+#: inc/classes/builders/seobar/page.class.php:378
+msgid "It's built from the page excerpt field."
+msgstr "它是从页面摘录字段构建的。"
+
+#: inc/classes/builders/seobar/page.class.php:376
+msgid "A page builder is used that renders content dynamically, so no description can be generated for performance and privacy reasons. Consider providing a custom description."
+msgstr "使用页面构建器动态呈现内容，因此出于性能和隐私原因无法生成描述。考虑提供自定义描述。"
+
+#: inc/classes/builders/seobar/page.class.php:172
+#: inc/classes/builders/seobar/term.class.php:184
+msgid "Markup syntax was found that isn't transformed. Consider rewriting the custom title."
+msgstr "发现未转换的标记语法。考虑重写自定义标题。"
+
+#: inc/classes/builders/seobar/page.class.php:167
+#: inc/classes/builders/seobar/term.class.php:179
+msgid "It's not branded. Search engines may ignore your title. Consider adding back the site title."
+msgstr "它没有品牌。搜索引擎可能会忽略您的标题。考虑添加回站点标题。"
+
+#. translators: 1: Method or Property name, 2: The SEO Framework class. 3:
+#. Message
+#: inc/classes/internal/debug.class.php:249
+msgid "%1$s is not accessible in %2$s. %3$s"
+msgstr "%1$s 无法访问 %2$s，%3$s"
+
+#. translators: 1 = 'Assessment(s)', 2 = A list of assessments.
+#: inc/classes/interpreters/seobar.class.php:372
+msgctxt "assessment list"
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: 1 = Assessment number (mind the %d (D)), 2 = Assessment
+#. explanation
+#: inc/classes/interpreters/seobar.class.php:370
+msgctxt "assessment enumeration"
+msgid "%1$d: %2$s"
+msgstr "%1$d: %2$s"
+
+#. translators: 1 = SEO Bar type title, 2 = Status reason. 3 = Assessments
+#: inc/classes/interpreters/seobar.class.php:326
+msgctxt "SEO Bar ARIA assessment enumeration"
+msgid "%1$s: %2$s %3$s"
+msgstr "%1$s: %2$s %3$s"
+
+#. translators: %s = Link, markdown.
+#: bootstrap/upgrade.php:451
+msgid "To take full advantage of all SEO features, please follow our [5-minute setup guide](%s)."
+msgstr "要充分利用所有SEO功能，请遵循我们的[5分钟设置指南](%s)。"
+
+#: bootstrap/upgrade.php:447
+msgid "The SEO Framework automatically optimizes your website for search engines and social media."
+msgstr "SEO框架会针对搜索引擎和社媒媒体自动优化您的网站。"
+
+#. translators: %1$s = New, lower version number, surrounded in
+#. markdown-backticks. %2$s = Old, higher version number, surrounded in
+#. markdown-backticks.
+#: bootstrap/upgrade.php:367
+msgid "Your website has been downgraded successfully to use The SEO Framework at database version `%1$s` from `%2$s`."
+msgstr "您的网站已成功降级为使用数据库版本为“%1$s”的“%2$s”的SEO框架。"
+
+#: inc/views/settings/metaboxes/title.php:207
+msgid "Some titles may have HTML tags inserted by the author for styling."
+msgstr "一些标题可能有作者插入的HTML标签以进行样式设置。"
+
+#: inc/views/settings/metaboxes/title.php:206
+msgid "A title is generated for every page."
+msgstr "为每个页面生成一个标题。"
+
+#: inc/views/settings/metaboxes/social.php:308
+msgid "However, for now, these fields seem to have no discernible effect."
+msgstr "然而，就目前而言，这些领域似乎没有明显的影响。"
+
+#: inc/views/settings/metaboxes/social.php:307
+msgid "Twitter claims users will be able to follow and view the profiles of attributed accounts directly from the card when these fields are filled in."
+msgstr "Twitter声称，在填写这些字段后，用户将能够直接从卡片中关注和查看归属帐户的个人资料。"
+
+#: inc/views/settings/metaboxes/social.php:305
+msgid "Card and Content Attribution"
+msgstr "卡片和内容归属"
+
+#: inc/views/settings/metaboxes/social.php:290
+msgid "Learn more about this card."
+msgstr "了解有关此卡的更多信息"
+
+#: inc/classes/bridges/plugintable.class.php:69
+msgctxt "Plugin pricing"
+msgid "Pricing"
+msgstr "定价"
+
+#: inc/compat/plugin-bbpress.php:176
+msgid "View: %s"
+msgstr "查看: %s"
+
+#: inc/compat/plugin-bbpress.php:168
+msgid "Edit %s's Profile"
+msgstr "编辑  %s's 资料"
+
+#: inc/compat/plugin-bbpress.php:163
+msgid "Edit Your Profile"
+msgstr "编辑你的资料"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:154
+msgid "%s's Profile"
+msgstr "%s's 资料"
+
+#: inc/compat/plugin-bbpress.php:150
+msgid "Your Profile"
+msgstr "你的资料"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:144
+msgid "%s's Subscriptions"
+msgstr "%s's 订阅"
+
+#: inc/compat/plugin-bbpress.php:140
+msgid "Your Subscriptions"
+msgstr "你的订阅"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:134
+msgid "%s's Favorites"
+msgstr "%s's 最喜欢的"
+
+#: inc/compat/plugin-bbpress.php:130
+msgid "Your Favorites"
+msgstr "你最喜欢的"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:124
+msgid "%s's Replies"
+msgstr "%s's 回复"
+
+#: inc/compat/plugin-bbpress.php:120
+msgid "Your Replies"
+msgstr "你的 回复"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:114
+msgid "%s's Topics"
+msgstr "%s's 主题"
+
+#: inc/compat/plugin-bbpress.php:110
+msgid "Your Topics"
+msgstr "你的主题"
+
+#: inc/compat/plugin-bbpress.php:97
+msgid "Topic Tag: %s"
+msgstr "主题标签：%s"
+
+#: inc/compat/plugin-bbpress.php:88
+msgid "Topic: %s"
+msgstr "主题：%s"
+
+#: inc/compat/plugin-bbpress.php:83
+msgid "Forum: %s"
+msgstr "论坛：%s"
+
+#: inc/compat/plugin-bbpress.php:76
+msgid "Topic Tag Edit: %s"
+msgstr "主题标签编辑：%s"
+
+#: inc/compat/plugin-bbpress.php:71
+msgid "Reply Edit: %s"
+msgstr "回复编辑：%s"
+
+#: inc/compat/plugin-bbpress.php:66
+msgid "Topic Edit: %s"
+msgstr "主题编辑：%s"
+
+#: inc/compat/plugin-bbpress.php:61
+msgid "Forum Edit: %s"
+msgstr "论坛编辑：%s"
+
+#: inc/views/settings/metaboxes/robots.php:118
+msgid "Enable advanced query protection?"
+msgstr "启用高级查询保护？"
+
+#: inc/views/settings/metaboxes/robots.php:113
+msgid "Some URL queries can cause WordPress to show faux archives. When search engines spot these, they will crawl and index them, which may cause a drop in ranking. Advanced query protection will prevent robots from indexing these archives."
+msgstr "某些URL查询可能会导致WordPress显示虚假存档。当搜索引擎发现这些时，他们会抓取它们并将它们编入索引，这可能会导致排名下降。高级查询保护将阻止机器人索引这些存档。"
+
+#: inc/views/settings/metaboxes/robots.php:112
+msgid "Advanced Query Protection"
+msgstr "高级查询保护"
+
+#: inc/views/settings/metaboxes/feed.php:32
+msgid "If this site publishes podcasts, enable this option. Otherwise, leave it disabled. Indexing feeds can cause search engines to crawl and index new pages slower; however, some podcast services require feeds to be indexable."
+msgstr "如果此站点发布播客，请启用此选项。否则，将其禁用。索引提要会导致搜索引擎抓取和索引新页面的速度变慢；但是，某些播客服务要求提要可编入索引。"
+
+#: inc/views/settings/metaboxes/feed.php:31
+msgid "Allow indexing of feeds?"
+msgstr "允许索引提要吗？"
+
+#: inc/views/settings/metaboxes/webmaster.php:60
+msgid "Get the Baidu verification code."
+msgstr "获取百度验证码"
+
+#. translators: literal translation from '百度搜索资源平台'-Code
+#: inc/views/settings/metaboxes/webmaster.php:58
+msgid "Baidu Search Resource Platform Code"
+msgstr "百度搜索资源平台代码"
+
+#. translators: %s = Learn more URL. Markdown!
+#: inc/views/settings/metaboxes/schema.php:298
+msgid "These settings are marked for removal. When you clear a field, it will be hidden forever. [Learn more](%s)."
+msgstr "这些设置被标记为删除。当您清除一个字段时，它将永远隐藏。[了解更多](%s)。"
+
+#: inc/views/settings/metaboxes/homepage.php:435
+msgctxt "Bear with me: the homepage can be edited globally, or via its page. Thus \"homepage page\"."
+msgid "Edit homepage page settings"
+msgstr "编辑主页设置"
+
+#: inc/views/settings/metaboxes/social.php:380
+msgid "Discord shows the page author's name above the sharing embed. Check this option if you find this undesirable."
+msgstr "Discord在分享嵌入上方显示页面作者的姓名。如果您觉得这不受欢迎，请勾选此项。"
+
+#: inc/views/settings/metaboxes/social.php:379
+msgid "Remove author name?"
+msgstr "删除作者姓名？"
+
+#: inc/views/settings/metaboxes/social.php:348
+msgid "Some social sharing services and clients, like WordPress, LinkedIn, and Discord, obtain the linked page information via oEmbed."
+msgstr "一些社媒分享服务和客户端，如WordPress、LinkedIn和Discord，通过oEmbed获取链接页面信息。"
+
+#: inc/views/settings/metaboxes/social.php:347
+msgid "oEmbed Settings"
+msgstr "oEmbed设置"
+
+#: inc/views/settings/metaboxes/social.php:264
+msgid "Twitter Integration Settings"
+msgstr "Twitter集成设置"
+
+#: inc/views/settings/metaboxes/social.php:198
+msgid "Facebook Integration Settings"
+msgstr "Facebook集成设置"
+
+#: inc/views/settings/metaboxes/social.php:168
+msgid "Theme Color"
+msgstr "主题颜色"
+
+#: inc/views/settings/metaboxes/social.php:164
+msgid "Discord styles embeds with the theme color. The theme color can also affect the tab-color in some browsers."
+msgstr "Discord样式嵌入主题颜色。主题颜色也会影响某些浏览器中的标签颜色。"
+
+#: inc/views/settings/metaboxes/social.php:163
+msgid "Theme Color Settings"
+msgstr "主题颜色设置"
+
+#: inc/views/settings/metaboxes/social.php:106
+msgid "WordPress, Discord, Drupal, Squarespace, and many other clients can make use of these scripts."
+msgstr "WordPress、Discord、Drupal、Squarespace和许多其他客户端都可以使用这些脚本。"
+
+#: inc/views/settings/metaboxes/social.php:105
+msgid "Output oEmbed scripts?"
+msgstr "输出oEmbed脚本？"
+
+#: inc/views/templates/settings/settings.php:19
+msgid "This post type is excluded, so this option won't work."
+msgstr "此帖子类型被排除在外，因此此选项不起作用。"
+
+#: inc/classes/bridges/plugintable.class.php:103
+msgid "Get support"
+msgstr "支持"
+
+#: inc/classes/builders/seobar/page.class.php:178
+#: inc/classes/builders/seobar/page.class.php:387
+#: inc/classes/builders/seobar/term.class.php:190
+#: inc/classes/builders/seobar/term.class.php:374
+msgid "Found markup syntax."
+msgstr "找到标记语法。"
+
+#: inc/views/settings/metaboxes/social.php:84
+msgid "Output various meta tags targeted at Facebook."
+msgstr "输出针对Facebook的各种元标签。"
+
+#: inc/views/settings/metaboxes/robots.php:242
+msgctxt "quanity: zero"
+msgid "None, still image only"
+msgstr "不选，仅静止图像"
+
+#: inc/views/settings/metaboxes/robots.php:198
+msgid "This directive also imposes a limit on meta descriptions and structured data, which unintentionally restricts the amount of information you can share. Therefore, it's best to use at least a 320 character limit."
+msgstr "该指令还对元描述和结构化数据施加了限制，这在无意中限制了您可以分享的信息量。因此，最好使用至少320个字符的限制。"
+
+#: inc/views/list/bulk-post.php:71
+#: inc/views/settings/metaboxes/post-type-archive.php:436
+msgid "Default (unknown)"
+msgstr "默认(未知)"
+
+#: inc/views/list/bulk-post.php:70
+msgid "&mdash; No Change &mdash;"
+msgstr "&mdash; 无改变 &mdash;"
+
+#: inc/views/edit/seo-settings-tt.php:349
+msgid "These directives may urge robots not to display, follow links on, or create a cached copy of this term."
+msgstr "这些指令可能会敦促机器人不要显示、访问该术语的链接或创建该术语的缓存副本。"
+
+#: inc/views/edit/seo-settings-tt.php:321 inc/views/list/bulk-post.php:57
+#: inc/views/list/quick-post.php:94 inc/views/list/quick-term.php:94
+msgid "Visibility SEO Settings"
+msgstr "可见性SEO设置"
+
+#: inc/views/edit/seo-settings-tt.php:204
+msgid "Social SEO Settings"
+msgstr "社媒SEO设置"
+
+#: inc/views/edit/seo-settings-tt.php:99 inc/views/list/quick-post.php:57
+#: inc/views/list/quick-term.php:57
+msgid "General SEO Settings"
+msgstr "常规SEO设置"
+
+#: inc/views/edit/seo-settings-singular.php:383
+msgid "Exclude this page from all archive queries on this site."
+msgstr "从本网站上的所有存档查询中排除此页面。"
+
+#: inc/views/edit/seo-settings-singular.php:374
+msgid "Exclude this page from all search queries on this site."
+msgstr "从本网站上的所有搜索查询中排除此页面。"
+
+#. translators: %s = default option value
+#: inc/views/edit/seo-settings-singular.php:334
+#: inc/views/edit/seo-settings-singular.php:342
+#: inc/views/edit/seo-settings-tt.php:365
+#: inc/views/edit/seo-settings-tt.php:374 inc/views/list/quick-post.php:114
+#: inc/views/list/quick-term.php:114
+#: inc/views/settings/metaboxes/post-type-archive.php:443
+msgid "Default (%s)"
+msgstr "默认 (%s)"
+
+#: inc/views/edit/seo-settings-singular.php:306
+msgid "Note: A non-default selection here will overwrite the global homepage SEO settings."
+msgstr "注意：此处的非默认选择将覆盖全局主页SEO设置。"
+
+#: inc/views/edit/seo-settings-singular.php:292
+msgid "These directives may urge robots not to display, follow links on, or create a cached copy of this page."
+msgstr "这些指令可能会敦促机器人不要显示、点击链接或创建此页面的缓存副本。"
+
+#: inc/views/edit/seo-settings-singular.php:249
+#: inc/views/edit/seo-settings-tt.php:75 inc/views/list/bulk-post.php:29
+#: inc/views/list/quick-post.php:29
+#: inc/views/settings/metaboxes/post-type-archive.php:389
+msgid "Link following"
+msgstr "链接跟随"
+
+#: inc/views/edit/seo-settings-singular.php:168
+msgid "For the homepage, this option must be managed on the SEO Settings page."
+msgstr "对于主页，必须在SEO设置页面上管理此选项。"
+
+#: inc/views/settings/metaboxes/title.php:181
+msgid "If the title consists of multiple parts, then the separator will go in-between them."
+msgstr "如果标题由多个部分组成，则分隔符将位于它们之间。"
+
+#: inc/views/settings/metaboxes/feed.php:73
+msgid "View the main feed."
+msgstr "查看主要供稿"
+
+#. translators: %s = Reading Settings URL. Links are in Markdown!
+#: inc/views/settings/metaboxes/feed.php:60
+msgid "Note: The feed is already converted into an excerpt through the [Reading Settings](%s)."
+msgstr "注意：提要已通过[阅读设置](%s)转换为摘录。"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/social.php:410
+msgid "Add `article:modified_time` to posts?"
+msgstr "将`article:published_time`添加到帖子中？"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/social.php:401
+msgid "Add `article:published_time` to posts?"
+msgstr "将`article:published_time`添加到帖子中？"
+
+#: inc/views/settings/metaboxes/social.php:274
+msgid "The Twitter Card type may have the image highlighted, either small at the side or large above."
+msgstr "Twitter卡片类型可能会突出显示图像，无论是侧面小图还是上方大图。"
+
+#: inc/views/settings/metaboxes/social.php:265
+msgid "Twitter post sharing works mostly through Twitter Cards, and may fall back to use Open Graph. However, you can also link your Business and Personal Twitter pages, among various other options."
+msgstr "Twitter帖子分享主要通过Twitter Cards进行，并且可能会回退到使用Open Graph。但是，您还可以链接您的企业和个人Twitter页面，以及其他各种选项。"
+
+#: inc/views/settings/metaboxes/social.php:148
+msgid "When no image is available from the page or term, this fallback image will be used instead."
+msgstr "当页面或术语中没有可用的图像时，将使用此后备图像。"
+
+#: inc/views/settings/metaboxes/social.php:140
+msgid "This enables users to select any image attached to the page shared on social networks, like Facebook."
+msgstr "这使用户可以选择附加到社媒网络 (如Facebook) 上分享的页面的任何图像。"
+
+#: inc/views/settings/metaboxes/social.php:139
+msgid "Output multiple Open Graph image tags?"
+msgstr "输出多个Open Graph图像标签？"
+
+#. translators: %s = Homepage URL markdown
+#: inc/views/settings/metaboxes/homepage.php:520
+msgid "Note: These options may be overwritten by the [page settings](%s)."
+msgstr "注意：这些选项可能会被[页面设置](%s)覆盖。"
+
+#: inc/views/edit/seo-settings-singular.php:302
+#: inc/views/settings/metaboxes/homepage.php:492
+msgid "Warning: No public site should ever apply \"noindex\" or \"nofollow\" to the homepage."
+msgstr "警告：任何公共站点都不应将\"noindex\"或\"nofollow\"应用于主页！"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:481
+msgid "Apply `noarchive` to the homepage?"
+msgstr "将`noarchive`应用到主页？"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:465
+msgid "Apply `nofollow` to the homepage?"
+msgstr "将`nofollow`应用到主页？"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:449
+msgid "Apply `noindex` to the homepage?"
+msgstr "将`noindex`应用到主页？"
+
+#: inc/views/settings/metaboxes/homepage.php:436
+msgid "Overwritten by page settings"
+msgstr "页面设置覆盖"
+
+#: inc/views/edit/seo-settings-singular.php:570
+#: inc/views/edit/seo-settings-tt.php:301
+#: inc/views/settings/metaboxes/homepage.php:397
+#: inc/views/settings/metaboxes/post-type-archive.php:335
+msgid "The social image URL can be used by search engines and social networks alike. It's best to use an image with a 1.91:1 aspect ratio that is at least 1200px wide for universal support."
+msgstr "搜索引擎和社媒网络都可以使用社媒图像网址。最好使用宽高比为1.91:1且宽度至少为1200px的图像以获得普遍支持。"
+
+#: inc/views/settings/metaboxes/homepage.php:105
+msgid "Note: The input value of this field may be used to describe the name of the site elsewhere."
+msgstr "注意：此字段的输入值可用于描述其他地方的站点名称。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:309
+msgid "You can style the optimized sitemap to give it a more personal look for your visitors. Search engines do not use these styles."
+msgstr "您可以为优化后的站点地图设置样式，为访问者提供更个性化的外观。搜索引擎不使用这些样式。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:262
+msgid "This speeds up post and term saving processes, by offsetting pinging to a later time."
+msgstr "这通过将ping延迟到稍后的时间来加快后期和学期保存过程。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:260
+msgid "Use cron for pinging?"
+msgstr "使用cron进行ping操作？"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/sitemaps.php:242
+msgid "Add `<lastmod>` to the sitemap?"
+msgstr "将`<lastmod>`添加到站点地图？"
+
+#: inc/views/settings/metaboxes/sitemaps.php:235
+msgid "The modified time suggests to search engines where to look for content changes first."
+msgstr "修改时间建议搜索引擎首先查找内容更改的位置。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:227
+msgid "View the robots.txt output."
+msgstr "查看robots.txt输出"
+
+#: inc/views/settings/metaboxes/sitemaps.php:210
+msgid "Sitemap Hinting"
+msgstr "网站地图提示"
+
+#: inc/views/settings/metaboxes/sitemaps.php:204
+msgid "The robots.txt output is the first thing search engines look for before crawling your site. If you add the sitemap location in that output, then search engines may automatically access and index the sitemap."
+msgstr "robots.txt输出是搜索引擎在抓取您的网站之前首先要查找的内容。如果您在该输出中添加站点地图位置，则搜索引擎可能会自动访问站点地图并将其编入索引。"
+
+#. translators: 1 = Link to settings, Markdown. 2 = example input, also
+#. markdown! Preserve the Markdown as-is!
+#: inc/views/settings/metaboxes/sitemaps.php:192
+msgid "Change your [Permalink Settings](%1$s). Recommended structure: `%2$s`."
+msgstr "更改您的[固定链接设置](%1$s)。推荐结构：`%2$s`"
+
+#: inc/views/settings/metaboxes/sitemaps.php:186
+msgid "Note: You're using the plain permalink structure; so, no robots.txt file can be generated."
+msgstr "注意：您使用的是普通的永久链接结构；因此，无法生成robots.txt文件。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:112
+msgid "View the base sitemap."
+msgstr "查看基本站点地图"
+
+#: inc/views/settings/metaboxes/sitemaps.php:66
+msgid "The sitemap is an XML file that lists indexable pages of your website along with optional metadata. It helps search engines find new and updated content quickly."
+msgstr "站点地图是一个XML文件，其中列出了您网站的可索引页面以及可选的元数据。它可以帮助搜索引擎快速找到新的和更新的内容。"
+
+#: inc/views/settings/metaboxes/schema.php:271
+msgid "Tumblr Blog"
+msgstr "Tumblr博客"
+
+#: inc/views/settings/metaboxes/schema.php:264
+msgid "SoundCloud Profile"
+msgstr "SoundCloud地址"
+
+#: inc/views/settings/metaboxes/schema.php:257
+msgid "Pinterest Profile"
+msgstr "Pinterest地址"
+
+#: inc/views/settings/metaboxes/schema.php:246
+msgid "LinkedIn Profile"
+msgstr "LinkedIn地址"
+
+#: inc/views/settings/metaboxes/schema.php:239
+msgid "Youtube Profile"
+msgstr "Youtube地址"
+
+#: inc/views/settings/metaboxes/schema.php:232
+msgid "Instagram Profile"
+msgstr "Instagram地址"
+
+#: inc/views/settings/metaboxes/schema.php:225
+msgctxt "Google+ is dead. &#8224; is a cross, indicating that."
+msgid "Google+ Profile&#8224;"
+msgstr "Google+地址"
+
+#: inc/views/settings/metaboxes/schema.php:211
+msgid "Facebook Page"
+msgstr "Facebook地址"
+
+#: inc/views/settings/metaboxes/schema.php:292
+msgid "Add links that lead directly to the connected social pages of this website."
+msgstr "添加直接指向本网站连接的社媒页面的链接。"
+
+#: inc/views/settings/metaboxes/robots.php:279
+msgid "This may limit the video preview length for all videos on this site."
+msgstr "这可能会限制此站点上所有视频的视频预览长度"
+
+#: inc/views/settings/metaboxes/robots.php:275
+msgid "Maximum video preview length"
+msgstr "最大视频预览长度"
+
+#. translators: %d = number
+#: inc/views/settings/metaboxes/robots.php:246
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d 秒"
+
+#: inc/views/settings/metaboxes/robots.php:241
+msgid "Full video preview"
+msgstr "完整视频预览"
+
+#: inc/views/settings/metaboxes/robots.php:231
+msgid "This may limit the image preview size for all images from this site."
+msgstr "这可能会限制来自此站点的所有图像的预览大小"
+
+#: inc/views/settings/metaboxes/robots.php:227
+msgid "Maximum image preview size"
+msgstr "最大图像预览尺寸"
+
+#: inc/views/settings/metaboxes/robots.php:209
+msgid "Large or full size"
+msgstr "大号或全尺寸"
+
+#: inc/views/settings/metaboxes/robots.php:208
+msgid "Thumbnail or standard size"
+msgstr "缩略图或标准尺寸"
+
+#: inc/views/settings/metaboxes/robots.php:207
+msgctxt "quanity: zero"
+msgid "None, disallow preview"
+msgstr "不选，禁止预览"
+
+#: inc/views/settings/metaboxes/robots.php:194
+msgid "This may limit the text snippet length for all pages on this site."
+msgstr "这可能会限制此站点上所有页面的文本片段长度"
+
+#: inc/views/settings/metaboxes/robots.php:190
+msgid "Maximum text snippet length"
+msgstr "最大文本片段长度"
+
+#: inc/views/settings/metaboxes/robots.php:167
+#: inc/views/settings/metaboxes/robots.php:253
+msgid "Granular directive"
+msgstr "颗粒指令"
+
+#: inc/views/settings/metaboxes/robots.php:166
+#: inc/views/settings/metaboxes/robots.php:252
+msgid "Standard directive"
+msgstr "标准指令"
+
+#. translators: %d = number
+#: inc/views/settings/metaboxes/robots.php:160
+msgid "%d character"
+msgid_plural "%d characters"
+msgstr[0] "%d 个字符"
+
+#: inc/views/settings/metaboxes/robots.php:156
+msgctxt "quanity: zero"
+msgid "None, disallow snippet"
+msgstr "不选，禁止片段"
+
+#: inc/views/settings/metaboxes/robots.php:155
+msgid "Unlimited"
+msgstr "无限"
+
+#: inc/views/settings/metaboxes/robots.php:149
+msgid "Specify aggregator copyright compliance directives?"
+msgstr "指定聚合器版权合规性指令？"
+
+#: inc/views/settings/metaboxes/robots.php:144
+msgid "Some search engines allow you to control copyright directives on the content they aggregate. It's best to allow some content to be taken by these aggregators, as that can improve contextualized exposure via snippets and previews. When left unspecified, regional regulations may apply. It is up to the aggregator to honor these requests."
+msgstr "某些搜索引擎允许您控制对它们聚合的内容的版权指令。最好允许这些聚合器获取某些内容，因为这可以通过片段和预览提高上下文曝光率。如果未指定，则可能适用地区法规。由聚合器来满足这些请求。"
+
+#: inc/views/settings/metaboxes/robots.php:143
+msgid "Copyright Directive Settings"
+msgstr "版权指令设置"
+
+#: inc/views/settings/metaboxes/robots.php:24
+msgid "Date archives"
+msgstr "日期存档"
+
+#: inc/views/settings/metaboxes/robots.php:20
+msgid "Author pages"
+msgstr "作者页面"
+
+#: inc/views/settings/metaboxes/general.php:380
+#: inc/views/settings/metaboxes/robots.php:306
+msgid "These settings apply to the post type pages and their terms. When terms are shared between post types, all their post types should be checked for this to have an effect."
+msgstr "这些设置适用于帖子类型页面及其条款。当术语在帖子类型之间分享时，应检查其所有帖子类型以使其生效。"
+
+#. translators: %s = HTTP or HTTPS
+#: inc/views/settings/metaboxes/general.php:263
+msgid "Detect automatically (%s)"
+msgstr "自动检测 (%s)"
+
+#: inc/views/settings/metaboxes/general.php:253
+msgid "If your website is accessible via both HTTP as HTTPS, you may want to set this to HTTPS if not detected automatically. Secure connections are preferred by search engines."
+msgstr "如果您的网站可以通过HTTP和HTTPS访问，如果没有自动检测到，您可能希望将其设置为HTTPS。搜索引擎首选安全连接。"
+
+#: inc/views/settings/metaboxes/general.php:149
+msgctxt "Perform query alteration: On the site"
+msgid "On the site"
+msgstr "在网站上"
+
+#: inc/views/settings/metaboxes/general.php:148
+msgctxt "Perform query alteration: In the database"
+msgid "In the database"
+msgstr "在数据库"
+
+#: inc/views/settings/metaboxes/general.php:81
+msgid "If you have difficulty discerning colors, this may help you spot issues more easily."
+msgstr "如果您难以辨别颜色，这可以帮助您更轻松地发现问题。"
+
+#: inc/views/settings/metaboxes/general.php:80
+msgid "Use symbols for warnings?"
+msgstr "使用符号表示警告？"
+
+#. translators: %s = term name
+#: inc/views/templates/inpost/primary-term-selector.php:31
+msgid "The buttons below are for primary %s selection."
+msgstr "下面的按钮用于主要%s选择。"
+
+#: inc/classes/admin-init.class.php:337
+msgid "Far too long."
+msgstr "太长了！"
+
+#: inc/classes/admin-init.class.php:334
+msgid "Far too short."
+msgstr "太短了！"
+
+#: inc/classes/admin-init.class.php:333
+msgctxt "The string is empty"
+msgid "Empty."
+msgstr "空的！"
+
+#: inc/classes/interpreters/form.class.php:141
+msgid "Click to change the counter type"
+msgstr "单击以更改计数类型"
+
+#: inc/classes/admin-pages.class.php:304 inc/views/notice/persistent.php:23
+msgid "Dismiss this notice"
+msgstr "忽略这个通知"
+
+#: inc/classes/admin-pages.class.php:224
+msgid "An unknown error occurred saving SEO settings."
+msgstr "保存SEO设置时发生未知错误。"
+
+#: inc/classes/admin-pages.class.php:219
+msgid "SEO settings are reset, and the caches have been flushed."
+msgstr "SEO设置已重置，缓存已刷新。"
+
+#: inc/classes/admin-pages.class.php:214
+msgid "No SEO settings were changed, but the caches have been flushed."
+msgstr "没有更改SEO设置，但已刷新缓存。"
+
+#: inc/classes/admin-pages.class.php:209
+msgid "SEO settings are saved, and the caches have been flushed."
+msgstr "SEO设置已保存，缓存已刷新。"
+
+#: inc/classes/interpreters/seobar.class.php:374
+msgid "Assessments"
+msgstr "评估"
+
+#: inc/classes/interpreters/seobar.class.php:373
+msgid "Assessment"
+msgstr "评估"
+
+#: inc/classes/builders/seobar/term.class.php:944
+msgid "Term redirects visitors."
+msgstr "术语重定向访问者。"
+
+#: inc/classes/builders/seobar/term.class.php:928
+msgid "Term does not redirect visitors."
+msgstr "术语不会重定向访问者。"
+
+#: inc/classes/builders/seobar/term.class.php:836
+msgid "Term may not be archived."
+msgstr "术语不得存档。"
+
+#: inc/classes/builders/seobar/term.class.php:827
+msgid "Term may be archived."
+msgstr "术语可以存档。"
+
+#: inc/classes/builders/seobar/term.class.php:817
+msgid "The term may not be indexed, this may also discourage archiving."
+msgstr "该术语可能未编入索引，这也可能不利于存档。"
+
+#: inc/classes/builders/seobar/term.class.php:816
+msgid "The term SEO meta input overrides the archiving state."
+msgstr "术语SEO元输入覆盖存档状态。"
+
+#: inc/classes/builders/seobar/term.class.php:815
+msgid "Archiving is discouraged for this taxonomy at the SEO Settings screen."
+msgstr "不建议在SEO设置屏幕上对此分类进行存档。"
+
+#: inc/classes/builders/seobar/term.class.php:814
+msgid "Archiving is discouraged for all bound post types to this term at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上将此术语的所有绑定帖子类型存档。"
+
+#: inc/classes/builders/seobar/term.class.php:719
+msgid "Term links may not be followed."
+msgstr "不得遵循术语链接。"
+
+#: inc/classes/builders/seobar/term.class.php:710
+msgid "Term links may be followed."
+msgstr "可以遵循术语链接。"
+
+#: inc/classes/builders/seobar/term.class.php:700
+msgid "The term may not be indexed, this may also discourage link following."
+msgstr "该术语可能未编入索引，这也可能会阻止链接跟随。"
+
+#: inc/classes/builders/seobar/term.class.php:699
+msgid "The term SEO meta input overrides the link following state."
+msgstr "术语SEO元输入覆盖链接跟随状态。"
+
+#: inc/classes/builders/seobar/term.class.php:698
+msgid "Link following is discouraged for this taxonomy at the SEO Settings screen."
+msgstr "在SEO设置屏幕上不鼓励此分类法的链接跟随。"
+
+#: inc/classes/builders/seobar/term.class.php:697
+msgid "Link following is discouraged for all bound post types to this term at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上针对此术语的所有绑定帖子类型使用链接跟踪。"
+
+#: inc/classes/builders/seobar/term.class.php:573
+msgid "Term may not be indexed."
+msgstr "术语可能不会被索引。"
+
+#: inc/classes/builders/seobar/term.class.php:564
+msgid "Term may be indexed."
+msgstr "术语可以被索引。"
+
+#: inc/classes/builders/seobar/term.class.php:556
+msgid "The term is empty yet still indexed."
+msgstr "该术语为空但仍被索引。"
+
+#: inc/classes/builders/seobar/term.class.php:555
+msgid "The term is empty."
+msgstr "这个词是空的。"
+
+#: inc/classes/builders/seobar/term.class.php:550
+msgid "No posts are attached to this term, so indexing should be disabled."
+msgstr "该术语没有附加任何帖子，因此应禁用索引。"
+
+#: inc/classes/builders/seobar/term.class.php:549
+msgid "No posts are attached to this term, so indexing is disabled."
+msgstr "该术语没有附加任何帖子，因此索引被禁用。"
+
+#: inc/classes/builders/seobar/term.class.php:548
+msgid "The term SEO meta input overrides the indexing state."
+msgstr "术语SEO元输入覆盖索引状态。"
+
+#: inc/classes/builders/seobar/term.class.php:547
+msgid "Indexing is discouraged for this taxonomy at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上为此分类法建立索引。"
+
+#: inc/classes/builders/seobar/term.class.php:546
+msgid "Indexing is discouraged for all bound post types to this term at the SEO Settings screen."
+msgstr "在SEO设置屏幕上，不鼓励对该术语的所有绑定帖子类型进行索引。"
+
+#: inc/classes/builders/seobar/term.class.php:392
+msgid "No term description is set."
+msgstr "未设置术语描述。"
+
+#: inc/classes/builders/seobar/term.class.php:383
+msgid "It's built from the term description field."
+msgstr "它是从术语描述字段构建的。"
+
+#: inc/classes/builders/seobar/term.class.php:365
+msgid "No description could be generated."
+msgstr "无法生成描述。"
+
+#: inc/classes/builders/seobar/term.class.php:208
+msgid "It's built from term SEO meta input."
+msgstr "它是根据术语SEO元输入构建的。"
+
+#: inc/classes/builders/seobar/term.class.php:206
+msgid "Obtained from term SEO meta input."
+msgstr "从术语SEO元输入中获得。"
+
+#: inc/classes/builders/seobar/term.class.php:177
+msgid "A term label prefix is automatically added which increases the length."
+msgstr "自动添加术语标签前缀以增加长度。"
+
+#: inc/classes/builders/seobar/page.class.php:1017
+#: inc/classes/builders/seobar/term.class.php:946
+msgid "All visitors and crawlers are being redirected. So, no other SEO enhancements are effective."
+msgstr "所有访问者和爬虫都被重定向。因此，没有其他SEO增强功能是有效的。"
+
+#: inc/classes/builders/seobar/page.class.php:1015
+msgid "Page redirects visitors."
+msgstr "页面重定向访问者。"
+
+#: inc/classes/builders/seobar/term.class.php:930
+msgid "All visitors and crawlers may access this page."
+msgstr "所有访问者和爬虫都可以访问此页面。"
+
+#: inc/classes/builders/seobar/page.class.php:994
+msgid "Page does not redirect visitors."
+msgstr "页面不会重定向访问者。"
+
+#: inc/classes/builders/seobar/page.class.php:992
+#: inc/classes/builders/seobar/page.class.php:1013
+#: inc/classes/builders/seobar/term.class.php:926
+#: inc/classes/builders/seobar/term.class.php:942
+msgid "Redirection"
+msgstr "重定向"
+
+#: inc/classes/builders/seobar/page.class.php:940
+msgid "Archiving is discouraged for the homepage at the SEO Settings screen."
+msgstr "不建议在SEO设置屏幕上对主页进行存档。"
+
+#: inc/classes/builders/seobar/page.class.php:888
+#: inc/classes/builders/seobar/term.class.php:838
+msgid "The robots meta tag does not allow archiving."
+msgstr "机器人元标记不允许存档。"
+
+#: inc/classes/builders/seobar/page.class.php:886
+msgid "Page may not be archived."
+msgstr "页面可能不会被存档。"
+
+#: inc/classes/builders/seobar/page.class.php:879
+#: inc/classes/builders/seobar/term.class.php:829
+msgid "The robots meta tag allows archiving."
+msgstr "机器人元标记允许存档。"
+
+#: inc/classes/builders/seobar/page.class.php:877
+msgid "Page may be archived."
+msgstr "页面可能已存档。"
+
+#: inc/classes/builders/seobar/page.class.php:874
+#: inc/classes/builders/seobar/page.class.php:883
+#: inc/classes/builders/seobar/page.class.php:892
+#: inc/classes/builders/seobar/term.class.php:824
+#: inc/classes/builders/seobar/term.class.php:833
+msgctxt "Archiving"
+msgid "A"
+msgstr "存档"
+
+#: inc/classes/builders/seobar/page.class.php:866
+msgid "The page may not be indexed, this may also discourage archiving."
+msgstr "该页面可能未编入索引，这也可能不利于存档。"
+
+#: inc/classes/builders/seobar/page.class.php:865
+msgid "The page SEO meta input overrides the archiving state."
+msgstr "页面SEO元输入覆盖存档状态。"
+
+#: inc/classes/builders/seobar/page.class.php:864
+msgid "Archiving is discouraged for this post type at the SEO Settings screen."
+msgstr "不建议在SEO设置屏幕上对这种帖子类型进行存档。"
+
+#: inc/classes/builders/seobar/page.class.php:863
+#: inc/classes/builders/seobar/term.class.php:813
+msgid "Archiving is discouraged for the whole site at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上对整个站点进行存档。"
+
+#: inc/classes/builders/seobar/page.class.php:809
+msgid "Link following is discouraged for the homepage at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上的主页上使用链接。"
+
+#: inc/classes/builders/seobar/page.class.php:757
+#: inc/classes/builders/seobar/term.class.php:721
+msgid "The robots meta tag does not allow link following."
+msgstr "机器人元标记不允许链接跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:755
+msgid "Page links may not be followed."
+msgstr "页面链接可能不会被跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:748
+#: inc/classes/builders/seobar/term.class.php:712
+msgid "The robots meta tag allows link following."
+msgstr "机器人元标记允许链接跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:746
+msgid "Page links may be followed."
+msgstr "页面链接可以跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:743
+#: inc/classes/builders/seobar/page.class.php:752
+#: inc/classes/builders/seobar/page.class.php:761
+#: inc/classes/builders/seobar/term.class.php:707
+#: inc/classes/builders/seobar/term.class.php:716
+msgctxt "Following"
+msgid "F"
+msgstr "跟随"
+
+#: inc/classes/builders/seobar/page.class.php:735
+msgid "The page may not be indexed, this may also discourage link following."
+msgstr "该页面可能未编入索引，这也可能会阻止链接跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:734
+msgid "The page SEO meta input overrides the link following state."
+msgstr "页面SEO元输入覆盖链接跟随状态。"
+
+#: inc/classes/builders/seobar/page.class.php:733
+msgid "Link following is discouraged for this post type at the SEO Settings screen."
+msgstr "在SEO设置屏幕上不鼓励此帖子类型的链接跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:732
+#: inc/classes/builders/seobar/term.class.php:696
+msgid "Link following is discouraged for the whole site at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上对整个站点进行链接跟随。"
+
+#: inc/classes/builders/seobar/page.class.php:667
+msgid "Indexing is discouraged for the homepage at the SEO Settings screen."
+msgstr "不鼓励在SEO设置屏幕上对主页进行索引！"
+
+#: inc/classes/builders/seobar/page.class.php:612
+#: inc/classes/builders/seobar/page.class.php:766
+#: inc/classes/builders/seobar/page.class.php:897
+msgid "This page isn't published and can't be found publicly."
+msgstr "此页面未发布，也无法公开找到！"
+
+#: inc/classes/builders/seobar/page.class.php:610
+#: inc/classes/builders/seobar/page.class.php:764
+#: inc/classes/builders/seobar/page.class.php:895
+msgid "Page is invisible."
+msgstr "页面不可见！"
+
+#: inc/classes/builders/seobar/page.class.php:603
+#: inc/classes/builders/seobar/term.class.php:575
+msgid "The robots meta tag does not allow indexing."
+msgstr "机器人元标记不允许索引。"
+
+#: inc/classes/builders/seobar/page.class.php:601
+msgid "Page may not be indexed."
+msgstr "页面可能不会被索引。"
+
+#: inc/classes/builders/seobar/page.class.php:594
+#: inc/classes/builders/seobar/term.class.php:566
+msgid "The robots meta tag allows indexing."
+msgstr "机器人元标记允许索引。"
+
+#: inc/classes/builders/seobar/page.class.php:592
+msgid "Page may be indexed."
+msgstr "页面可以被索引。"
+
+#: inc/classes/builders/seobar/page.class.php:589
+#: inc/classes/builders/seobar/page.class.php:598
+#: inc/classes/builders/seobar/page.class.php:607
+#: inc/classes/builders/seobar/term.class.php:561
+#: inc/classes/builders/seobar/term.class.php:570
+msgctxt "Indexing"
+msgid "I"
+msgstr "索引"
+
+#: inc/classes/builders/seobar/page.class.php:585
+#: inc/classes/builders/seobar/term.class.php:557
+msgid "The canonical URL points to another page."
+msgstr "规范URL指向另一个页面。"
+
+#: inc/classes/builders/seobar/page.class.php:584
+#: inc/classes/builders/seobar/page.class.php:739
+#: inc/classes/builders/seobar/page.class.php:870
+msgid "The page is not published."
+msgstr "该页面未发布。"
+
+#: inc/classes/builders/seobar/page.class.php:583
+msgid "The page is protected."
+msgstr "该页面受保护。"
+
+#: inc/classes/builders/seobar/page.class.php:582
+#: inc/classes/builders/seobar/page.class.php:738
+#: inc/classes/builders/seobar/page.class.php:869
+#: inc/classes/builders/seobar/term.class.php:554
+#: inc/classes/builders/seobar/term.class.php:703
+#: inc/classes/builders/seobar/term.class.php:820
+msgid "WordPress overrides the robots directive."
+msgstr "WordPress会覆盖robots指令。"
+
+#: inc/classes/builders/seobar/page.class.php:579
+#: inc/classes/builders/seobar/term.class.php:551
+msgid "A custom canonical URL is set that points to another page."
+msgstr "设置了指向另一个页面的自定义规范URL"
+
+#: inc/classes/builders/seobar/page.class.php:578
+msgid "The page SEO meta input overrides the indexing state."
+msgstr "页面SEO元输入覆盖索引状态。"
+
+#: inc/classes/builders/seobar/page.class.php:577
+msgid "The page is protected, so indexing is discouraged."
+msgstr "该页面受到保护，因此不鼓励编制索引。"
+
+#: inc/classes/builders/seobar/page.class.php:576
+msgid "Indexing is discouraged for this post type at the SEO Settings screen."
+msgstr "不建议在SEO设置屏幕上对这种帖子类型进行索引。"
+
+#: inc/classes/builders/seobar/page.class.php:575
+#: inc/classes/builders/seobar/term.class.php:545
+msgid "Indexing is discouraged for the whole site at the SEO Settings screen."
+msgstr "在SEO设置屏幕上不鼓励对整个站点进行索引。"
+
+#: inc/classes/builders/seobar/page.class.php:574
+#: inc/classes/builders/seobar/page.class.php:731
+#: inc/classes/builders/seobar/page.class.php:862
+#: inc/classes/builders/seobar/term.class.php:544
+#: inc/classes/builders/seobar/term.class.php:695
+#: inc/classes/builders/seobar/term.class.php:812
+msgid "WordPress discourages crawling via the Reading Settings."
+msgstr "WordPress不鼓励通过阅读设置进行抓取。"
+
+#: inc/classes/builders/seobar/page.class.php:573
+#: inc/classes/builders/seobar/page.class.php:730
+#: inc/classes/builders/seobar/page.class.php:861
+#: inc/classes/builders/seobar/term.class.php:543
+#: inc/classes/builders/seobar/term.class.php:694
+#: inc/classes/builders/seobar/term.class.php:811
+msgid "The robots.txt file is nonstandard, and may still direct search engines differently."
+msgstr "robots.txt文件是非标准的，并且可能仍然以不同的方式引导搜索引擎。"
+
+#. translators: 1: Word found, 2: Occurrences
+#: inc/classes/builders/seobar/page.class.php:495
+#: inc/classes/builders/seobar/term.class.php:464
+msgid "&#8220;%1$s&#8221; is used %2$d times."
+msgstr "&#8220;%1$s&#8221; 已使用%2$d次"
+
+#: inc/classes/builders/seobar/page.class.php:435
+msgid "The description inputted at the Edit Page screen is used."
+msgstr "使用在编辑页面屏幕输入的描述。"
+
+#: inc/classes/builders/seobar/page.class.php:433
+msgid "The description inputted at the SEO Settings screen is used."
+msgstr "使用在SEO设置屏幕上输入的描述。"
+
+#: inc/classes/builders/seobar/page.class.php:405
+msgid "No page description is set."
+msgstr "没有设置页面描述。"
+
+#: inc/classes/builders/seobar/page.class.php:396
+msgid "It's built from the page content."
+msgstr "它是从页面内容构建的。"
+
+#: inc/classes/builders/seobar/page.class.php:392
+#: inc/classes/builders/seobar/term.class.php:379
+msgid "Description, generated"
+msgstr "描述，生成"
+
+#: inc/classes/builders/seobar/page.class.php:391
+#: inc/classes/builders/seobar/term.class.php:378
+msgctxt "Description Generated"
+msgid "DG"
+msgstr "描述"
+
+#: inc/classes/builders/seobar/page.class.php:384
+#: inc/classes/builders/seobar/page.class.php:403
+#: inc/classes/builders/seobar/term.class.php:371
+#: inc/classes/builders/seobar/term.class.php:390
+msgid "Empty."
+msgstr "空的。"
+
+#: inc/classes/builders/seobar/page.class.php:377
+msgid "The page is protected, so no description is generated."
+msgstr "该页面受保护，因此不会生成任何描述。"
+
+#: inc/classes/builders/seobar/page.class.php:375
+msgid "There is no usable content, so no description could be generated."
+msgstr "没有可用的内容，因此无法生成描述。"
+
+#: inc/classes/builders/seobar/page.class.php:217
+msgid "The title inputted at the Edit Page screen is used."
+msgstr "使用在编辑页面屏幕输入的标题。"
+
+#: inc/classes/builders/seobar/page.class.php:215
+msgid "The title inputted at the SEO Settings screen is used."
+msgstr "使用在SEO设置屏幕输入的标题。"
+
+#: inc/classes/builders/seobar/page.class.php:196
+msgid "It's built from page SEO meta input."
+msgstr "它是根据页面SEO元输入构建的。"
+
+#: inc/classes/builders/seobar/page.class.php:194
+msgid "Obtained from page SEO meta input."
+msgstr "从页面SEO元输入中获取。"
+
+#: inc/classes/builders/seobar/page.class.php:234
+msgid "It's built using the site title."
+msgstr "它是使用站点标题构建的。"
+
+#: inc/classes/builders/seobar/page.class.php:185
+#: inc/classes/builders/seobar/page.class.php:394
+#: inc/classes/builders/seobar/term.class.php:197
+#: inc/classes/builders/seobar/term.class.php:381
+msgid "Automatically generated."
+msgstr "自动生成。"
+
+#: inc/classes/builders/seobar/page.class.php:183
+#: inc/classes/builders/seobar/term.class.php:195
+msgid "Title, generated"
+msgstr "标题，生成"
+
+#: inc/classes/builders/seobar/page.class.php:182
+#: inc/classes/builders/seobar/term.class.php:194
+msgctxt "Title Generated"
+msgid "TG"
+msgstr "标题"
+
+#: inc/classes/builders/seobar/page.class.php:177
+#: inc/classes/builders/seobar/term.class.php:189
+msgid "Not branded."
+msgstr "没有品牌。"
+
+#: inc/classes/builders/seobar/page.class.php:175
+#: inc/classes/builders/seobar/term.class.php:187
+msgid "Incomplete."
+msgstr "不够完整。"
+
+#: inc/classes/builders/seobar/page.class.php:171
+#: inc/classes/builders/seobar/term.class.php:183
+msgid "The site title is found multiple times."
+msgstr "网站标题被发现多次。"
+
+#: inc/classes/builders/seobar/page.class.php:169
+#: inc/classes/builders/seobar/term.class.php:181
+msgid "It's automatically branded."
+msgstr "它是自动标记的。"
+
+#: inc/classes/builders/seobar/page.class.php:168
+#: inc/classes/builders/seobar/term.class.php:180
+msgid "It's manually branded."
+msgstr "它是手动标记的。"
+
+#: inc/classes/builders/seobar/page.class.php:165
+msgid "A page protection state is added which increases the length."
+msgstr "添加了页面保护状态，从而增加了长度。"
+
+#. translators: %s = "Untitled"
+#: inc/classes/builders/seobar/page.class.php:162
+#: inc/classes/builders/seobar/term.class.php:174
+msgid "No title could be fetched, \"%s\" is used instead."
+msgstr "无法获取标题，而是使用\"%s\""
+
+#: inc/classes/builders/seobar/page.class.php:159
+#: inc/classes/builders/seobar/term.class.php:171
+msgid "No title could be fetched."
+msgstr "无法获取标题。"
+
+#: inc/classes/builders/seobar/page.class.php:156
+#: inc/classes/builders/seobar/page.class.php:367
+#: inc/classes/builders/seobar/term.class.php:168
+#: inc/classes/builders/seobar/term.class.php:357
+msgid "Estimated from the number of characters found. The pixel counter asserts the true length."
+msgstr "根据找到的字符数估计。像素计数断言真实长度。"
+
+#. translators: 1 = An assessment, 2 = Disclaimer, e.g. "take it with a grain
+#. of salt"
+#: inc/classes/builders/seobar/page.class.php:155
+#: inc/classes/builders/seobar/page.class.php:366
+#: inc/classes/builders/seobar/term.class.php:167
+#: inc/classes/builders/seobar/term.class.php:356
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: bootstrap/upgrade.php:713
+msgid "The positions in the \"Meta Title Additions Location\" setting for the homepage have been reversed, left to right, but the output has not been changed. If you must downgrade for some reason, remember to switch the location back again."
+msgstr "主页的\"元标题添加位置\"设置中的位置已从左到右颠倒，但输出未更改。如果由于某种原因必须降级，请记住再次切换回位置。"
+
+#: bootstrap/upgrade.php:700
+msgid "A cronjob is now used to ping search engines, and it alerts them to changes in your sitemap."
+msgstr "现在使用cronjob来ping搜索引擎，它会提醒他们注意站点地图的变化。"
+
+#. translators: %s = Version number, surrounded in markdown-backticks.
+#: bootstrap/upgrade.php:417
+msgid "Thank you for updating The SEO Framework! Your website has been upgraded successfully to use The SEO Framework at database version `%s`."
+msgstr "感谢您更新SEO框架！您的网站已成功升级为使用数据库版本“%s”的SEO框架。"
+
+#. Author of the plugin
+msgid "The SEO Framework Team"
+msgstr "SEO框架团队"
+
+#: inc/classes/bridges/plugintable.class.php:125
+msgctxt "Extension Manager is a product name; do not translate it."
+msgid "Get Extension Manager"
+msgstr "获取扩展"
+
+#: inc/classes/bridges/plugintable.class.php:117
+msgid "View API docs"
+msgstr "查看API文档"
+
+#: inc/classes/bridges/plugintable.class.php:110
+msgid "View documentation"
+msgstr "查看文档"
+
+#. translators: %s = term name
+#: inc/classes/bridges/scripts.class.php:763
+msgid "Select Primary %s"
+msgstr "选择主要 %s"
+
+#. translators: URLs are in Markdown.
+#: inc/views/sitemap/xsl/footer.php:18
+msgid "Generated by [The SEO Framework](https://theseoframework.com/)"
+msgstr "由[SEO框架](https://theseoframework.com/)生成"
+
+#: inc/views/profile/author.php:47
+msgid "This may be shown publicly."
+msgstr "这可能会公开显示。"
+
+#: inc/views/settings/metaboxes/webmaster.php:27
+msgid "Google Search Console Verification Code"
+msgstr "谷歌搜索控制台验证码"
+
+#: inc/views/settings/metaboxes/title.php:312
+msgid "Archive Title Prefixes"
+msgstr "存档标题前缀"
+
+#: inc/views/settings/metaboxes/title.php:227
+msgid "Tip: It is a bad practice to style page titles with HTML as inconsistent behavior might occur."
+msgstr "提示：使用HTML设置页面标题的样式是一种不好的做法，因为可能会出现不一致的行为。"
+
+#: inc/views/settings/metaboxes/title.php:221
+msgid "Strip HTML tags from generated titles?"
+msgstr "从生成的标题中去除HTML标签？"
+
+#: inc/views/settings/metaboxes/social.php:238
+msgid "Facebook Author Fallback Page"
+msgstr "Facebook作者后备页面"
+
+#: inc/views/settings/metaboxes/social.php:226
+msgid "Only Facebook Business Pages are accepted."
+msgstr "仅接受Facebook商业页面"
+
+#: inc/views/settings/metaboxes/social.php:222
+msgid "Facebook Publisher page"
+msgstr "Facebook发布者页面"
+
+#: inc/views/settings/metaboxes/social.php:193
+msgctxt "Example Facebook Business URL"
+msgid "https://www.facebook.com/YourBusinessProfile"
+msgstr "https://www.facebook.com/YourBusinessProfile"
+
+#: inc/views/settings/metaboxes/social.php:99
+msgid "Note: Another Twitter Card plugin has been detected. These meta tags might conflict."
+msgstr "注意：已检测到另一个Twitter Card插件。这些元标记可能会发生冲突。"
+
+#: inc/views/settings/metaboxes/social.php:77
+msgid "Note: Another Open Graph plugin has been detected. These meta tags might conflict."
+msgstr "注意：已检测到另一个Open Graph插件。这些元标签可能会发生冲突。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:310
+msgid "Note: Changes may not appear to have an effect directly because the stylesheet is cached in the browser for 30 minutes."
+msgstr "注意：更改可能不会直接产生效果，因为样式表在浏览器中缓存了30分钟。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:175
+msgid "Note: A robots.txt file has been detected in the root folder of your website. This means these settings have no effect."
+msgstr "注意：已在您网站的根文件夹中检测到robots.txt文件。这意味着这些设置无效。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:164
+msgid "Consider lowering this value when the sitemap shows a white screen or notifies you of memory exhaustion."
+msgstr "当站点地图显示白屏或通知您内存耗尽时，请考虑降低此值。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:153
+msgid "Sitemap Query Limit"
+msgstr "站点地图查询限制"
+
+#: inc/views/settings/metaboxes/sitemaps.php:82
+msgid "Note: Another active sitemap plugin has been detected. This means that the sitemap functionality has been superseded and these settings have no effect."
+msgstr "注意：已检测到另一个活动的站点地图插件。这意味着站点地图功能已被取代，这些设置无效。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:33
+msgid "Metadata"
+msgstr "元数据"
+
+#: inc/views/settings/metaboxes/schema.php:22
+msgid "Another Schema.org plugin has been detected. These markup settings might conflict."
+msgstr "已检测到另一个Schema.org插件。这些标记设置可能会发生冲突。"
+
+#: inc/views/settings/metaboxes/robots.php:310
+msgid "Warning: No site should enable these options for Posts and Pages."
+msgstr "警告：任何网站都不应为帖子和页面启用这些选项。"
+
+#: inc/views/settings/metaboxes/robots.php:391
+msgid "Warning: No public site should ever enable this option."
+msgstr "警告：任何公共站点都不应启用此项。"
+
+#: inc/views/settings/metaboxes/homepage.php:226
+msgid "Add Meta Title Additions to the homepage title?"
+msgstr "将元标题添加到主页标题？"
+
+#: inc/views/settings/metaboxes/homepage.php:236
+msgid "Meta Title Additions Location"
+msgstr "元标题附加位置"
+
+#: inc/views/settings/metaboxes/homepage.php:169
+#: inc/views/settings/metaboxes/homepage.php:342
+#: inc/views/settings/metaboxes/homepage.php:383
+msgid "Note: The description placeholder is fetched from the Page SEO Settings on the homepage."
+msgstr "注意：描述占位符是从主页上的页面SEO设置中获取的。"
+
+#: inc/views/settings/metaboxes/homepage.php:108
+#: inc/views/settings/metaboxes/homepage.php:322
+#: inc/views/settings/metaboxes/homepage.php:363
+msgid "Note: The title placeholder is fetched from the Page SEO Settings on the homepage."
+msgstr "注意：标题占位符是从主页上的页面SEO设置中获取的。"
+
+#: inc/views/settings/metaboxes/homepage.php:214
+msgid "Meta Title Additions"
+msgstr "元标题附加"
+
+#: inc/views/settings/metaboxes/robots.php:305
+msgid "Post Type Settings"
+msgstr "帖子类型设置"
+
+#: inc/views/settings/metaboxes/description.php:42
+msgid "Automatically generate descriptions?"
+msgstr "自动生成描述？"
+
+#: inc/views/settings/metaboxes/description.php:30
+msgid "Open Graph and Twitter Cards require descriptions. Therefore, it is best to leave this option enabled."
+msgstr "Open Graph和Twitter Cards需要描述。因此，最好启用此项。"
+
+#: inc/views/settings/metaboxes/description.php:27
+msgid "A description can be automatically generated for every page."
+msgstr "可以为每个页面自动生成描述。"
+
+#: inc/views/settings/metaboxes/description.php:17
+msgid "Description Settings"
+msgstr "描述设置"
+
+#: inc/views/edit/seo-settings-tt.php:92
+#: inc/views/settings/metaboxes/post-type-archive.php:406
+msgid "This tells search engines not to save a cached copy of this term."
+msgstr "这将告诉搜索引擎不要保存该术语的缓存副本。"
+
+#: inc/views/edit/seo-settings-tt.php:79
+#: inc/views/settings/metaboxes/post-type-archive.php:394
+msgid "This tells search engines not to follow links on this term."
+msgstr "这将告诉搜索引擎不要关注这个词的链接。"
+
+#: inc/views/edit/seo-settings-tt.php:66
+#: inc/views/settings/metaboxes/post-type-archive.php:382
+msgid "This tells search engines not to show this term in their search results."
+msgstr "这将告诉搜索引擎不要在他们的搜索结果中显示这个词。"
+
+#: inc/views/edit/seo-settings-singular.php:566
+#: inc/views/edit/seo-settings-tt.php:297
+#: inc/views/settings/metaboxes/homepage.php:394
+#: inc/views/settings/metaboxes/post-type-archive.php:332
+msgid "Social Image URL"
+msgstr "社媒图像网址"
+
+#: inc/views/edit/seo-settings-singular.php:397
+#: inc/views/edit/seo-settings-tt.php:386 inc/views/list/quick-post.php:127
+#: inc/views/list/quick-term.php:127
+#: inc/views/settings/metaboxes/post-type-archive.php:454
+msgid "301 Redirect URL"
+msgstr "301重定向网址"
+
+#: inc/views/edit/seo-settings-singular.php:267
+#: inc/views/edit/seo-settings-tt.php:328 inc/views/list/quick-post.php:97
+#: inc/views/list/quick-term.php:97
+#: inc/views/settings/metaboxes/post-type-archive.php:357
+msgid "Canonical URL"
+msgstr "规范网址"
+
+#: inc/views/edit/seo-settings-singular.php:175
+#: inc/views/edit/seo-settings-tt.php:160
+#: inc/views/settings/metaboxes/post-type-archive.php:200
+msgid "Use this when you want to rearrange the title parts manually."
+msgstr "当您想手动重新排列标题部分时使用此项。"
+
+#: inc/views/edit/seo-settings-singular.php:121
+#: inc/views/edit/seo-settings-tt.php:122
+#: inc/views/settings/metaboxes/homepage.php:70
+#: inc/views/settings/metaboxes/post-type-archive.php:156
+msgid "The meta title can be used to determine the title used on search engine result pages."
+msgstr "元标题可用于确定搜索引擎结果页面上使用的标题"
+
+#: inc/views/edit/seo-settings-singular.php:117
+#: inc/views/edit/seo-settings-tt.php:118 inc/views/list/quick-post.php:60
+#: inc/views/list/quick-term.php:60
+#: inc/views/settings/metaboxes/homepage.php:66
+#: inc/views/settings/metaboxes/post-type-archive.php:152
+msgid "Meta Title"
+msgstr "元标题"
+
+#: inc/views/profile/author.php:21
+msgid "Twitter profile name"
+msgstr "Twitter名称"
+
+#. translators: %s: Page number.
+#: inc/classes/generate-title.class.php:1295
+msgid "Page %s"
+msgstr "页面 %s"
+
+#. translators: %s: search phrase
+#: inc/classes/generate-title.class.php:1178
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "搜索结果用于 &#8220;%s&#8221;"
+
+#. translators: %s = Blog page title. Front-end output.
+#: inc/classes/generate-description.class.php:784
+msgid "Latest posts: %s"
+msgstr "最新帖子：%s"
+
+#: inc/classes/admin-pages.class.php:245
+msgid "Multiple SEO tools have been detected. You should only use one."
+msgstr "已检测到多个SEO工具。你应该只使用一个。"
+
+#: inc/classes/bridges/seosettings.class.php:137
+msgid "Schema.org Settings"
+msgstr "Schema.org设置"
+
+#: inc/classes/admin-init.class.php:328
+msgid "Too long"
+msgstr "太长"
+
+#: inc/classes/admin-init.class.php:327
+msgid "Too short"
+msgstr "太短"
+
+#: inc/classes/admin-init.class.php:325
+msgctxt "The string is empty"
+msgid "Empty"
+msgstr "空的"
+
+#: inc/classes/admin-init.class.php:321
+msgid "It's too long and it will get truncated in search."
+msgstr "太长了，它会在搜索中被截断！"
+
+#: inc/classes/admin-init.class.php:320
+msgid "It's long and it might get truncated in search."
+msgstr "很长，可能会在搜索中被截断。"
+
+#: inc/classes/admin-init.class.php:319
+msgid "It's short and it could have more information."
+msgstr "很短，可以包含更多信息。"
+
+#: inc/classes/admin-init.class.php:318
+msgid "It's too short and it should have more information."
+msgstr "太短了，应该有更多的信息。"
+
+#: inc/classes/admin-init.class.php:317
+msgid "There's no content."
+msgstr "没有内容。"
+
+#: inc/views/settings/metaboxes/schema.php:293
+msgid "These settings do not affect sharing behavior with the social networks."
+msgstr "这些设置不会影响与社媒网络的分享行为。"
+
+#: inc/views/edit/seo-settings-singular.php:536
+#: inc/views/edit/seo-settings-tt.php:282
+#: inc/views/settings/metaboxes/homepage.php:370
+#: inc/views/settings/metaboxes/post-type-archive.php:317
+msgid "Twitter Description"
+msgstr "推特描述"
+
+#: inc/views/edit/seo-settings-singular.php:517
+#: inc/views/edit/seo-settings-tt.php:265
+#: inc/views/settings/metaboxes/homepage.php:350
+#: inc/views/settings/metaboxes/post-type-archive.php:304
+msgid "Twitter Title"
+msgstr "推特标题"
+
+#: inc/views/edit/seo-settings-singular.php:500
+#: inc/views/edit/seo-settings-tt.php:250
+#: inc/views/settings/metaboxes/homepage.php:329
+#: inc/views/settings/metaboxes/post-type-archive.php:289
+msgid "Open Graph Description"
+msgstr "Open Graph描述"
+
+#: inc/views/edit/seo-settings-singular.php:481
+#: inc/views/edit/seo-settings-tt.php:233
+#: inc/views/settings/metaboxes/homepage.php:309
+#: inc/views/settings/metaboxes/post-type-archive.php:276
+msgid "Open Graph Title"
+msgstr "Open Graph标题"
+
+#: inc/views/profile/author.php:30
+msgid "Authorial Info"
+msgstr "作者信息"
+
+#: inc/views/settings/metaboxes/title.php:179
+msgid "Title Separator"
+msgstr "标题分隔符"
+
+#: inc/views/settings/metaboxes/social.php:390
+msgid "Some social sites output the shared post's publishing and modified data in the sharing snippet."
+msgstr "一些社媒网站在分享片段中输出分享帖子的发布和修改数据。"
+
+#: inc/views/settings/metaboxes/social.php:329
+msgid "Twitter Author Fallback Profile"
+msgstr "Twitter作者后备资料"
+
+#: inc/views/settings/metaboxes/social.php:313
+msgid "Website Twitter Profile"
+msgstr "网站Twitter个人资料"
+
+#: inc/views/settings/metaboxes/social.php:248
+#: inc/views/settings/metaboxes/social.php:339
+msgid "Authors can override this option on their profile page."
+msgstr "作者可以在他们的个人资料页面上覆盖此选项"
+
+#: inc/views/settings/metaboxes/schema.php:317
+msgid "View your profile."
+msgstr "查看您的个人资料。"
+
+#: inc/views/settings/metaboxes/schema.php:290
+msgid "Connected Social Pages"
+msgstr "连接的社媒"
+
+#: inc/views/settings/metaboxes/schema.php:176
+#: inc/views/settings/metaboxes/sitemaps.php:374
+msgid "Setting a logo requires JavaScript."
+msgstr "设置徽标需要JavaScript"
+
+#: inc/views/settings/metaboxes/schema.php:173
+#: inc/views/settings/metaboxes/sitemaps.php:371
+msgid "Logo URL"
+msgstr "徽标网址"
+
+#: inc/views/settings/metaboxes/schema.php:164
+msgid "Enable logo?"
+msgstr "启用徽标？"
+
+#: inc/views/settings/metaboxes/schema.php:155
+msgid "These options are used when this site represents an organization. When no logo is outputted, search engine will look elsewhere."
+msgstr "当此站点代表一个组织时，将使用这些选项。当没有徽标输出时，搜索引擎将寻找别处。"
+
+#: inc/views/settings/metaboxes/schema.php:91
+msgctxt "Sitelinks Searchbox is a Product name"
+msgid "Enable Sitelinks Searchbox?"
+msgstr "启用附加链接搜索框？"
+
+#: inc/views/settings/metaboxes/schema.php:64
+#: inc/views/settings/metaboxes/schema.php:84
+#: inc/views/settings/metaboxes/schema.php:103
+#: inc/views/settings/metaboxes/schema.php:157
+msgid "Learn how this data is used."
+msgstr "了解如何使用这些数据"
+
+#: inc/views/settings/metaboxes/general.php:353
+msgid "This outputs the complete date including hours, minutes, and timezone."
+msgstr "这将输出完整的日期，包括小时、分钟和时区"
+
+#: inc/views/settings/metaboxes/general.php:342
+msgid "This outputs the complete date."
+msgstr "这将输出完整的日期"
+
+#: inc/views/settings/metaboxes/general.php:333
+msgid "This setting determines how specific the timestamp is."
+msgstr "此设置确定时间戳的具体程度。"
+
+#: inc/views/settings/metaboxes/general.php:327
+msgid "Timestamps help indicate when a page has been published and modified."
+msgstr "时间戳有助于指示页面何时被发布和修改。"
+
+#: inc/views/settings/metaboxes/general.php:326
+msgid "Timestamp Settings"
+msgstr "时间戳设置"
+
+#: inc/views/settings/metaboxes/general.php:117
+msgid "Display character counters?"
+msgstr "显示字符计数？"
+
+#: inc/views/settings/metaboxes/general.php:112
+msgid "Display pixel counters?"
+msgstr "显示像素计数？"
+
+#: inc/views/settings/metaboxes/general.php:103
+msgid "The character counter is based on guidelines."
+msgstr "字符计数基于准则。"
+
+#: inc/views/settings/metaboxes/general.php:97
+msgid "The pixel counter computes whether the input will fit on search engine result pages."
+msgstr "像素计数计算输入是否适合搜索引擎结果页面。"
+
+#: inc/views/settings/metaboxes/general.php:94
+msgid "Counter Settings"
+msgstr "计数设置"
+
+#: inc/views/edit/seo-settings-singular.php:271
+#: inc/views/edit/seo-settings-tt.php:332
+#: inc/views/settings/metaboxes/post-type-archive.php:361
+msgid "This urges search engines to go to the outputted URL."
+msgstr "这促使搜索引擎转到输出的URL"
+
+#: bootstrap/upgrade.php:608
+msgid "The previous sitemap timestamp settings have been converted into new global timestamp settings."
+msgstr "以前的站点地图时间戳设置已转换为新的全局时间戳设置。"
+
+#: inc/views/settings/metaboxes/schema.php:218
+msgid "Twitter Profile"
+msgstr "Twitter地址"
+
+#: inc/views/profile/author.php:14
+msgid "Facebook profile page"
+msgstr "Facebook页面"
+
+#: inc/classes/bridges/postsettings.class.php:75
+msgid "The SEO Settings may take precedence over these settings."
+msgstr "SEO设置可能优先于这些设置"
+
+#: inc/classes/bridges/postsettings.class.php:73
+#: inc/classes/bridges/postsettings.class.php:81
+msgid "Homepage SEO Settings"
+msgstr "首页SEO设置"
+
+#: inc/classes/bridges/plugintable.class.php:57
+msgid "Settings"
+msgstr "设置"
+
+#: inc/classes/bridges/scripts.class.php:625
+msgctxt "Frame title"
+msgid "Select Logo"
+msgstr "选择徽标"
+
+#: inc/classes/bridges/scripts.class.php:623
+msgid "Remove Logo"
+msgstr "移除徽标"
+
+#: inc/classes/bridges/scripts.class.php:622
+msgid "Change Logo"
+msgstr "更改徽标"
+
+#: inc/classes/bridges/scripts.class.php:620
+#: inc/classes/internal/deprecated.class.php:414
+#: inc/views/settings/metaboxes/schema.php:196
+#: inc/views/settings/metaboxes/sitemaps.php:394
+msgid "Select Logo"
+msgstr "选择徽标"
+
+#. translators: Pixel counter. 1: number (value), 2: number (guideline)
+#: inc/classes/bridges/scripts.class.php:875
+msgid "%1$d out of %2$d pixels are used."
+msgstr "使用了%2$d个像素中的%1$d个"
+
+#. translators: %s = term name
+#: inc/classes/bridges/scripts.class.php:770
+msgid "Primary %s"
+msgstr "主要 %s"
+
+#. translators: %s = term name
+#: inc/classes/bridges/scripts.class.php:768
+msgid "Make primary %s"
+msgstr "设为主要 %s"
+
+#: inc/views/settings/metaboxes/general.php:221
+msgid "This allows you to exclude pages from on-site archive listings."
+msgstr "这允许您从现场存档列表中排除页面。"
+
+#: inc/views/settings/metaboxes/general.php:220
+msgid "Enable archive query alteration?"
+msgstr "启用存档查询更改？"
+
+#: inc/views/settings/metaboxes/general.php:208
+msgid "This allows you to exclude pages from on-site search results."
+msgstr "这允许您从现场搜索结果中排除页面。"
+
+#: inc/views/settings/metaboxes/general.php:207
+msgid "Enable search query alteration?"
+msgstr "启用搜索查询更改？"
+
+#: inc/views/settings/metaboxes/general.php:179
+msgid "Perform alteration:"
+msgstr "执行更改："
+
+#: inc/views/settings/metaboxes/general.php:142
+msgid "Altering the query on the site is much faster, but can lead to inconsistent pagination. It can also lead to 404 error messages if all queried pages have been excluded."
+msgstr "更改站点上的查询要快得多，但会导致分页不一致。如果所有查询的页面都被排除，它还可能导致404错误消息。"
+
+#: inc/views/settings/metaboxes/general.php:140
+msgid "Altering the query in the database is more accurate, but can increase database query time."
+msgstr "更改数据库中的查询更准确，但会增加数据库查询时间。"
+
+#: inc/views/settings/metaboxes/general.php:136
+msgid "If your website has thousands of pages, these options can greatly affect database performance."
+msgstr "如果您的网站有数千个页面，这些选项会极大地影响数据库性能。"
+
+#: inc/views/settings/metaboxes/general.php:134
+msgid "Altering the query allows for more control of the site's hierarchy."
+msgstr "更改查询可以更好地控制站点的层次结构。"
+
+#: inc/views/settings/metaboxes/general.php:132
+msgid "Query Alteration Settings"
+msgstr "查询变更设置"
+
+#: inc/views/settings/metaboxes/general.php:127
+msgid "Depending on your server's configuration, adjusting these settings can affect performance."
+msgstr "根据服务器的配置，调整这些设置可能会影响性能。"
+
+#: inc/classes/bridges/ajax.class.php:161
+#: inc/classes/bridges/ajax.class.php:222
+msgid "Image could not be processed."
+msgstr "图片不能处理"
+
+#: inc/views/edit/seo-settings-singular.php:365
+msgid "Archive Settings"
+msgstr "存档设置"
+
+#: inc/classes/admin-init.class.php:81
+msgid "No Archive"
+msgstr "没有存档"
+
+#: inc/classes/bridges/plugintable.class.php:64 inc/views/settings/wrap.php:25
+#: inc/views/settings/wrap.php:31
+msgctxt "Plugin extensions"
+msgid "Extensions"
+msgstr "扩展"
+
+#. translators: %s = Redirect URL markdown
+#: inc/classes/admin-init.class.php:415
+msgid "There has been an error redirecting. Refresh the page or follow [this link](%s)."
+msgstr "重定向时出现错误。刷新页面或点击[此链接](%s)"
+
+#: inc/views/settings/metaboxes/homepage.php:390
+msgid "A social image can be displayed when your homepage is shared. It is a great way to grab attention."
+msgstr "当您的主页被分享时，可以显示社媒图像。这是吸引注意力的好方法。"
+
+#: inc/views/settings/metaboxes/social.php:177
+msgid "The shortlink tag can be manually used for microblogging services like Twitter, but it has no SEO value whatsoever."
+msgstr "短链接标签可以手动用于Twitter等微博服务，但它没有任何SEO价值。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:181
+msgid "Note: robots.txt files can't be generated or used on subdirectory installations."
+msgstr "注意：robots.txt文件不能在子目录安装中生成或使用。"
+
+#: inc/views/settings/metaboxes/feed.php:28
+msgid "Add link to source below the feed entry content?"
+msgstr "在提要条目内容下方添加指向源的链接？"
+
+#: inc/views/edit/seo-settings-singular.php:34
+#: inc/views/settings/metaboxes/homepage.php:41
+#: inc/views/settings/metaboxes/post-type-archive.php:71
+msgid "Social"
+msgstr "社媒"
+
+#: inc/views/edit/seo-settings-singular.php:39
+#: inc/views/settings/metaboxes/post-type-archive.php:77
+msgid "Visibility"
+msgstr "可见性"
+
+#: bootstrap/upgrade.php:583
+msgid "Twitter Photo Cards have been deprecated. Your site now uses Summary Cards when applicable."
+msgstr "推特照片卡已被弃用。您的站点现在在适用时使用摘要卡。"
+
+#: inc/classes/bridges/scripts.class.php:616
+msgctxt "Frame title"
+msgid "Select Social Image"
+msgstr "选择社媒图像"
+
+#: inc/views/settings/metaboxes/social.php:147
+msgid "Social Image Fallback URL"
+msgstr "社媒图像后备网址"
+
+#: inc/views/settings/metaboxes/social.php:134
+msgid "A social image can be displayed when your website is shared. It is a great way to grab attention."
+msgstr "当您的网站被分享时，可以显示社媒图像。这是吸引注意力的好方法。"
+
+#: inc/views/settings/metaboxes/homepage.php:389
+#: inc/views/settings/metaboxes/social.php:133
+msgid "Social Image Settings"
+msgstr "社媒图像设置"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://theseoframework.com/"
+msgstr "https://theseoframework.com/"
+
+#: inc/views/sitemap/xsl/table.php:25
+msgid "Last Updated"
+msgstr "最后更新"
+
+#: inc/views/sitemap/xsl/table.php:19
+msgid "URL"
+msgstr "URL"
+
+#. translators: URLs are in Markdown. Don't localize this URL.
+#: inc/views/sitemap/xsl/description.php:79
+msgid "You can find more information on XML sitemaps at [sitemaps.org](https://www.sitemaps.org/)."
+msgstr "您可以在[sitemaps.org](https://www.sitemaps.org/)上找到有关XML站点地图的更多信息。"
+
+#. translators: URLs are in Markdown. Don't forget to localize the URLs.
+#: inc/views/sitemap/xsl/description.php:68
+msgid "This is a generated XML Sitemap, meant to be consumed by search engines like [Google](https://www.google.com/) or [Bing](https://www.bing.com/)."
+msgstr "这是一个生成的XML站点地图，旨在供[Google](https://www.google.com/)或[Bing](https://www.bing.com/)等搜索引擎使用。"
+
+#: inc/views/sitemap/xsl/description.php:58 inc/views/sitemap/xsl/title.php:12
+msgid "XML Sitemap"
+msgstr "XML站点地图"
+
+#: inc/views/settings/metaboxes/sitemaps.php:344
+msgid "Sitemap Title and Lines Color"
+msgstr "站点地图标题和线条颜色"
+
+#: inc/views/settings/metaboxes/sitemaps.php:335
+msgid "Sitemap Header Background Color"
+msgstr "站点地图标题背景颜色"
+
+#: inc/views/settings/metaboxes/sitemaps.php:319
+msgid "This makes the sitemap more readable for humans."
+msgstr "这使站点地图对人类更具可读性"
+
+#: inc/views/settings/metaboxes/sitemaps.php:319
+msgid "Style sitemap?"
+msgstr "样式地图？"
+
+#: inc/views/settings/metaboxes/sitemaps.php:314
+msgid "Enable Styling"
+msgstr "启用样式"
+
+#: inc/views/settings/metaboxes/sitemaps.php:43
+msgid "Style"
+msgstr "样式"
+
+#: inc/views/settings/metaboxes/schema.php:110
+msgid "Output Authorized Presence?"
+msgstr "输出授权仪表？"
+
+#: inc/views/settings/metaboxes/schema.php:100
+msgid "The authorized presence Schema.org output helps search engine users find ways to interact with this website."
+msgstr "授权仪表Schema.org输出可帮助搜索引擎用户找到与此网站交互的方式。"
+
+#: inc/views/settings/metaboxes/schema.php:99
+msgid "Authorized Presence Options"
+msgstr "授权仪表选项"
+
+#: inc/views/settings/metaboxes/schema.php:56
+msgid "For example, search engines display your pages' URLs when listed in the search results. These options allow you to enhance those URLs output."
+msgstr "例如，搜索引擎会在搜索结果中列出您的网页时显示其网址。这些选项允许您增强这些URL输出。"
+
+#: inc/views/settings/metaboxes/schema.php:55
+msgid "The site structure Schema.org output allows search engines to gain knowledge on how your website is built."
+msgstr "站点结构Schema.org输出允许搜索引擎了解您的网站是如何构建的。"
+
+#: inc/views/settings/metaboxes/schema.php:54
+msgid "Site Structure Options"
+msgstr "站点结构选项"
+
+#: inc/views/settings/metaboxes/schema.php:37
+msgid "Presence"
+msgstr "仪表"
+
+#: inc/views/settings/metaboxes/schema.php:32
+msgid "Structure"
+msgstr "结构"
+
+#: inc/views/settings/metaboxes/schema.php:26
+msgid "This is also known as the \"Knowledge Graph\" and \"Structured Data\", which is under heavy active development by several search engines. Therefore, the usage of the outputted markup is not guaranteed."
+msgstr "这也被称为\"知识图谱\"和\"结构化数据\"，几个搜索引擎正在大力开发。因此，不能保证输出标记的使用。"
+
+#. translators: %s = Homepage URL markdown
+#: inc/views/settings/metaboxes/homepage.php:120
+#: inc/views/settings/metaboxes/homepage.php:183
+msgid "A plugin has been detected that suggests to maintain this option on the [homepage](%s)."
+msgstr "已检测到建议在[主页](%s)上保留此选项的插件。"
+
+#: inc/views/settings/metaboxes/general.php:255
+msgctxt "= Detect Automatically, HTTPS, HTTP"
+msgid "Preferred canonical URL scheme:"
+msgstr "首选规范URL方案："
+
+#: inc/views/settings/metaboxes/general.php:252
+msgid "Scheme Settings"
+msgstr "方案设置"
+
+#: inc/views/settings/metaboxes/general.php:248
+msgid "If the canonical URL meta tag represents the visited page, then the search engine will crawl the visited page. Otherwise, the search engine may go to the outputted URL."
+msgstr "如果规范URL元标记表示访问过的页面，则搜索引擎将抓取访问过的页面。否则，搜索引擎可能会转到输出的URL"
+
+#: inc/views/settings/metaboxes/general.php:247
+msgid "The canonical URL meta tag urges search engines to go to the outputted URL."
+msgstr "规范URL元标记促使搜索引擎转到输出的URL。"
+
+#: inc/views/settings/metaboxes/general.php:246
+msgid "Canonical URL Settings"
+msgstr "规范URL设置"
+
+#: inc/views/settings/metaboxes/general.php:75
+msgid "Display the SEO Bar in the SEO Settings metabox?"
+msgstr "在SEO设置元框中显示SEO栏？"
+
+#: inc/views/settings/metaboxes/general.php:70
+msgid "Display the SEO Bar in overview tables?"
+msgstr "在概览表中显示SEO栏？"
+
+#: inc/views/settings/metaboxes/general.php:65
+msgid "SEO Bar Settings"
+msgstr "SEO栏设置"
+
+#: inc/views/settings/metaboxes/general.php:60
+msgid "SEO hints can be visually displayed throughout the dashboard."
+msgstr "SEO提示可以在整个仪表板中直观地显示。"
+
+#: inc/views/settings/metaboxes/general.php:59
+msgid "Administrative Layout Settings"
+msgstr "管理布局设置"
+
+#: inc/views/settings/metaboxes/general.php:238
+msgid "Generating the sitemap can use a lot of server resources."
+msgstr "生成站点地图会使用大量服务器资源。"
+
+#: inc/views/settings/metaboxes/general.php:231
+msgid "Transient Cache Settings"
+msgstr "临时缓存设置"
+
+#: inc/views/settings/metaboxes/general.php:232
+msgid "To improve performance, generated output can be stored in the database as transient cache."
+msgstr "为了提高性能，生成的输出可以作为临时缓存存储在数据库中。"
+
+#: inc/views/settings/metaboxes/general.php:126
+msgid "Performance Settings"
+msgstr "性能设置"
+
+#: inc/views/settings/metaboxes/general.php:32
+msgid "Canonical"
+msgstr "规范"
+
+#: inc/views/settings/metaboxes/general.php:22
+msgid "Layout"
+msgstr "布局"
+
+#: inc/views/settings/metaboxes/general.php:27
+msgid "Performance"
+msgstr "性能"
+
+#: inc/classes/bridges/scripts.class.php:617
+#: inc/classes/bridges/scripts.class.php:626
+msgid "Use this image"
+msgstr "使用此图像"
+
+#: inc/classes/bridges/scripts.class.php:614
+msgid "Remove Image"
+msgstr "移除图像"
+
+#: inc/classes/bridges/scripts.class.php:613
+msgid "Change Image"
+msgstr "更改图像"
+
+#: inc/classes/bridges/scripts.class.php:611
+#: inc/classes/interpreters/form.class.php:230
+msgid "Select Image"
+msgstr "选择图像"
+
+#: inc/classes/internal/debug.class.php:201
+msgid "incorrectly"
+msgstr "不正确"
+
+#. translators: 1: Function name, 2: 'Incorrectly', 3: Error message 4: Plugin
+#. Version notification
+#: inc/classes/internal/debug.class.php:199
+msgid "%1$s was called %2$s. %3$s %4$s"
+msgstr "%1$s 被称为 %2$s，%3$s %4$s"
+
+#. translators: 1: Function name, 2: 'Deprecated', 3: Plugin Version
+#. notification
+#: inc/classes/internal/debug.class.php:142
+msgid "%1$s is %2$s since version %3$s of The SEO Framework with no alternative available."
+msgstr "%1$s是%2$s，因为SEO框架的%3$s版本没有可用的替代方案。"
+
+#: inc/classes/internal/debug.class.php:135
+#: inc/classes/internal/debug.class.php:144
+msgid "deprecated"
+msgstr "已过时"
+
+#. translators: 1: Function name, 2: 'Deprecated', 3: Plugin Version
+#. notification, 4: Replacement function
+#: inc/classes/internal/debug.class.php:133
+msgid "%1$s is %2$s since version %3$s of The SEO Framework! Use %4$s instead."
+msgstr "自SEO框架的%3$s版本以来，%1$s是%2$s！请改用%4$s"
+
+#: inc/classes/bridges/seosettings.class.php:78
+msgid "General Settings"
+msgstr "常规设置"
+
+#: inc/views/settings/metaboxes/schema.php:154
+msgid "Website logo"
+msgstr "网站徽标"
+
+#: inc/views/settings/metaboxes/homepage.php:485
+msgid "This tells search engines not to save a cached copy of this page."
+msgstr "这告诉搜索引擎不要保存此页面的缓存副本"
+
+#. Description of the plugin
+msgid "An automated, advanced, accessible, unbranded and extremely fast SEO solution for your WordPress website."
+msgstr "适用于您的WordPress网站的自动化、高级、可访问、无品牌且速度极快的SEO解决方案。"
+
+#: inc/views/settings/metaboxes/schema.php:71
+msgid "Enable Breadcrumbs?"
+msgstr "启用面包屑导航？"
+
+#: inc/views/settings/metaboxes/schema.php:61
+msgid "Breadcrumb trails indicate page positions in the site's hierarchy. Using the following option will show the hierarchy within the search results when available."
+msgstr "面包屑路径指示站点层次结构中的页面位置。使用以下选项将在可用时显示搜索结果中的层次结构。"
+
+#: inc/views/settings/metaboxes/schema.php:60
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: inc/views/settings/metaboxes/schema.php:81
+msgid "When Search users search for your brand name, the following option allows them to search through this website directly from the search results."
+msgstr "当搜索用户搜索您的品牌名称时，以下选项允许他们直接从搜索结果中搜索该网站。"
+
+#: inc/views/settings/metaboxes/schema.php:79
+msgctxt "Product name"
+msgid "Sitelinks Searchbox"
+msgstr "附加链接搜索框"
+
+#: inc/views/settings/metaboxes/schema.php:25
+msgid "When your web pages include structured data markup, search engines can use that data to index your content better, present it more prominently in search results, and use it in several different applications."
+msgstr "当您的网页包含结构化数据标记时，搜索引擎可以使用该数据更好地索引您的内容，在搜索结果中更突出地显示它，并在多个不同的应用程序中使用它。"
+
+#: inc/views/settings/metaboxes/schema.php:24
+msgid "The Schema.org markup is a standard way of annotating structured data for search engines. This markup is represented within hidden scripts throughout the website."
+msgstr "Schema.org标记是为搜索引擎注释结构化数据的标准方法。此标记在整个网站的隐藏脚本中表示。"
+
+#: inc/views/settings/metaboxes/schema.php:19
+msgid "Schema.org Output Settings"
+msgstr "Schema.org输出设置"
+
+#: inc/views/settings/metaboxes/general.php:332
+msgid "Timestamp Format Settings"
+msgstr "时间戳格式设置"
+
+#: inc/views/settings/metaboxes/schema.php:203
+msgctxt "No spaces. E.g. https://facebook.com/RelatedProfile"
+msgid "RelatedProfile"
+msgstr "相关资料"
+
+#: inc/views/settings/metaboxes/webmaster.php:49
+msgid "Get the Yandex verification code."
+msgstr "获取Yandex验证码"
+
+#: inc/views/settings/metaboxes/webmaster.php:47
+msgid "Yandex Webmaster Verification Code"
+msgstr "Yandex站长验证码"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/general.php:313
+msgid "Add `rel` link tags to the homepage?"
+msgstr "向网站主页添加`rel`链接标签？"
+
+#: inc/views/settings/metaboxes/social.php:60
+msgid "Social Meta Tags Settings"
+msgstr "社媒元标签设置"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:540
+msgid "Apply `noindex` to every second or later page on the homepage?"
+msgstr "将`noindex`应用到主页上的每一秒或之后的页面？"
+
+#: inc/views/settings/metaboxes/homepage.php:533
+msgid "If your homepage is paginated and outputs content that's also found elsewhere on the website, enabling this option may prevent duplicate content."
+msgstr "如果您的主页已分页并输出在网站其他地方也可以找到的内容，启用此选项可以防止重复内容。"
+
+#: inc/views/settings/metaboxes/homepage.php:532
+msgid "Homepage Pagination Robots Settings"
+msgstr "首页分页机器人设置"
+
+#: inc/views/settings/metaboxes/homepage.php:46
+msgid "Robots"
+msgstr "机器人"
+
+#: inc/views/settings/metaboxes/robots.php:33
+msgctxt "...for the entire site"
+msgid "the entire site"
+msgstr "整个网站"
+
+#: inc/views/settings/metaboxes/description.php:25
+msgid "Automated Description Settings"
+msgstr "自动描述设置"
+
+#: inc/views/settings/metaboxes/title.php:316
+msgid "The prefix helps visitors and search engines determine what kind of page they're visiting."
+msgstr "该前缀可帮助访问者和搜索引擎确定他们正在访问的页面类型。"
+
+#: inc/views/settings/metaboxes/title.php:307
+msgid "For archives, a descriptive prefix may be added to generated titles."
+msgstr "对于存档，可以在生成的标题中添加描述性前缀"
+
+#: inc/views/settings/metaboxes/title.php:306
+msgid "Title Prefix Options"
+msgstr "标题前缀选项"
+
+#: inc/views/settings/metaboxes/title.php:34
+msgid "Example Category"
+msgstr "示例分类"
+
+#: inc/views/settings/metaboxes/title.php:156
+msgid "Prefixes"
+msgstr "前缀"
+
+#: inc/views/settings/metaboxes/homepage.php:36
+#: inc/views/settings/metaboxes/title.php:145
+msgid "Additions"
+msgstr "附加"
+
+#: inc/views/settings/metaboxes/title.php:52
+msgid "The page title is prominently shown within the browser tab as well as within the search engine results pages."
+msgstr "页面标题突出显示在浏览器选项卡以及搜索引擎结果页面中"
+
+#: inc/views/settings/metaboxes/title.php:51
+#: inc/views/settings/metaboxes/title.php:205
+msgid "Automated Title Settings"
+msgstr "自动标题设置"
+
+#: inc/views/edit/seo-settings-singular.php:402
+#: inc/views/edit/seo-settings-tt.php:390
+#: inc/views/settings/metaboxes/post-type-archive.php:458
+msgid "This will force visitors to go to another URL."
+msgstr "这将强制访问者转到另一个URL"
+
+#. translators: 1: plugin version
+#: inc/classes/internal/debug.class.php:195
+msgid "(This message was added in version %s of The SEO Framework.)"
+msgstr "此消息是在SEO框架的%s版本中添加的。"
+
+#: inc/classes/admin-init.class.php:330
+msgid "Good"
+msgstr "很好"
+
+#. translators: %s = timestamp
+#: inc/classes/builders/sitemap/base.class.php:180
+msgid "Sitemap is generated on %s"
+msgstr "站点地图已在%s上预呈现"
+
+#: inc/views/sitemap/xml-sitemap.php:34
+msgid "Sitemap is served from cache"
+msgstr "站点地图由缓存提供"
+
+#: inc/views/sitemap/xml-sitemap.php:32
+msgid "Sitemap is generated for this view"
+msgstr "为该视图生成站点地图"
+
+#: inc/views/settings/metaboxes/feed.php:29
+msgid "This link will not be followed by search engines."
+msgstr "搜索引擎不会跟随此链接"
+
+#: inc/views/settings/metaboxes/feed.php:26
+msgid "By default the excerpt will be at most 400 characters long."
+msgstr "默认情况下，摘录的长度最多为400个字符"
+
+#: inc/views/settings/metaboxes/feed.php:25
+msgid "Convert feed entries into excerpts?"
+msgstr "将提要条目转换为摘录？"
+
+#: inc/views/settings/metaboxes/feed.php:24
+msgid "Change Feed Settings"
+msgstr "更改Feed设置"
+
+#: inc/views/settings/metaboxes/feed.php:19
+msgid "Adding a backlink below the feed entries will also let the visitors know where the content came from."
+msgstr "在提要条目下方添加反向链接也会让访问者知道内容的来源。"
+
+#: inc/views/settings/metaboxes/feed.php:18
+msgid "Sometimes, your content can get stolen by robots through the WordPress feeds. This can cause duplicate content issues. To prevent this from happening, it's recommended to convert the feed's content into an excerpt."
+msgstr "有时，您的内容可能会通过WordPress提要被机器人窃取。这可能会导致重复的内容问题。为防止发生这种情况，建议将提要的内容转换为摘录。"
+
+#: inc/views/settings/metaboxes/feed.php:17
+msgid "Content Feed Settings"
+msgstr "内容提要设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:85
+msgid "Note: A sitemap has been detected in the root folder of your website. This means that these settings have no effect."
+msgstr "注意：在您网站的根文件夹中检测到站点地图。这意味着这些设置不起作用。"
+
+#: inc/views/settings/metaboxes/webmaster.php:70
+msgid "Get the Pinterest verification code."
+msgstr "获取Pinterest验证码"
+
+#: inc/views/settings/metaboxes/webmaster.php:68
+msgid "Pinterest Analytics Verification Code"
+msgstr "Pinterest分析验证码"
+
+#: inc/views/settings/metaboxes/social.php:182
+msgid "Output shortlink tag?"
+msgstr "输出短链接标签？"
+
+#: inc/views/settings/metaboxes/title.php:300
+msgid "Note: Only use this option if you are aware of its SEO effects."
+msgstr "注意：仅当您了解其SEO效果时才使用此项。"
+
+#: inc/views/edit/seo-settings-singular.php:68
+#: inc/views/edit/seo-settings-tt.php:105
+msgid "Doing it Right"
+msgstr "这样做很正确"
+
+#: inc/classes/render.class.php:1281
+msgid "by Sybre Waaijer"
+msgstr "by Beidou Travel"
+
+#: inc/classes/bridges/feed.class.php:180
+msgctxt "The content source"
+msgid "Source"
+msgstr "来源"
+
+#: inc/classes/bridges/seosettings.class.php:177
+msgid "Feed Settings"
+msgstr "订阅供稿设置"
+
+#. translators: %s: Private post title.
+#: inc/classes/bridges/scripts.class.php:668
+#: inc/classes/generate-title.class.php:1356
+msgid "Private: %s"
+msgstr "私密：%s"
+
+#. translators: %s: Protected post title.
+#: inc/classes/bridges/scripts.class.php:670
+#: inc/classes/generate-title.class.php:1338
+msgid "Protected: %s"
+msgstr "密码保护：%s"
+
+#. Plugin Name of the plugin
+msgid "The SEO Framework"
+msgstr "SEO框架"
+
+#. translators: %s = Google
+#: inc/views/settings/metaboxes/sitemaps.php:297
+msgid "Notify %s about sitemap changes?"
+msgstr "通知%s有关站点地图更改的信息？"
+
+#: inc/views/settings/metaboxes/sitemaps.php:286
+msgid "Notify Search Engines"
+msgstr "通知搜索引擎"
+
+#: inc/views/settings/metaboxes/sitemaps.php:254
+msgid "By default this will happen at most once an hour."
+msgstr "默认情况下，这最多每小时发生一次。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:253
+msgid "Notifying search engines of a sitemap change is helpful to get your content indexed as soon as possible."
+msgstr "将站点地图更改通知搜索引擎有助于尽快将您的内容编入索引。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:252
+msgid "Ping Settings"
+msgstr "Ping设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:234
+msgid "Timestamps Settings"
+msgstr "时间戳设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:214
+msgid "Add sitemap location to robots.txt?"
+msgstr "将站点地图位置添加到robots.txt？"
+
+#: inc/views/settings/metaboxes/sitemaps.php:205
+msgid "If you do not add the sitemap location to the robots.txt output, you should notify search engines manually through webmaster-interfaces provided by the search engines."
+msgstr "如果您没有将站点地图位置添加到robots.txt输出中，您应该通过搜索引擎提供的网站管理员界面手动通知搜索引擎。"
+
+#: inc/views/settings/metaboxes/sitemaps.php:171
+msgid "Robots.txt Settings"
+msgstr "Robots.txt设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:90
+msgid "Sitemap Output"
+msgstr "站点地图输出"
+
+#: inc/views/settings/metaboxes/sitemaps.php:65
+msgid "Sitemap Integration Settings"
+msgstr "站点地图集成设置"
+
+#: inc/views/settings/metaboxes/sitemaps.php:38
+msgctxt "Ping or notify search engine"
+msgid "Ping"
+msgstr "Ping"
+
+#: inc/views/settings/metaboxes/general.php:37
+msgid "Timestamps"
+msgstr "时间戳"
+
+#: inc/views/settings/metaboxes/schema.php:291
+msgid "Don't have a page at a site or is the profile only privately accessible? Leave that field empty. Unsure? Fill it in anyway."
+msgstr "网站没有页面，或者个人资料只能私下访问？将该字段留空。不确定？随便填一下。"
+
+#: inc/views/settings/metaboxes/schema.php:146
+msgid "The organization or personal name"
+msgstr "组织或个人名称"
+
+#: inc/views/settings/metaboxes/schema.php:127
+msgid "A Person"
+msgstr "个人"
+
+#: inc/views/settings/metaboxes/schema.php:126
+msgid "An Organization"
+msgstr "组织"
+
+#: inc/views/settings/metaboxes/schema.php:120
+msgctxt "...Organization or Person."
+msgid "This website represents:"
+msgstr "站点属性："
+
+#: inc/views/settings/metaboxes/schema.php:118
+msgid "About this website"
+msgstr "关于本站"
+
+#: inc/views/settings/metaboxes/webmaster.php:39
+msgid "Get the Bing verification code."
+msgstr "获取必应验证码"
+
+#: inc/views/settings/metaboxes/webmaster.php:37
+msgid "Bing Webmaster Verification Code"
+msgstr "必应站长验证码"
+
+#: inc/views/settings/metaboxes/webmaster.php:29
+msgid "Get the Google verification code."
+msgstr "获取谷歌验证码"
+
+#: inc/views/settings/metaboxes/webmaster.php:80
+msgid "Verifying your website has no SEO value whatsoever. But you might gain added benefits such as search ranking insights to help you improve your website's content."
+msgstr "验证您的网站没有任何SEO价值。但是您可能会获得额外的好处，例如搜索排名洞察力，以帮助您改进网站的内容。"
+
+#: inc/views/settings/metaboxes/webmaster.php:79
+msgid "When adding your website to Google, Bing and other Webmaster Tools, you'll be asked to add a code or file to your website for verification purposes. These options will help you easily integrate those codes."
+msgstr "将您的网站添加到谷歌、必应和其他网站管理员工具时，系统会要求您将代码或文件添加到您的网站以进行验证。这些选项将帮助您轻松集成这些代码。"
+
+#: inc/views/settings/metaboxes/webmaster.php:78
+msgid "Webmaster Integration Settings"
+msgstr "网站管理员集成设置"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/general.php:303
+msgid "Add `rel` link tags to archives?"
+msgstr "向存档页面添加`rel`链接标签？"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/general.php:293
+msgid "Add `rel` link tags to posts and pages?"
+msgstr "向帖子和页面添加`rel`链接标签？"
+
+#: inc/views/settings/metaboxes/general.php:287
+msgid "It's recommended to turn these options on for better SEO consistency and to prevent duplicated content issues."
+msgstr "建议打开这些选项以获得更好的SEO一致性并防止重复的内容问题。"
+
+#: inc/views/settings/metaboxes/general.php:286
+msgid "Some search engines look for relations between the content of your pages. If you have pagination on a post or page, or have archives indexed, these options will help search engines look for the right page to display in the search results."
+msgstr "一些搜索引擎会寻找页面内容之间的关系。如果您在帖子或页面上有分页，或者将存档编入索引，这些选项将帮助搜索引擎寻找要在搜索结果中显示的正确页面。"
+
+#: inc/views/settings/metaboxes/general.php:285
+msgid "Link Relationship Settings"
+msgstr "链接关系设置"
+
+#: inc/views/settings/metaboxes/social.php:389
+msgid "Post Date Settings"
+msgstr "帖子日期设置"
+
+#: inc/views/settings/metaboxes/social.php:387
+msgid "Posts"
+msgstr "帖子"
+
+#: inc/views/settings/metaboxes/social.php:317
+#: inc/views/settings/metaboxes/social.php:333
+msgid "Find your @username."
+msgstr "查找您的@username"
+
+#: inc/views/settings/metaboxes/social.php:271
+msgid "Twitter Card Type"
+msgstr "Twitter卡片类型"
+
+#: inc/views/profile/author.php:23 inc/views/settings/metaboxes/social.php:260
+msgctxt "Twitter @username"
+msgid "@your-personal-username"
+msgstr "@your-personal-username"
+
+#: inc/views/settings/metaboxes/social.php:257
+msgctxt "Twitter @username"
+msgid "@your-site-username"
+msgstr "@your-site-username"
+
+#: inc/views/settings/metaboxes/social.php:210
+msgid "Get Facebook App ID."
+msgstr "获取Facebook应用 ID"
+
+#: inc/views/settings/metaboxes/social.php:206
+msgid "Facebook App ID"
+msgstr "Facebook应用 ID"
+
+#: inc/views/settings/metaboxes/social.php:242
+msgid "Your Facebook profile."
+msgstr "您的Facebook个人资料"
+
+#: inc/views/settings/metaboxes/social.php:200
+msgid "When these options are filled in, Facebook might link the Facebook profile to be followed and liked when your post or page is shared."
+msgstr "填写这些选项后，Facebook可能会链接Facebook个人资料，以便在分享您的帖子或页面时关注和点赞。"
+
+#: inc/views/settings/metaboxes/social.php:199
+msgid "Facebook post sharing works mostly through Open Graph. However, you can also link your Business and Personal Facebook pages, among various other options."
+msgstr "Facebook帖子分享主要通过Open Graph进行。但是，您还可以链接您的企业和个人Facebook页面，以及其他各种选项。"
+
+#: inc/views/profile/author.php:16 inc/views/settings/metaboxes/social.php:190
+msgctxt "Example Facebook Personal URL"
+msgid "https://www.facebook.com/YourPersonalProfile"
+msgstr "https://www.facebook.com/YourPersonalProfile"
+
+#: inc/views/settings/metaboxes/social.php:93
+msgid "Output Twitter meta tags?"
+msgstr "输出Twitter元标签？"
+
+#: inc/views/settings/metaboxes/social.php:94
+msgid "Output various meta tags targeted at Twitter."
+msgstr "输出针对Twitter的各种元标签。"
+
+#: inc/views/settings/metaboxes/social.php:83
+msgid "Output Facebook meta tags?"
+msgstr "输出Facebook元标签？"
+
+#: inc/views/settings/metaboxes/social.php:72
+msgid "Facebook, Twitter, Pinterest and many other social sites make use of these meta tags."
+msgstr "Facebook、Twitter、Pinterest和许多其他社媒网站都使用这些元标签。"
+
+#: inc/views/settings/metaboxes/social.php:71
+msgid "Output Open Graph meta tags?"
+msgstr "输出Open Graph元标签？"
+
+#: inc/views/settings/metaboxes/social.php:61
+msgid "Output various meta tags for social site integration, among other third-party services."
+msgstr "输出用于社媒网站集成的各种元标签，以及其他第三方服务。"
+
+#: inc/views/settings/metaboxes/social.php:176
+msgid "Site Shortlink Settings"
+msgstr "网站短链接设置"
+
+#: inc/views/settings/metaboxes/social.php:43
+msgid "Post Dates"
+msgstr "发布日期"
+
+#: inc/views/edit/seo-settings-singular.php:191
+#: inc/views/edit/seo-settings-tt.php:173
+#: inc/views/settings/metaboxes/description.php:19
+#: inc/views/settings/metaboxes/homepage.php:137
+#: inc/views/settings/metaboxes/post-type-archive.php:225
+msgid "The meta description can be used to determine the text used under the title on search engine results pages."
+msgstr "元描述可用于确定搜索引擎结果页面标题下使用的文本"
+
+#: inc/views/settings/metaboxes/homepage.php:23
+msgid "These settings will take precedence over the settings set within the homepage edit screen, if any."
+msgstr "这些设置将优先于主页编辑屏幕中选项的设置 (如果有的话)"
+
+#: inc/classes/builders/seobar/page.class.php:401
+#: inc/classes/builders/seobar/page.class.php:410
+#: inc/classes/builders/seobar/term.class.php:388
+#: inc/classes/builders/seobar/term.class.php:397
+msgid "Description"
+msgstr "描述"
+
+#: inc/classes/builders/seobar/page.class.php:192
+#: inc/classes/builders/seobar/term.class.php:204
+msgid "Title"
+msgstr "标题"
+
+#: inc/views/settings/metaboxes/robots.php:300
+msgid "Robots Settings"
+msgstr "机器人设置"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/robots.php:133
+msgid "Apply `noindex` to every second or later archive page?"
+msgstr "将`noindex`应用到每一秒或以后的存档页面？"
+
+#: inc/views/settings/metaboxes/robots.php:126
+msgid "Indexing the second or later page of any archive might cause duplication errors. Search engines look down upon them; therefore, it's recommended to disable indexing of those pages."
+msgstr "索引任何存档的第二页或后续页可能会导致重复错误。搜索引擎看不起他们；因此，建议禁用这些页面的索引。"
+
+#: inc/views/settings/metaboxes/robots.php:125
+msgid "Paginated Archive Settings"
+msgstr "分页存档设置"
+
+#: inc/classes/builders/seobar/page.class.php:875
+#: inc/classes/builders/seobar/page.class.php:884
+#: inc/classes/builders/seobar/page.class.php:893
+#: inc/classes/builders/seobar/term.class.php:825
+#: inc/classes/builders/seobar/term.class.php:834
+#: inc/views/edit/seo-settings-singular.php:257
+#: inc/views/edit/seo-settings-tt.php:88 inc/views/list/bulk-post.php:36
+#: inc/views/list/quick-post.php:36 inc/views/list/quick-term.php:36
+#: inc/views/settings/metaboxes/post-type-archive.php:401
+#: inc/views/settings/metaboxes/robots.php:89
+msgid "Archiving"
+msgstr "存档"
+
+#: inc/classes/builders/seobar/page.class.php:744
+#: inc/classes/builders/seobar/page.class.php:753
+#: inc/classes/builders/seobar/page.class.php:762
+#: inc/classes/builders/seobar/term.class.php:708
+#: inc/classes/builders/seobar/term.class.php:717
+#: inc/views/list/quick-term.php:29 inc/views/settings/metaboxes/robots.php:78
+msgid "Following"
+msgstr "跟随"
+
+#: inc/classes/builders/seobar/page.class.php:590
+#: inc/classes/builders/seobar/page.class.php:599
+#: inc/classes/builders/seobar/page.class.php:608
+#: inc/classes/builders/seobar/term.class.php:562
+#: inc/classes/builders/seobar/term.class.php:571
+#: inc/views/edit/seo-settings-singular.php:241
+#: inc/views/edit/seo-settings-tt.php:62 inc/views/list/bulk-post.php:22
+#: inc/views/list/quick-post.php:22 inc/views/list/quick-term.php:22
+#: inc/views/settings/metaboxes/post-type-archive.php:377
+#: inc/views/settings/metaboxes/robots.php:67
+msgid "Indexing"
+msgstr "索引"
+
+#: inc/views/edit/seo-settings-singular.php:29
+#: inc/views/settings/metaboxes/homepage.php:31
+#: inc/views/settings/metaboxes/post-type-archive.php:65
+#: inc/views/settings/metaboxes/robots.php:61
+#: inc/views/settings/metaboxes/sitemaps.php:23
+#: inc/views/settings/metaboxes/social.php:23
+#: inc/views/settings/metaboxes/title.php:140
+msgid "General"
+msgstr "常规"
+
+#: inc/views/settings/metaboxes/robots.php:53
+msgid "These options most likely prevent caching of the selected archives and pages. If you enable this, bots are urged not create a cached copy of the selected archives or pages."
+msgstr "这些选项很可能会阻止缓存所选存档和页面。如果您启用此功能，则会敦促机器人不要创建所选存档或页面的缓存副本。"
+
+#: inc/views/settings/metaboxes/robots.php:49
+msgid "These options most likely prevent links from being followed on the selected archives and pages. If you enable this, the selected archives or pages in-page links will gain no SEO value, including your internal links."
+msgstr "这些选项很可能会阻止在选定的存档和页面上跟踪链接。如果您启用此功能，所选存档或页面内链接将不会获得 SEO 价值，包括您的内部链接。"
+
+#: inc/views/settings/metaboxes/robots.php:45
+msgid "These options most likely prevent indexing of the selected archives and pages. If you enable this, the selected archives or pages will urge to be removed from search engine results pages."
+msgstr "这些选项很可能会阻止对所选存档和页面进行索引。如果您启用此功能，选定的档案或页面将敦促从搜索引擎结果页面中删除。"
+
+#: inc/views/settings/metaboxes/robots.php:28
+msgid "Search pages"
+msgstr "搜索页面"
+
+#: inc/views/settings/metaboxes/homepage.php:252
+#: inc/views/settings/metaboxes/title.php:267
+msgid "Right:"
+msgstr "右边："
+
+#: inc/views/settings/metaboxes/homepage.php:242
+#: inc/views/settings/metaboxes/title.php:257
+msgid "Left:"
+msgstr "左边："
+
+#: inc/views/settings/metaboxes/homepage.php:469
+msgid "This tells search engines not to follow links on this page."
+msgstr "这告诉搜索引擎不要点击此页面上的链接"
+
+#: inc/views/settings/metaboxes/homepage.php:453
+msgid "This tells search engines not to show this page in their search results."
+msgstr "这告诉搜索引擎不要在他们的搜索结果中显示此页面"
+
+#: inc/views/edit/seo-settings-singular.php:187
+#: inc/views/edit/seo-settings-tt.php:169 inc/views/list/quick-post.php:77
+#: inc/views/list/quick-term.php:77
+#: inc/views/settings/metaboxes/homepage.php:133
+#: inc/views/settings/metaboxes/post-type-archive.php:221
+msgid "Meta Description"
+msgstr "元描述"
+
+#. translators: %s = Post Type label
+#: inc/classes/bridges/postsettings.class.php:85
+msgid "%s SEO Settings"
+msgstr "%s SEO设置"
+
+#: inc/classes/generate-title.class.php:959
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "猫"
+
+#: inc/classes/generate-title.class.php:957
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/classes/generate-title.class.php:955
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/classes/generate-title.class.php:953
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/classes/generate-title.class.php:951
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引号"
+
+#: inc/classes/generate-title.class.php:949
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/classes/generate-title.class.php:947
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/classes/generate-title.class.php:945
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "画廊"
+
+#: inc/classes/generate-title.class.php:943
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "旁白"
+
+#: inc/classes/generate-title.class.php:938
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/classes/generate-title.class.php:935
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/classes/generate-title.class.php:932
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/classes/generate-title.class.php:918
+#: inc/classes/generate-title.class.php:991
+msgid "Archives"
+msgstr "归档"
+
+#: inc/classes/generate-title.class.php:1166
+msgid "Untitled"
+msgstr "无标题"
+
+#: inc/classes/builders/seobar/page.class.php:991
+#: inc/classes/builders/seobar/page.class.php:1012
+#: inc/classes/builders/seobar/term.class.php:925
+#: inc/classes/builders/seobar/term.class.php:941
+msgctxt "Redirect"
+msgid "R"
+msgstr "重定向"
+
+#: inc/classes/builders/seobar/page.class.php:400
+#: inc/classes/builders/seobar/page.class.php:409
+#: inc/classes/builders/seobar/term.class.php:387
+#: inc/classes/builders/seobar/term.class.php:396
+msgctxt "Description"
+msgid "D"
+msgstr "描述"
+
+#: inc/classes/builders/seobar/page.class.php:191
+#: inc/classes/builders/seobar/term.class.php:203
+msgctxt "Title"
+msgid "T"
+msgstr "标题"
+
+#: inc/classes/admin-init.class.php:322
+msgid "Length is good."
+msgstr "长度正好"
+
+#: inc/classes/admin-init.class.php:338
+msgid "Good."
+msgstr "很好！"
+
+#: inc/classes/admin-init.class.php:329
+msgid "Far too long"
+msgstr "太长了"
+
+#: inc/classes/admin-init.class.php:336
+msgid "Too long."
+msgstr "太长！"
+
+#: inc/classes/admin-init.class.php:335
+msgid "Too short."
+msgstr "太短！"
+
+#: inc/classes/admin-init.class.php:326
+msgid "Far too short"
+msgstr "太短了"
+
+#: inc/classes/bridges/seosettings.class.php:167
+msgid "Sitemap Settings"
+msgstr "站点地图设置"
+
+#: inc/classes/bridges/seosettings.class.php:157
+msgid "Webmaster Meta Settings"
+msgstr "管理员元设置"
+
+#: inc/classes/bridges/seosettings.class.php:147
+#: inc/views/edit/seo-settings-singular.php:288
+#: inc/views/edit/seo-settings-tt.php:346
+#: inc/views/settings/metaboxes/homepage.php:442
+msgid "Robots Meta Settings"
+msgstr "机器人元设置"
+
+#: inc/classes/bridges/seosettings.class.php:127
+msgid "Social Meta Settings"
+msgstr "社媒元设置"
+
+#: inc/classes/bridges/seosettings.class.php:108
+msgid "Homepage Settings"
+msgstr "主页设置"
+
+#: inc/classes/bridges/seosettings.class.php:98
+msgid "Description Meta Settings"
+msgstr "描述元设置"
+
+#: inc/classes/bridges/seosettings.class.php:88
+msgid "Title Settings"
+msgstr "标题设置"
+
+#: inc/classes/admin-pages.class.php:57
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/classes/admin-pages.class.php:56
+msgid "SEO Settings"
+msgstr "SEO优化设置"
+
+#: inc/views/settings/wrap.php:45
+msgid "Reset Settings"
+msgstr "重置设置"
+
+#: inc/views/settings/wrap.php:36
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: inc/views/settings/wrap.php:43
+msgid "Are you sure you want to reset all SEO settings to their defaults?"
+msgstr "确定要将所有SEO设置重置为默认值吗？"
+
+#: inc/classes/bridges/scripts.class.php:330
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果您离开此页面，您所做的更改将丢失。"
+
+#: inc/classes/admin-init.class.php:78
+msgid "No Search"
+msgstr "没有搜索"

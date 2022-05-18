@@ -1,0 +1,12 @@
+.footer__number {
+	text-decoration: underline;
+	color: #29282C;
+}
+
+@media (max-width: 416px) {
+	.footer__number {
+		font-weight: 400;
+		font-size: 25px;
+		line-height: 31px;
+	}
+}

@@ -1,0 +1,105 @@
+.form__input {
+	background-color: #EFEDE8;
+	border: 1px solid #EFEDE8;
+	border-radius: 10px;
+	max-width: 490px;
+	width: 100%;
+	height: 70px;
+	margin: 0 30px 15px 0;
+	padding: 0 0 0 30px;
+	box-sizing: border-box;
+	font-family: 'Roboto';
+}
+
+.form__input:nth-child(3n){
+	margin-bottom: 0;
+}
+
+.form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+.mac.gecko .form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+.mac.opera .form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+.mac.safari .form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+.win.gecko .form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+.win.opera .form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+.win.ie .form__input::placeholder {
+	font-family: 'Roboto';
+	font-weight: 300;
+	font-size: 20px;
+	line-height: 23px;
+	opacity: 0.4;
+	color:black
+}
+
+@media (min-width: 416px) and (max-width: 1011px) {
+	.form__input {
+		max-width: 48%;
+	}
+
+	.form__input:nth-child(4n){
+		margin-right: 0;
+	}
+}
+
+@media (min-width:416px) and (max-width:821px) {
+	.form__input {
+		max-width: 100%;
+	}
+
+	.form__input:nth-child(3n){
+		margin-bottom: 15px;
+	}
+}
+
+@media (max-width:416px) {
+	.form__input:nth-child(3n){
+		margin-bottom: 15px;
+	}
+}

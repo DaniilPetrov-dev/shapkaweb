@@ -1,0 +1,23 @@
+.mac.safary .services__card-title {
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 31px;
+	margin: 0 0 20px 20px;
+}
+
+.services__card-title {
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 31px;
+	margin: 0 0 20px 20px;
+}
+
+
+
+@media (max-width: 416px) {
+	.services__card-title {
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 25px;
+	}
+}

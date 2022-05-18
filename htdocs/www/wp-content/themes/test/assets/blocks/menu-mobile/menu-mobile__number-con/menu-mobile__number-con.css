@@ -1,0 +1,8 @@
+@media (max-width: 820px) {
+	.menu-mobile__number-con {
+		display: flex;
+		flex-direction: row;
+		color: #29282C;
+		align-items: center;
+	}
+}

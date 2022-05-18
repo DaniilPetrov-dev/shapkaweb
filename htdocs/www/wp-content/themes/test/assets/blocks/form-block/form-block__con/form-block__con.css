@@ -1,0 +1,21 @@
+.form-block__con {
+	width: 100%;
+	max-width: 1010px;
+	margin: 150px auto 175px auto;
+	display: flex;
+	flex-direction: column;
+	color: #EFEDE8;
+}
+
+@media (max-width: 1011px) {
+	.form-block__con {
+		max-width: 90%;
+	}
+}
+
+@media (max-width:416px) {
+	.form-block__con {
+		max-width: 335px;
+		margin: 50px auto 71px;
+	}
+}

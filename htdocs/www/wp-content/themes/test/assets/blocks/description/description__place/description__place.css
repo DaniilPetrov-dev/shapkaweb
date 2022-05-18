@@ -1,0 +1,19 @@
+.description__place {
+	max-width: 230px;
+	min-height: 383px;
+	text-align: center;
+}
+
+@media (max-width: 416px) {
+	.description__place {
+		display: flex;
+		flex-direction: row;
+		min-height: 155px;
+		max-width: 335px;
+		margin-bottom: 20px;
+	}
+
+	.description__place:last-child {
+		margin-bottom: 0;
+	}
+}

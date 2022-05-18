@@ -1,0 +1,8 @@
+.footer__contacts {
+	margin: 0 auto 0 auto;
+}
+@media (max-width: 820px) {
+	.footer__contacts {
+		width: 100%;
+	}
+}

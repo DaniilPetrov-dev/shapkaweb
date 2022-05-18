@@ -1,0 +1,6 @@
+@media (max-width: 820px) {
+	.menu-mobile__links {
+		display: flex;
+		flex-direction: column;
+	}
+}

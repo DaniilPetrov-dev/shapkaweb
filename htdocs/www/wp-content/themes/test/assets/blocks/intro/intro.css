@@ -1,0 +1,33 @@
+.intro {
+	background-image: url("../../image/main__background-min.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 870px;
+	padding-top: 280px;
+	box-sizing: border-box;
+}
+
+@media (max-width: 1270px) {
+	.intro {
+		max-width: 1270px;
+		background-position: 50% 50%;
+	}
+}
+
+@media (max-width: 830px) {
+	.intro {
+		min-height: 950px;
+	}
+}
+
+@media (max-width: 416px) {
+	.intro {
+		background-image: url("../../image/intro__background_mobil-min.svg");
+		background-size: cover;
+		background-position: center center;
+		min-height: 0;
+		height: 600px;
+		padding-top: 100px;
+	}
+}

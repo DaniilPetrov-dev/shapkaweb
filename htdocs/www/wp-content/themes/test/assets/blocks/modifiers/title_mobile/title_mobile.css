@@ -1,0 +1,5 @@
+@media (max-width: 820px) {
+	.title_mobile {
+		display: none;
+	}
+}

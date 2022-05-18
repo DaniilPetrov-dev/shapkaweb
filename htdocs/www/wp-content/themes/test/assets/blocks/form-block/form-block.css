@@ -1,0 +1,16 @@
+.form-block {
+	max-width: 1600px;
+	min-height: 850px;
+	background-image: url("../../image/form-block__background-min.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+}
+
+@media (max-width:416px) {
+	.form-block {
+		min-height: 710px;
+		background-image: url("../../image/form__background-mobil.svg");
+	}
+}

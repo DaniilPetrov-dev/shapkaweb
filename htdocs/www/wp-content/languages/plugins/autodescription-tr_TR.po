@@ -1,0 +1,2984 @@
+# Translation of Plugins - The SEO Framework – Fast, Automated, Effortless. - Stable (latest release) in Turkish
+# This file is distributed under the same license as the Plugins - The SEO Framework – Fast, Automated, Effortless. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-31 12:56:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: tr\n"
+"Project-Id-Version: Plugins - The SEO Framework – Fast, Automated, Effortless. - Stable (latest release)\n"
+
+#: inc/classes/builders/seobar/page.class.php:187
+msgid "It's built from the page title."
+msgstr "Sayfa başlığından oluşturulmuştur."
+
+#: inc/views/edit/seo-settings-singular.php:166
+#: inc/views/edit/seo-settings-singular.php:173
+#: inc/views/edit/seo-settings-tt.php:158
+#: inc/views/settings/metaboxes/post-type-archive.php:208
+msgid "Remove the site title?"
+msgstr "Site başlığı kaldırılsın mı?"
+
+#: inc/views/settings/metaboxes/robots.php:370
+msgid "These settings apply to other globally registered content types."
+msgstr "Bu ayarlar, diğer genel olarak kayıtlı içerik türleri için geçerlidir."
+
+#: inc/views/settings/metaboxes/robots.php:369
+msgid "Global Settings"
+msgstr "Genel Ayarlar"
+
+#: inc/views/settings/metaboxes/robots.php:339
+msgid "These settings apply to the taxonomies of post types. When taxonomies have all their bound post types' options checked, they will inherit their status."
+msgstr "Bu ayarlar, gönderi türlerinin sınıflandırmaları için geçerlidir. Sınıflandırmaların tüm bağlı yazı türlerinin seçenekleri işaretlendiğinde, durumlarını devralırlar."
+
+#: inc/views/settings/metaboxes/robots.php:338
+msgid "Taxonomy Settings"
+msgstr "Sınıflandırma Ayarları"
+
+#. translators: PLURAL. 1 = noindex/nofollow/noarchive, 2 = Archives, Posts,
+#. Pages, etc.
+#: inc/views/settings/metaboxes/robots.php:296
+msgctxt "plural"
+msgid "Apply %1$s to %2$s?"
+msgstr "%2$s'a %1$s uygula?"
+
+#. translators: SINGULAR. 1 = noindex/nofollow/noarchive, 2 = The entire site
+#: inc/views/settings/metaboxes/robots.php:294
+msgctxt "singular"
+msgid "Apply %1$s to %2$s?"
+msgstr "%2$s'a %1$s uygula?"
+
+#: inc/views/settings/metaboxes/social.php:371
+msgid "LinkedIn displays the post's featured image in embeds. Check this option if you want to replace it with the social image."
+msgstr "LinkedIn, gönderinin öne çıkan görselini yerleştirmelerde görüntüler. Sosyal görsel ile değiştirmek istiyorsanız bu seçeneği işaretleyin."
+
+#: inc/views/settings/metaboxes/social.php:370
+msgid "Use social image?"
+msgstr "Sosyal görsel kullan?"
+
+#: inc/views/settings/metaboxes/social.php:363
+msgid "Only custom social images that are selected via the Media Library are considered."
+msgstr "Yalnızca Ortam Kütüphanesi aracılığıyla seçilen özel sosyal görseller dikkate alınır."
+
+#: inc/views/settings/metaboxes/social.php:358
+msgid "Check this option if you want to replace page titles with Open Graph titles in embeds."
+msgstr "Yerleştirmelerde sayfa başlıklarını Open Graph başlıklarıyla değiştirmek istiyorsanız bu seçeneği işaretleyin."
+
+#: inc/views/settings/metaboxes/social.php:357
+msgid "Use Open Graph title?"
+msgstr "Open Graph başlığı kullanılsın mı?"
+
+#: inc/views/settings/metaboxes/social.php:125
+msgid "Remove site title from generated social titles?"
+msgstr "Oluşturulan sosyal başlıklardan site başlığı kaldırılsın mı?"
+
+#: inc/views/settings/metaboxes/social.php:117
+msgid "When you provide a custom Open Graph or Twitter title, the site title will be omitted automatically."
+msgstr "Özel bir Açık Grafik veya Twitter başlığı girdiğinizde, site başlığı otomatik olarak çıkarılır."
+
+#: inc/views/settings/metaboxes/social.php:114
+msgid "Most social sites and third-party services automatically include the website URL inside their embeds. When the site title is described well in the site URL, including it in the social title will be redundant."
+msgstr "Çoğu sosyal site ve üçüncü taraf hizmeti, web sitesi URL'sini yerleştirmelerinin içine otomatik olarak ekler. Site başlığı, site URL'sinde iyi tanımlandığında, sosyal başlığa dahil olmak üzere gereksiz olacaktır."
+
+#: inc/views/settings/metaboxes/social.php:113
+msgid "Social Title Settings"
+msgstr "Sosyal Başlık Ayarları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:358
+msgid "Show logo next to sitemap header title?"
+msgstr "Site haritası başlığının yanında logo gösterilsin mi?"
+
+#: inc/views/settings/metaboxes/sitemaps.php:353
+msgid "Header Title Logo"
+msgstr "Üstbilgi Başlık Logosu"
+
+#: inc/views/settings/metaboxes/sitemaps.php:95
+msgid "Output optimized sitemap?"
+msgstr "Optimize edilmiş site haritası çıktısı?"
+
+#. translators: 1: Option label, 2: [?] option info note, 3: Optional warning
+#: inc/views/settings/metaboxes/homepage.php:446
+#: inc/views/settings/metaboxes/homepage.php:462
+#: inc/views/settings/metaboxes/homepage.php:478
+msgctxt "robots setting"
+msgid "%1$s %2$s %3$s"
+msgstr "%1$s %2$s %3$s"
+
+#: inc/views/settings/metaboxes/description.php:34
+msgid "Learn how this feature works."
+msgstr "Bu özelliğin nasıl çalıştığını öğrenin."
+
+#: inc/views/settings/metaboxes/title.php:323
+msgid "Remove term type prefixes from generated archive titles?"
+msgstr "Oluşturulan arşiv başlıklarından terim türü önekleri kaldırılsın mı?"
+
+#: inc/views/settings/metaboxes/title.php:292
+msgid "Remove site title from the title?"
+msgstr "Site başlığı başlıktan kaldırılsın mı?"
+
+#: inc/views/settings/metaboxes/title.php:284
+msgid "Always brand your titles. Search engines may ignore your titles with this feature enabled."
+msgstr "Her zaman başlıklarınızı işaretleyin. Bu özellik etkinken arama motorları başlıklarınızı görmezden gelebilir."
+
+#: inc/views/settings/metaboxes/title.php:234
+msgid "Site Title"
+msgstr "Site Başlığı"
+
+#: inc/views/settings/metaboxes/title.php:252
+msgid "Site Title Location"
+msgstr "Site Başlığı Konumu"
+
+#: inc/views/settings/metaboxes/title.php:249
+msgid "This option does not affect the homepage; it uses a different one."
+msgstr "Bu seçenek ana sayfayı etkilemez; farklı bir tane kullanır."
+
+#. translators: %s = HTML tag example
+#: inc/views/settings/metaboxes/title.php:212
+msgid "This strips HTML tags, like %s, from the title. Disable this option to display generated HTML tags as plain text in meta titles."
+msgstr "Bu, %s gibi HTML etiketlerini başlıktan çıkarır. Oluşturulan HTML etiketlerini meta başlıklarda düz metin olarak görüntülemek için bu seçeneği devre dışı bırakın."
+
+#: inc/views/settings/metaboxes/title.php:75
+msgid "Example Archive Title Output"
+msgstr "Örnek Arşiv Başlığı Çıktısı"
+
+#: inc/views/settings/metaboxes/title.php:58
+msgid "Example Page Title Output"
+msgstr "Örnek Sayfa Başlığı Çıktısı"
+
+#: inc/views/settings/metaboxes/title.php:28
+msgid "Example Post"
+msgstr "Örnek Yazı"
+
+#: inc/views/settings/metaboxes/general.php:411
+msgid "When taxonomies have all their bound post types excluded, they will inherit their exclusion status."
+msgstr "Sınıflandırmaların tüm bağlı gönderi türleri hariç tutulduğunda, hariç tutma durumlarını devralırlar."
+
+#: inc/views/settings/metaboxes/general.php:410
+msgid "Select taxonomies which should be excluded."
+msgstr "Hariç tutulması gereken sınıflandırmaları seçin."
+
+#: inc/views/settings/metaboxes/general.php:409
+msgid "Taxonomy Exclusions"
+msgstr "Sınıflandırma Hariç Tutma"
+
+#: inc/views/settings/metaboxes/general.php:379
+msgid "Select post types which should be excluded."
+msgstr "Hariç tutulması gereken gönderi türlerini seçin."
+
+#: inc/views/settings/metaboxes/general.php:378
+msgid "Post Type Exclusions"
+msgstr "Gönderi Türü Hariç Tutma"
+
+#: inc/views/settings/metaboxes/general.php:373
+msgid "Default post types and taxonomies can not be excluded."
+msgstr "Varsayılan gönderi türleri ve sınıflandırmaları devre dışı bırakılamaz."
+
+#. translators: backticks are code wraps. Markdown!
+#: inc/views/settings/metaboxes/general.php:369
+msgid "These options should not need changing when post types and taxonomies are registered correctly. When they aren't, consider applying `noindex` to purge them from search engines, instead."
+msgstr "Gönderi türleri ve sınıflandırmalar doğru kaydedildiğinde bu seçeneklerin değiştirilmesine gerek yoktur. Değilse, arama motorlarından temizlemek için \"noindex\" uygulamayı düşünün."
+
+#: inc/views/settings/metaboxes/general.php:365
+msgid "When checked, these options will remove meta optimizations, SEO suggestions, and sitemap inclusions for the selected post types and taxonomies. This will allow search engines to crawl the post type and taxonomies without advanced restrictions or directions."
+msgstr "Bu seçenek işaretlendiğinde, seçilen gönderi türleri ve sınıflandırmalar için meta optimizasyonları, SEO önerilerini ve site haritası eklemelerini kaldıracaktır. Bu, arama motorlarının gelişmiş kısıtlamalar veya talimatlar olmadan gönderi türünü ve sınıflandırmalarını taramasına izin verecektir."
+
+#: inc/views/settings/metaboxes/general.php:364
+msgid "Exclusion Settings"
+msgstr "Hariç Tutma Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:42
+msgid "Exclusions"
+msgstr "Hariç Tutulanlar"
+
+#: inc/views/templates/settings/settings.php:59
+msgid "This taxonomy inherited the state from the post type, so this option won't have any effect."
+msgstr "Bu sınıflandırma, durumu yazı türünden devralmıştır, bu nedenle bu seçeneğin herhangi bir etkisi olmayacaktır."
+
+#: inc/views/templates/settings/settings.php:49
+msgid "The site title is already removed from meta titles, so this option only affects the homepage."
+msgstr "Site başlığı meta başlıklardan zaten kaldırılmıştır, bu nedenle bu seçenek yalnızca ana sayfayı etkiler."
+
+#: inc/views/templates/settings/settings.php:39
+msgid "This taxonomy's post types are also excluded, so this option won't have any effect."
+msgstr "Bu sınıflandırmanın gönderi türleri de devre dışı bırakıldığından, bu seçeneğin herhangi bir etkisi olmayacaktır."
+
+#: inc/views/templates/settings/settings.php:29
+msgid "This taxonomy is excluded, so this option won't work."
+msgstr "Bu sınıflandırma devre dışı bırakıldığı için bu seçenek çalışmayacaktır."
+
+#. translators: %s = number
+#: inc/classes/interpreters/form.class.php:144
+msgid "Characters: %s"
+msgstr "Karakter: %s"
+
+#: inc/classes/builders/seobar/term.class.php:401
+msgid "It's built from the term SEO meta input."
+msgstr "SEO meta girişi teriminden oluşturulmuştur."
+
+#: inc/classes/builders/seobar/term.class.php:399
+msgid "Obtained from the term SEO meta input."
+msgstr "SEO meta girdisi teriminden elde edilmiştir."
+
+#: inc/classes/builders/seobar/term.class.php:199
+msgid "It's built from the term name."
+msgstr "Terim adından oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:414
+msgid "It's built from the page SEO meta input."
+msgstr "SEO meta giriş sayfasından oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:412
+msgid "Obtained from the page SEO meta input."
+msgstr "SEO meta giriş sayfasından oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:381
+#: inc/classes/builders/seobar/term.class.php:368
+msgid "Markup syntax was found that isn't transformed. Consider rewriting the custom description."
+msgstr "Dönüştürülmemiş işaretleme sözdizimi bulundu. Özel açıklamayı yeniden yazmayı düşünün."
+
+#: inc/classes/builders/seobar/page.class.php:378
+msgid "It's built from the page excerpt field."
+msgstr "Sayfa alıntı alanından oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:376
+msgid "A page builder is used that renders content dynamically, so no description can be generated for performance and privacy reasons. Consider providing a custom description."
+msgstr "İçeriği dinamik olarak oluşturan bir sayfa oluşturucu kullanılır, bu nedenle performans ve gizlilik nedenleriyle hiçbir açıklama oluşturulamaz. Özel bir açıklama sağlamayı düşünün."
+
+#: inc/classes/builders/seobar/page.class.php:172
+#: inc/classes/builders/seobar/term.class.php:184
+msgid "Markup syntax was found that isn't transformed. Consider rewriting the custom title."
+msgstr "Dönüştürülmemiş işaretleme sözdizimi bulundu. Özel başlığı yeniden yazmayı düşünün."
+
+#: inc/classes/builders/seobar/page.class.php:167
+#: inc/classes/builders/seobar/term.class.php:179
+msgid "It's not branded. Search engines may ignore your title. Consider adding back the site title."
+msgstr "İşaretli değil. Arama motorları başlığınızı görmezden gelebilir. Site başlığını tekrar eklemeyi düşünün."
+
+#. translators: 1: Method or Property name, 2: The SEO Framework class. 3:
+#. Message
+#: inc/classes/internal/debug.class.php:249
+msgid "%1$s is not accessible in %2$s. %3$s"
+msgstr "%1$s , %2$s. %3$s içinde erişilebilir değil."
+
+#. translators: 1 = 'Assessment(s)', 2 = A list of assessments.
+#: inc/classes/interpreters/seobar.class.php:372
+msgctxt "assessment list"
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: 1 = Assessment number (mind the %d (D)), 2 = Assessment
+#. explanation
+#: inc/classes/interpreters/seobar.class.php:370
+msgctxt "assessment enumeration"
+msgid "%1$d: %2$s"
+msgstr "%1$d: %2$s"
+
+#. translators: 1 = SEO Bar type title, 2 = Status reason. 3 = Assessments
+#: inc/classes/interpreters/seobar.class.php:326
+msgctxt "SEO Bar ARIA assessment enumeration"
+msgid "%1$s: %2$s %3$s"
+msgstr "%1$s: %2$s %3$s"
+
+#. translators: %s = Link, markdown.
+#: bootstrap/upgrade.php:451
+msgid "To take full advantage of all SEO features, please follow our [5-minute setup guide](%s)."
+msgstr "Tüm SEO özelliklerinden tam olarak yararlanmak için lütfen [5 dakikalık kurulum kılavuzumuzu] (%s) izleyin."
+
+#: bootstrap/upgrade.php:447
+msgid "The SEO Framework automatically optimizes your website for search engines and social media."
+msgstr "SEO Framework, web sitenizi arama motorları ve sosyal medya için otomatik olarak optimize eder."
+
+#. translators: %1$s = New, lower version number, surrounded in
+#. markdown-backticks. %2$s = Old, higher version number, surrounded in
+#. markdown-backticks.
+#: bootstrap/upgrade.php:367
+msgid "Your website has been downgraded successfully to use The SEO Framework at database version `%1$s` from `%2$s`."
+msgstr "Web siteniz, SEO Framework'ü `%1$s` veritabanı sürümünde kullanmak için `%2$s` sürümünden başarıyla değiştirildi."
+
+#: inc/views/settings/metaboxes/title.php:207
+msgid "Some titles may have HTML tags inserted by the author for styling."
+msgstr "Bazı başlıklarda stil için yazar tarafından eklenen HTML etiketleri bulunabilir."
+
+#: inc/views/settings/metaboxes/title.php:206
+msgid "A title is generated for every page."
+msgstr "Her sayfa için bir başlık oluşturulur."
+
+#: inc/views/settings/metaboxes/social.php:308
+msgid "However, for now, these fields seem to have no discernible effect."
+msgstr "Ancak şimdilik bu alanların fark edilebilir bir etkisi yok gibi görünüyor."
+
+#: inc/views/settings/metaboxes/social.php:307
+msgid "Twitter claims users will be able to follow and view the profiles of attributed accounts directly from the card when these fields are filled in."
+msgstr "Twitter, kullanıcıların bu alanları doldurulduğunda ilişkilendirilmiş hesapların profillerini doğrudan karttan takip edebileceğini ve görüntüleyebileceğini iddia ediyor."
+
+#: inc/views/settings/metaboxes/social.php:305
+msgid "Card and Content Attribution"
+msgstr "Kart ve İçerik İlişkisi"
+
+#: inc/views/settings/metaboxes/social.php:290
+msgid "Learn more about this card."
+msgstr "Bu kart hakkında daha fazla bilgi edinin."
+
+#: inc/classes/bridges/plugintable.class.php:69
+msgctxt "Plugin pricing"
+msgid "Pricing"
+msgstr "Fiyatlandırma"
+
+#: inc/compat/plugin-bbpress.php:176
+msgid "View: %s"
+msgstr "Görüntüle: %s"
+
+#: inc/compat/plugin-bbpress.php:168
+msgid "Edit %s's Profile"
+msgstr "%s Profilini Düzenle"
+
+#: inc/compat/plugin-bbpress.php:163
+msgid "Edit Your Profile"
+msgstr "Profilinizi Düzenleyin"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:154
+msgid "%s's Profile"
+msgstr "%s Profili"
+
+#: inc/compat/plugin-bbpress.php:150
+msgid "Your Profile"
+msgstr "Profiliniz"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:144
+msgid "%s's Subscriptions"
+msgstr "%s Abonelikleri"
+
+#: inc/compat/plugin-bbpress.php:140
+msgid "Your Subscriptions"
+msgstr "Abonelikleriniz"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:134
+msgid "%s's Favorites"
+msgstr "%s Favorileri"
+
+#: inc/compat/plugin-bbpress.php:130
+msgid "Your Favorites"
+msgstr "Favorileriniz"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:124
+msgid "%s's Replies"
+msgstr "%s Yanıtları"
+
+#: inc/compat/plugin-bbpress.php:120
+msgid "Your Replies"
+msgstr "Yanıtlarınız"
+
+#. translators: user's display name
+#: inc/compat/plugin-bbpress.php:114
+msgid "%s's Topics"
+msgstr "%s Konuları"
+
+#: inc/compat/plugin-bbpress.php:110
+msgid "Your Topics"
+msgstr "Konularınız"
+
+#: inc/compat/plugin-bbpress.php:97
+msgid "Topic Tag: %s"
+msgstr "Konu Etiketi: %s"
+
+#: inc/compat/plugin-bbpress.php:88
+msgid "Topic: %s"
+msgstr "Konu: %s"
+
+#: inc/compat/plugin-bbpress.php:83
+msgid "Forum: %s"
+msgstr "Forum: %s"
+
+#: inc/compat/plugin-bbpress.php:76
+msgid "Topic Tag Edit: %s"
+msgstr "Konu Etiketi Düzenle: %s"
+
+#: inc/compat/plugin-bbpress.php:71
+msgid "Reply Edit: %s"
+msgstr "Yanıtı Düzenle: %s"
+
+#: inc/compat/plugin-bbpress.php:66
+msgid "Topic Edit: %s"
+msgstr "Konuyu Düzenle: %s"
+
+#: inc/compat/plugin-bbpress.php:61
+msgid "Forum Edit: %s"
+msgstr "Forumu Düzenle: %s"
+
+#: inc/views/settings/metaboxes/robots.php:118
+msgid "Enable advanced query protection?"
+msgstr "Gelişmiş sorgu koruması etkinleştirilsin mi?"
+
+#: inc/views/settings/metaboxes/robots.php:113
+msgid "Some URL queries can cause WordPress to show faux archives. When search engines spot these, they will crawl and index them, which may cause a drop in ranking. Advanced query protection will prevent robots from indexing these archives."
+msgstr "Bazı URL sorguları WordPress'in sahte arşivler göstermesine neden olabilir. Arama motorları bunları tespit ettiğinde, tarar ve dizine ekler, bu da sıralamada düşüşe neden olabilir. Gelişmiş sorgu koruması, robotların bu arşivleri dizine eklemesini önleyecektir."
+
+#: inc/views/settings/metaboxes/robots.php:112
+msgid "Advanced Query Protection"
+msgstr "Gelişmiş Sorgu Koruması"
+
+#: inc/views/settings/metaboxes/feed.php:32
+msgid "If this site publishes podcasts, enable this option. Otherwise, leave it disabled. Indexing feeds can cause search engines to crawl and index new pages slower; however, some podcast services require feeds to be indexable."
+msgstr "Sitenizde podcast yayınlıyorsa, bu seçeneği etkinleştirin. Aksi takdirde, devre dışı bırakın. Feed'leri endeksleme, arama motorlarının yeni sayfaları daha yavaş taramasına ve dizine eklemesine neden olabilir; ancak, bazı podcast hizmetleri özet akışlarının dizine eklenebilir olmasını gerektirir."
+
+#: inc/views/settings/metaboxes/feed.php:31
+msgid "Allow indexing of feeds?"
+msgstr "Yayınların dizine eklenmesine izin verilsin mi?"
+
+#: inc/views/settings/metaboxes/webmaster.php:60
+msgid "Get the Baidu verification code."
+msgstr "Baidu doğrulama kodunu alın."
+
+#. translators: literal translation from '百度搜索资源平台'-Code
+#: inc/views/settings/metaboxes/webmaster.php:58
+msgid "Baidu Search Resource Platform Code"
+msgstr "Baidu Arama Kaynağı Platform Kodu"
+
+#. translators: %s = Learn more URL. Markdown!
+#: inc/views/settings/metaboxes/schema.php:298
+msgid "These settings are marked for removal. When you clear a field, it will be hidden forever. [Learn more](%s)."
+msgstr "Bu ayarlar kaldırılmak üzere işaretlenmiştir. Bir alanı temizlediğinizde, sonsuza kadar gizlenir. [Daha fazla bilgi edinin] (%s)."
+
+#: inc/views/settings/metaboxes/homepage.php:435
+msgctxt "Bear with me: the homepage can be edited globally, or via its page. Thus \"homepage page\"."
+msgid "Edit homepage page settings"
+msgstr "Ana sayfa ayarlarını düzenleme"
+
+#: inc/views/settings/metaboxes/social.php:380
+msgid "Discord shows the page author's name above the sharing embed. Check this option if you find this undesirable."
+msgstr "Discord, sayfa yazarının adını paylaşımın üzerinde gösterir. Bunu istemiyorsanız bu seçeneği işaretleyin."
+
+#: inc/views/settings/metaboxes/social.php:379
+msgid "Remove author name?"
+msgstr "Yazar adı kaldırılsın mı?"
+
+#: inc/views/settings/metaboxes/social.php:348
+msgid "Some social sharing services and clients, like WordPress, LinkedIn, and Discord, obtain the linked page information via oEmbed."
+msgstr "WordPress ve Discord gibi bazı sosyal paylaşım hizmetleri ve istemcileri, bağlantılı sayfa bilgilerini oEmbed aracılığıyla edinir."
+
+#: inc/views/settings/metaboxes/social.php:347
+msgid "oEmbed Settings"
+msgstr "oEmbed Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:264
+msgid "Twitter Integration Settings"
+msgstr "Twitter Entegrasyon Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:198
+msgid "Facebook Integration Settings"
+msgstr "Facebook Entegrasyon Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:168
+msgid "Theme Color"
+msgstr "Tema Rengi"
+
+#: inc/views/settings/metaboxes/social.php:164
+msgid "Discord styles embeds with the theme color. The theme color can also affect the tab-color in some browsers."
+msgstr "Discord stillerini tema rengine gömer. Tema rengi, bazı tarayıcılarda sekme rengini de etkileyebilir."
+
+#: inc/views/settings/metaboxes/social.php:163
+msgid "Theme Color Settings"
+msgstr "Tema Renk Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:106
+msgid "WordPress, Discord, Drupal, Squarespace, and many other clients can make use of these scripts."
+msgstr "WordPress, Discord, Drupal, Squarespace ve diğer birçok istemci bu komut dosyalarını kullanabilir."
+
+#: inc/views/settings/metaboxes/social.php:105
+msgid "Output oEmbed scripts?"
+msgstr "Gömülü komut dosyaları çıktısı?"
+
+#: inc/views/templates/settings/settings.php:19
+msgid "This post type is excluded, so this option won't work."
+msgstr "Bu gönderi türü devre dışı, bu nedenle bu seçenek çalışmaz."
+
+#: inc/classes/bridges/plugintable.class.php:103
+msgid "Get support"
+msgstr "Destek alın"
+
+#: inc/classes/builders/seobar/page.class.php:178
+#: inc/classes/builders/seobar/page.class.php:387
+#: inc/classes/builders/seobar/term.class.php:190
+#: inc/classes/builders/seobar/term.class.php:374
+msgid "Found markup syntax."
+msgstr "İşaretleme sözdizimi bulundu."
+
+#: inc/views/settings/metaboxes/social.php:84
+msgid "Output various meta tags targeted at Facebook."
+msgstr "Facebook'ta hedeflenen çeşitli meta etiketler çıktıları."
+
+#: inc/views/settings/metaboxes/robots.php:242
+msgctxt "quanity: zero"
+msgid "None, still image only"
+msgstr "Yok, yalnızca görsel"
+
+#: inc/views/settings/metaboxes/robots.php:198
+msgid "This directive also imposes a limit on meta descriptions and structured data, which unintentionally restricts the amount of information you can share. Therefore, it's best to use at least a 320 character limit."
+msgstr "Bu yönerge, meta açıklamalara ve yapılandırılmış verilere, sınırsız olarak paylaşabileceğiniz bilgi miktarını kısıtlayan bir sınır da getirir. Bu nedenle, en az 320 karakter sınırı kullanmak en iyisidir."
+
+#: inc/views/list/bulk-post.php:71
+#: inc/views/settings/metaboxes/post-type-archive.php:436
+msgid "Default (unknown)"
+msgstr "Varsayılan (bilinmeyen)"
+
+#: inc/views/list/bulk-post.php:70
+msgid "&mdash; No Change &mdash;"
+msgstr "&mdash; Değişiklik yok &mdash; "
+
+#: inc/views/edit/seo-settings-tt.php:349
+msgid "These directives may urge robots not to display, follow links on, or create a cached copy of this term."
+msgstr "Bu talimatlar, robotları bu terimin görüntülemesini, bağlantılarını izlemesini veya önbelleğe alınmış bir kopyasını oluşturmamasını isteyebilir."
+
+#: inc/views/edit/seo-settings-tt.php:321 inc/views/list/bulk-post.php:57
+#: inc/views/list/quick-post.php:94 inc/views/list/quick-term.php:94
+msgid "Visibility SEO Settings"
+msgstr "SEO Görünürlük Ayarları"
+
+#: inc/views/edit/seo-settings-tt.php:204
+msgid "Social SEO Settings"
+msgstr "Sosyal SEO Ayarları"
+
+#: inc/views/edit/seo-settings-tt.php:99 inc/views/list/quick-post.php:57
+#: inc/views/list/quick-term.php:57
+msgid "General SEO Settings"
+msgstr "Genel SEO Ayarları"
+
+#: inc/views/edit/seo-settings-singular.php:383
+msgid "Exclude this page from all archive queries on this site."
+msgstr "Bu sayfayı, bu sitedeki tüm arşiv sorgularından hariç tut."
+
+#: inc/views/edit/seo-settings-singular.php:374
+msgid "Exclude this page from all search queries on this site."
+msgstr "Bu sayfayı, bu sitedeki tüm arama sorgularının dışında tut."
+
+#. translators: %s = default option value
+#: inc/views/edit/seo-settings-singular.php:334
+#: inc/views/edit/seo-settings-singular.php:342
+#: inc/views/edit/seo-settings-tt.php:365
+#: inc/views/edit/seo-settings-tt.php:374 inc/views/list/quick-post.php:114
+#: inc/views/list/quick-term.php:114
+#: inc/views/settings/metaboxes/post-type-archive.php:443
+msgid "Default (%s)"
+msgstr "Varsayılan (%s)"
+
+#: inc/views/edit/seo-settings-singular.php:306
+msgid "Note: A non-default selection here will overwrite the global homepage SEO settings."
+msgstr "Not: Varsayılan olmayan bir seçim, genel ana sayfa ayarlarının üzerine yazacaktır."
+
+#: inc/views/edit/seo-settings-singular.php:292
+msgid "These directives may urge robots not to display, follow links on, or create a cached copy of this page."
+msgstr "Bu talimatlar, robotları bu sayfanın görüntülenmesini, bağlantılarını izlemesini veya önbelleğe alınmış bir kopyasını oluşturmamasını isteyebilir."
+
+#: inc/views/edit/seo-settings-singular.php:249
+#: inc/views/edit/seo-settings-tt.php:75 inc/views/list/bulk-post.php:29
+#: inc/views/list/quick-post.php:29
+#: inc/views/settings/metaboxes/post-type-archive.php:389
+msgid "Link following"
+msgstr "Bağlantı takibi"
+
+#: inc/views/edit/seo-settings-singular.php:168
+msgid "For the homepage, this option must be managed on the SEO Settings page."
+msgstr "Ana sayfa için, bu seçeneğin SEO Ayarlarında yönetilmesi gerekir."
+
+#: inc/views/settings/metaboxes/title.php:181
+msgid "If the title consists of multiple parts, then the separator will go in-between them."
+msgstr "Başlık birden fazla bölümden oluşuyorsa, ayırıcı aralarına girecektir."
+
+#: inc/views/settings/metaboxes/feed.php:73
+msgid "View the main feed."
+msgstr "Ana haber akışını görüntüleyin."
+
+#. translators: %s = Reading Settings URL. Links are in Markdown!
+#: inc/views/settings/metaboxes/feed.php:60
+msgid "Note: The feed is already converted into an excerpt through the [Reading Settings](%s)."
+msgstr "Not: Ana akış, [Okuma Ayarları] (%s) aracılığıyla bir alıntıya zaten dönüştürülmüş."
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/social.php:410
+msgid "Add `article:modified_time` to posts?"
+msgstr "Yazıya `article:modified_time` ekle?"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/social.php:401
+msgid "Add `article:published_time` to posts?"
+msgstr "Yazıya `article:published_time` ekle?"
+
+#: inc/views/settings/metaboxes/social.php:274
+msgid "The Twitter Card type may have the image highlighted, either small at the side or large above."
+msgstr "Twitter Kartı türü, görselin yandan küçük veya büyük olarak vurgulanmasına neden olabilir."
+
+#: inc/views/settings/metaboxes/social.php:265
+msgid "Twitter post sharing works mostly through Twitter Cards, and may fall back to use Open Graph. However, you can also link your Business and Personal Twitter pages, among various other options."
+msgstr "Twitter yazı paylaşımı, çoğunlukla Twitter Kartları üzerinden çalışır ve Open Graph kullanmak için geri düşebilir. Bununla birlikte, İş ve Kişisel Twitter sayfalarınızı diğer seçeneklerin yanı sıra bağlayabilirsiniz."
+
+#: inc/views/settings/metaboxes/social.php:148
+msgid "When no image is available from the page or term, this fallback image will be used instead."
+msgstr "Sayfadan veya terimden hiçbir görsel elde edilemediğinde, bu geri dönüş görseli yerine kullanılır."
+
+#: inc/views/settings/metaboxes/social.php:140
+msgid "This enables users to select any image attached to the page shared on social networks, like Facebook."
+msgstr "Bu, kullanıcıların, Facebook gibi sosyal ağlarda paylaşılan sayfaya eklenen herhangi bir görseli seçmelerini sağlar."
+
+#: inc/views/settings/metaboxes/social.php:139
+msgid "Output multiple Open Graph image tags?"
+msgstr "Çoklu Open Graph görüntü etiketleri çıktısı açılsın mı?"
+
+#. translators: %s = Homepage URL markdown
+#: inc/views/settings/metaboxes/homepage.php:520
+msgid "Note: These options may be overwritten by the [page settings](%s)."
+msgstr "Not: Bu seçeneklerin üzerine [sayfa ayarları] (%s) yazılabilir."
+
+#: inc/views/edit/seo-settings-singular.php:302
+#: inc/views/settings/metaboxes/homepage.php:492
+msgid "Warning: No public site should ever apply \"noindex\" or \"nofollow\" to the homepage."
+msgstr "Uyarı: Hiçbir genel site ana sayfaya \"noindex\" veya \"nofollow\" uygulamamalıdır."
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:481
+msgid "Apply `noarchive` to the homepage?"
+msgstr "Anasayfaya 'noarchive' uygula?"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:465
+msgid "Apply `nofollow` to the homepage?"
+msgstr "Anasayfaya 'nofollow' uygula?"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:449
+msgid "Apply `noindex` to the homepage?"
+msgstr "Anasayfaya 'noindex' uygula?"
+
+#: inc/views/settings/metaboxes/homepage.php:436
+msgid "Overwritten by page settings"
+msgstr "Sayfa ayarlarının üzerine yaz"
+
+#: inc/views/edit/seo-settings-singular.php:570
+#: inc/views/edit/seo-settings-tt.php:301
+#: inc/views/settings/metaboxes/homepage.php:397
+#: inc/views/settings/metaboxes/post-type-archive.php:335
+msgid "The social image URL can be used by search engines and social networks alike. It's best to use an image with a 1.91:1 aspect ratio that is at least 1200px wide for universal support."
+msgstr "Sosyal görsel URL'si, arama motorları ve benzer sosyal ağlar tarafından kullanılabilir. Evrensel destek için en az 1200px genişliğe sahip 1,91:1 en boy oranına sahip bir görsel kullanmak en iyisidir."
+
+#: inc/views/settings/metaboxes/homepage.php:105
+msgid "Note: The input value of this field may be used to describe the name of the site elsewhere."
+msgstr "Not: Bu alanın giriş değeri, başka bir yerde sitenin ismini tanımlamak için kullanılabilir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:309
+msgid "You can style the optimized sitemap to give it a more personal look for your visitors. Search engines do not use these styles."
+msgstr "Site haritasına ziyaretçilerinize daha kişisel bir görünüm sunmak için stil oluşturabilirsiniz. Arama motorları bu stilleri kullanmaz."
+
+#: inc/views/settings/metaboxes/sitemaps.php:262
+msgid "This speeds up post and term saving processes, by offsetting pinging to a later time."
+msgstr "Bu, pinglemeyi daha sonraya erteleyerek yazı ve terim tasarruf işlemlerini hızlandırır."
+
+#: inc/views/settings/metaboxes/sitemaps.php:260
+msgid "Use cron for pinging?"
+msgstr "Pingleme için cron kullan?"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/sitemaps.php:242
+msgid "Add `<lastmod>` to the sitemap?"
+msgstr "Site haritasına '<lastmod>' ekle?"
+
+#: inc/views/settings/metaboxes/sitemaps.php:235
+msgid "The modified time suggests to search engines where to look for content changes first."
+msgstr "Değiştirilen süre, öncelikle içerik değişikliklerinin aranacağı arama motorlarını önerir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:227
+msgid "View the robots.txt output."
+msgstr "Robots.txt çıktısını görüntüle."
+
+#: inc/views/settings/metaboxes/sitemaps.php:210
+msgid "Sitemap Hinting"
+msgstr "Site Haritası İpuçları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:204
+msgid "The robots.txt output is the first thing search engines look for before crawling your site. If you add the sitemap location in that output, then search engines may automatically access and index the sitemap."
+msgstr "Robots.txt çıktısı, arama motorlarının sitenizi taramadan önce aradığı ilk şeydir. Site haritası konumuna bu çıktıya eklerseniz, arama motorları otomatik olarak site haritasına erişebilir ve dizine ekleyebilir."
+
+#. translators: 1 = Link to settings, Markdown. 2 = example input, also
+#. markdown! Preserve the Markdown as-is!
+#: inc/views/settings/metaboxes/sitemaps.php:192
+msgid "Change your [Permalink Settings](%1$s). Recommended structure: `%2$s`."
+msgstr "[Permalink Settings] ayarınızı değiştirin (%1$s). Önerilen yapı: `%2$s`."
+
+#: inc/views/settings/metaboxes/sitemaps.php:186
+msgid "Note: You're using the plain permalink structure; so, no robots.txt file can be generated."
+msgstr "Not: Düz kalıcı bağlantı yapısını kullanıyorsunuz; bu nedenle, hiçbir robots.txt dosyası oluşturulamaz."
+
+#: inc/views/settings/metaboxes/sitemaps.php:112
+msgid "View the base sitemap."
+msgstr "Temel site haritasını göster."
+
+#: inc/views/settings/metaboxes/schema.php:271
+msgid "Tumblr Blog"
+msgstr "Tumblr Blog"
+
+#: inc/views/settings/metaboxes/schema.php:264
+msgid "SoundCloud Profile"
+msgstr "SoundCloud Profili"
+
+#: inc/views/settings/metaboxes/schema.php:257
+msgid "Pinterest Profile"
+msgstr "Pinterest Profili"
+
+#: inc/views/settings/metaboxes/schema.php:246
+msgid "LinkedIn Profile"
+msgstr "LinkedIn Profili"
+
+#: inc/views/settings/metaboxes/schema.php:239
+msgid "Youtube Profile"
+msgstr "Youtube Profili"
+
+#: inc/views/settings/metaboxes/schema.php:232
+msgid "Instagram Profile"
+msgstr "Instagram Profili"
+
+#: inc/views/settings/metaboxes/schema.php:225
+msgctxt "Google+ is dead. &#8224; is a cross, indicating that."
+msgid "Google+ Profile&#8224;"
+msgstr "Google+ Profili&#8224;"
+
+#: inc/views/settings/metaboxes/schema.php:211
+msgid "Facebook Page"
+msgstr "Facebook Sayfası"
+
+#: inc/views/settings/metaboxes/schema.php:292
+msgid "Add links that lead directly to the connected social pages of this website."
+msgstr "Doğrudan bu web sitesinin bağlı sosyal sayfalarına yönlendiren bağlantılar ekleyin."
+
+#: inc/views/settings/metaboxes/robots.php:279
+msgid "This may limit the video preview length for all videos on this site."
+msgstr "Bu ayar, sitedeki tüm videolar için video önizleme uzunluğunu sınırlayabilir."
+
+#: inc/views/settings/metaboxes/robots.php:275
+msgid "Maximum video preview length"
+msgstr "Maksimum video önizleme uzunluğu"
+
+#. translators: %d = number
+#: inc/views/settings/metaboxes/robots.php:246
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d saniye"
+msgstr[1] "%d saniye"
+
+#: inc/views/settings/metaboxes/robots.php:241
+msgid "Full video preview"
+msgstr "Tam video önizlemesi"
+
+#: inc/views/settings/metaboxes/robots.php:231
+msgid "This may limit the image preview size for all images from this site."
+msgstr "Bu ayar, bu sitedeki tüm resimler için resim önizleme boyutunu sınırlayabilir."
+
+#: inc/views/settings/metaboxes/robots.php:227
+msgid "Maximum image preview size"
+msgstr "Maksimum görüntü önizleme boyutu"
+
+#: inc/views/settings/metaboxes/robots.php:209
+msgid "Large or full size"
+msgstr "Büyük veya tam boy"
+
+#: inc/views/settings/metaboxes/robots.php:208
+msgid "Thumbnail or standard size"
+msgstr "Küçük resim veya standart boyut"
+
+#: inc/views/settings/metaboxes/robots.php:207
+msgctxt "quanity: zero"
+msgid "None, disallow preview"
+msgstr "Hiçbiri, önizlemeye izin verme"
+
+#: inc/views/settings/metaboxes/robots.php:194
+msgid "This may limit the text snippet length for all pages on this site."
+msgstr "Bu, bu sitedeki tüm sayfalar için metin snippet uzunluğunu sınırlayabilir."
+
+#: inc/views/settings/metaboxes/robots.php:190
+msgid "Maximum text snippet length"
+msgstr "Maksimum metin snippet uzunluğu"
+
+#: inc/views/settings/metaboxes/robots.php:167
+#: inc/views/settings/metaboxes/robots.php:253
+msgid "Granular directive"
+msgstr "Ayrıntılı yönerge"
+
+#: inc/views/settings/metaboxes/robots.php:166
+#: inc/views/settings/metaboxes/robots.php:252
+msgid "Standard directive"
+msgstr "Standart yönerge"
+
+#. translators: %d = number
+#: inc/views/settings/metaboxes/robots.php:160
+msgid "%d character"
+msgid_plural "%d characters"
+msgstr[0] "%d karakter"
+msgstr[1] "%d karakter"
+
+#: inc/views/settings/metaboxes/robots.php:156
+msgctxt "quanity: zero"
+msgid "None, disallow snippet"
+msgstr "Hiçbiri, snippet'e izin verme"
+
+#: inc/views/settings/metaboxes/robots.php:155
+msgid "Unlimited"
+msgstr "Sınırsız"
+
+#: inc/views/settings/metaboxes/robots.php:149
+msgid "Specify aggregator copyright compliance directives?"
+msgstr "Toplayıcı telif hakkı uyumluluk direktifleri belirtilsin mi?"
+
+#: inc/views/settings/metaboxes/robots.php:144
+msgid "Some search engines allow you to control copyright directives on the content they aggregate. It's best to allow some content to be taken by these aggregators, as that can improve contextualized exposure via snippets and previews. When left unspecified, regional regulations may apply. It is up to the aggregator to honor these requests."
+msgstr "Bazı arama motorları, topladıkları içerikle ilgili telif hakkı yönergelerini kontrol etmenizi sağlar. Parçacıklar ve önizlemeler aracılığıyla içeriğe dayalı pozlamayı artırabileceğinden, bu toplayıcılar tarafından bazı içeriklerin alınmasına izin vermek en iyisidir. Belirtilmediğinde bölgesel düzenlemeler uygulanabilir. Bu talepleri yerine getirmek toplayıcıya bağlıdır."
+
+#: inc/views/settings/metaboxes/robots.php:143
+msgid "Copyright Directive Settings"
+msgstr "Telif Hakkı Yönerge Ayarları"
+
+#: inc/views/settings/metaboxes/robots.php:24
+msgid "Date archives"
+msgstr "Tarih arşivleri"
+
+#: inc/views/settings/metaboxes/robots.php:20
+msgid "Author pages"
+msgstr "Yazar sayfaları"
+
+#: inc/views/settings/metaboxes/general.php:380
+#: inc/views/settings/metaboxes/robots.php:306
+msgid "These settings apply to the post type pages and their terms. When terms are shared between post types, all their post types should be checked for this to have an effect."
+msgstr "Bu ayarlar yazı türü sayfalarına ve terimlerine uygulanır. Terimler yazı türleri arasında paylaşıldığında, bunun etkili olması için tüm yazı türleri denetlenmelidir."
+
+#. translators: %s = HTTP or HTTPS
+#: inc/views/settings/metaboxes/general.php:263
+msgid "Detect automatically (%s)"
+msgstr "Otomatik olarak algıla (%s)"
+
+#: inc/views/settings/metaboxes/general.php:253
+msgid "If your website is accessible via both HTTP as HTTPS, you may want to set this to HTTPS if not detected automatically. Secure connections are preferred by search engines."
+msgstr "Web sitenize her iki HTTP üzerinden HTTPS olarak erişilebiliyorsa, otomatik olarak algılanmazsa bunu HTTPS'ye ayarlamak isteyebilirsiniz. Güvenli bağlantılar arama motorları tarafından tercih edilir."
+
+#: inc/views/settings/metaboxes/general.php:149
+msgctxt "Perform query alteration: On the site"
+msgid "On the site"
+msgstr "Sitede"
+
+#: inc/views/settings/metaboxes/general.php:148
+msgctxt "Perform query alteration: In the database"
+msgid "In the database"
+msgstr "Veritabanında"
+
+#: inc/views/settings/metaboxes/general.php:81
+msgid "If you have difficulty discerning colors, this may help you spot issues more easily."
+msgstr "Renkleri ayırt etmekte zorlanıyorsanız, bu sorunları daha kolay fark etmenize yardımcı olabilir."
+
+#: inc/views/settings/metaboxes/general.php:80
+msgid "Use symbols for warnings?"
+msgstr "Uyarılar için semboller kullanın?"
+
+#. translators: %s = term name
+#: inc/views/templates/inpost/primary-term-selector.php:31
+msgid "The buttons below are for primary %s selection."
+msgstr "Aşağıdaki tuşlar birincil %s seçimi içindir."
+
+#: inc/classes/admin-init.class.php:337
+msgid "Far too long."
+msgstr "Çok uzun."
+
+#: inc/classes/admin-init.class.php:334
+msgid "Far too short."
+msgstr "Çok kısa."
+
+#: inc/classes/admin-init.class.php:333
+msgctxt "The string is empty"
+msgid "Empty."
+msgstr "Boş."
+
+#: inc/classes/interpreters/form.class.php:141
+msgid "Click to change the counter type"
+msgstr "Sayaç tipini değiştirmek için tıklayın"
+
+#: inc/classes/admin-pages.class.php:304 inc/views/notice/persistent.php:23
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı reddet"
+
+#: inc/classes/admin-pages.class.php:224
+msgid "An unknown error occurred saving SEO settings."
+msgstr "SEO ayarları kaydedilirken bilinmeyen bir hata oluştu."
+
+#: inc/classes/admin-pages.class.php:219
+msgid "SEO settings are reset, and the caches have been flushed."
+msgstr "SEO ayarları sıfırlandı ve önbellek temizlendi."
+
+#: inc/classes/admin-pages.class.php:214
+msgid "No SEO settings were changed, but the caches have been flushed."
+msgstr "SEO ayarları değişmedi, ancak önbellek temizlendi."
+
+#: inc/classes/admin-pages.class.php:209
+msgid "SEO settings are saved, and the caches have been flushed."
+msgstr "SEO ayarları kaydedildi ve önbellek temizlendi."
+
+#: inc/classes/interpreters/seobar.class.php:374
+msgid "Assessments"
+msgstr "Değerlendirmeler"
+
+#: inc/classes/interpreters/seobar.class.php:373
+msgid "Assessment"
+msgstr "Değerlendirme"
+
+#: inc/classes/builders/seobar/term.class.php:944
+msgid "Term redirects visitors."
+msgstr "Terim ziyaretçileri yeniden yönlendirir."
+
+#: inc/classes/builders/seobar/term.class.php:928
+msgid "Term does not redirect visitors."
+msgstr "Terim ziyaretçileri yeniden yönlendirmez."
+
+#: inc/classes/builders/seobar/term.class.php:836
+msgid "Term may not be archived."
+msgstr "Terim arşivlenmeyebilir."
+
+#: inc/classes/builders/seobar/term.class.php:827
+msgid "Term may be archived."
+msgstr "Terim arşivlenebilir."
+
+#: inc/classes/builders/seobar/term.class.php:817
+msgid "The term may not be indexed, this may also discourage archiving."
+msgstr "Terim dizine eklenmemiş olabilir, bu aynı zamanda arşivlemeyi de engelleyebilir."
+
+#: inc/classes/builders/seobar/term.class.php:816
+msgid "The term SEO meta input overrides the archiving state."
+msgstr "SEO meta girişi terimi, arşivleme durumunu geçersiz kılar."
+
+#: inc/classes/builders/seobar/term.class.php:815
+msgid "Archiving is discouraged for this taxonomy at the SEO Settings screen."
+msgstr "SEO Ayarları ekranındaki tüm yazı etiketleri için arşivleme önerilmez."
+
+#: inc/classes/builders/seobar/term.class.php:814
+msgid "Archiving is discouraged for all bound post types to this term at the SEO Settings screen."
+msgstr "SEO Ayarları ekranında, tüm ilişkili yazı türleri için bu terime arşivleme önerilmemektedir."
+
+#: inc/classes/builders/seobar/term.class.php:719
+msgid "Term links may not be followed."
+msgstr "Terim bağlantıları takip edilemeyebilir."
+
+#: inc/classes/builders/seobar/term.class.php:710
+msgid "Term links may be followed."
+msgstr "Terim bağlantıları takip edilmeyebilir."
+
+#: inc/classes/builders/seobar/term.class.php:700
+msgid "The term may not be indexed, this may also discourage link following."
+msgstr "Terim dizine eklenmemiş olabilir, bu aynı zamanda bağlantıyı izlemekten vazgeçirebilir."
+
+#: inc/classes/builders/seobar/term.class.php:699
+msgid "The term SEO meta input overrides the link following state."
+msgstr "SEO meta girişi terimi, durumu takip eden bağlantıyı geçersiz kılar."
+
+#: inc/classes/builders/seobar/term.class.php:698
+msgid "Link following is discouraged for this taxonomy at the SEO Settings screen."
+msgstr "Bağlantı takibi, SEO Ayarları ekranındaki tüm yazı etiketleri için önerilmez."
+
+#: inc/classes/builders/seobar/term.class.php:697
+msgid "Link following is discouraged for all bound post types to this term at the SEO Settings screen."
+msgstr "SEO Ayarları ekranında, bu bağlantıdaki tüm ilişkili yazı türleri için bağlantı takip edilmez."
+
+#: inc/classes/builders/seobar/term.class.php:573
+msgid "Term may not be indexed."
+msgstr "Terim indesklenmeyebilir."
+
+#: inc/classes/builders/seobar/term.class.php:564
+msgid "Term may be indexed."
+msgstr "Terim indekslenebilir."
+
+#: inc/classes/builders/seobar/term.class.php:556
+msgid "The term is empty yet still indexed."
+msgstr "Terim boş ama hala indeskleniyor."
+
+#: inc/classes/builders/seobar/term.class.php:555
+msgid "The term is empty."
+msgstr "Terim boş."
+
+#: inc/classes/builders/seobar/term.class.php:550
+msgid "No posts are attached to this term, so indexing should be disabled."
+msgstr "Bu terime hiçbir yazı eklenmemiş, bu nedenle dizine ekleme devre dışı bırakılmalıdır."
+
+#: inc/classes/builders/seobar/term.class.php:549
+msgid "No posts are attached to this term, so indexing is disabled."
+msgstr "Bu terime hiçbir yazı eklenmemiş, bu nedenle dizine ekleme devre dışı bırakıldı."
+
+#: inc/classes/builders/seobar/term.class.php:548
+msgid "The term SEO meta input overrides the indexing state."
+msgstr "SEO meta girişi terimi dizine ekleme durumunu geçersiz kılar."
+
+#: inc/classes/builders/seobar/term.class.php:547
+msgid "Indexing is discouraged for this taxonomy at the SEO Settings screen."
+msgstr "Dizine ekleme, SEO Ayarları ekranındaki tüm yayın etiketleri için önerilmez."
+
+#: inc/classes/builders/seobar/term.class.php:546
+msgid "Indexing is discouraged for all bound post types to this term at the SEO Settings screen."
+msgstr "Dizine ekleme, SEO Ayarları ekranındaki bu terime bağlı tüm yazı türleri için önerilmez."
+
+#: inc/classes/builders/seobar/term.class.php:392
+msgid "No term description is set."
+msgstr "Herhangi bir terim açıklaması ayarlanmamış."
+
+#: inc/classes/builders/seobar/term.class.php:383
+msgid "It's built from the term description field."
+msgstr "Açıklama alanı kullanılarak oluşturulmuştur."
+
+#: inc/classes/builders/seobar/term.class.php:365
+msgid "No description could be generated."
+msgstr "Hiçbir açıklama oluşturulamadı."
+
+#: inc/classes/builders/seobar/term.class.php:208
+msgid "It's built from term SEO meta input."
+msgstr "Terim SEO meta girişinden oluşturulmuştur."
+
+#: inc/classes/builders/seobar/term.class.php:206
+msgid "Obtained from term SEO meta input."
+msgstr "SEO meta girişinden elde edilmiştir."
+
+#: inc/classes/builders/seobar/term.class.php:177
+msgid "A term label prefix is automatically added which increases the length."
+msgstr "Uzunluğu artıran otomatik olarak bir terim etiketi öneki eklenir."
+
+#: inc/classes/builders/seobar/page.class.php:1017
+#: inc/classes/builders/seobar/term.class.php:946
+msgid "All visitors and crawlers are being redirected. So, no other SEO enhancements are effective."
+msgstr "Tüm ziyaretçiler ve tarayıcılar yönlendiriliyor. Bu nedenle, başka hiçbir SEO geliştirmesi etkili değildir."
+
+#: inc/classes/builders/seobar/page.class.php:1015
+msgid "Page redirects visitors."
+msgstr "Sayfa, ziyaretçileri yeniden yönlendiriyor."
+
+#: inc/classes/builders/seobar/term.class.php:930
+msgid "All visitors and crawlers may access this page."
+msgstr "Tüm ziyaretçiler ve tarayıcılar bu sayfaya erişebilir."
+
+#: inc/classes/builders/seobar/page.class.php:994
+msgid "Page does not redirect visitors."
+msgstr "Sayfa, ziyaretçileri yeniden yönlendirmez."
+
+#: inc/classes/builders/seobar/page.class.php:992
+#: inc/classes/builders/seobar/page.class.php:1013
+#: inc/classes/builders/seobar/term.class.php:926
+#: inc/classes/builders/seobar/term.class.php:942
+msgid "Redirection"
+msgstr "Yeniden Yönlendirme"
+
+#: inc/classes/builders/seobar/page.class.php:940
+msgid "Archiving is discouraged for the homepage at the SEO Settings screen."
+msgstr "SEO Ayarları ekranındaki ana sayfa için arşivleme önerilmemektedir."
+
+#: inc/classes/builders/seobar/page.class.php:888
+#: inc/classes/builders/seobar/term.class.php:838
+msgid "The robots meta tag does not allow archiving."
+msgstr "Robots meta etiketi arşivlemeye izin vermiyor."
+
+#: inc/classes/builders/seobar/page.class.php:886
+msgid "Page may not be archived."
+msgstr "Sayfa arşivlenmemiş olabilir."
+
+#: inc/classes/builders/seobar/page.class.php:879
+#: inc/classes/builders/seobar/term.class.php:829
+msgid "The robots meta tag allows archiving."
+msgstr "Robots meta etiketi arşivlemeye izin verir."
+
+#: inc/classes/builders/seobar/page.class.php:877
+msgid "Page may be archived."
+msgstr "Sayfa arşivlenebilir."
+
+#: inc/classes/builders/seobar/page.class.php:874
+#: inc/classes/builders/seobar/page.class.php:883
+#: inc/classes/builders/seobar/page.class.php:892
+#: inc/classes/builders/seobar/term.class.php:824
+#: inc/classes/builders/seobar/term.class.php:833
+msgctxt "Archiving"
+msgid "A"
+msgstr "A"
+
+#: inc/classes/builders/seobar/page.class.php:866
+msgid "The page may not be indexed, this may also discourage archiving."
+msgstr "Sayfa dizine alınmayabilir, bu da arşivlemeyi engelleyebilir."
+
+#: inc/classes/builders/seobar/page.class.php:865
+msgid "The page SEO meta input overrides the archiving state."
+msgstr "SEO meta girişi sayfası arşivleme durumunu geçersiz kılar."
+
+#: inc/classes/builders/seobar/page.class.php:864
+msgid "Archiving is discouraged for this post type at the SEO Settings screen."
+msgstr "SEO Ayarları ekranında bu yazı türü için arşivleme önerilmemektedir."
+
+#: inc/classes/builders/seobar/page.class.php:863
+#: inc/classes/builders/seobar/term.class.php:813
+msgid "Archiving is discouraged for the whole site at the SEO Settings screen."
+msgstr "Sitenin tamamında SEO Ayarları ekranında arşivleme önerilmemektedir."
+
+#: inc/classes/builders/seobar/page.class.php:809
+msgid "Link following is discouraged for the homepage at the SEO Settings screen."
+msgstr "Takip edilen bağlantı, SEO Ayarları ekranındaki ana sayfa için önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:757
+#: inc/classes/builders/seobar/term.class.php:721
+msgid "The robots meta tag does not allow link following."
+msgstr "Robots meta etiketi bağlantının takip edilmesine izin vermiyor."
+
+#: inc/classes/builders/seobar/page.class.php:755
+msgid "Page links may not be followed."
+msgstr "Sayfa bağlantıları takip edilmeyebilir."
+
+#: inc/classes/builders/seobar/page.class.php:748
+#: inc/classes/builders/seobar/term.class.php:712
+msgid "The robots meta tag allows link following."
+msgstr "Robots meta etiketi bağlantının takip edilmesini sağlar."
+
+#: inc/classes/builders/seobar/page.class.php:746
+msgid "Page links may be followed."
+msgstr "Sayfa bağlantıları takip edilebilir."
+
+#: inc/classes/builders/seobar/page.class.php:743
+#: inc/classes/builders/seobar/page.class.php:752
+#: inc/classes/builders/seobar/page.class.php:761
+#: inc/classes/builders/seobar/term.class.php:707
+#: inc/classes/builders/seobar/term.class.php:716
+msgctxt "Following"
+msgid "F"
+msgstr "T"
+
+#: inc/classes/builders/seobar/page.class.php:735
+msgid "The page may not be indexed, this may also discourage link following."
+msgstr "Sayfa indekslenmeyebilir, bu aynı zamanda takip edilen bağlantıyı da engelleyebilir."
+
+#: inc/classes/builders/seobar/page.class.php:734
+msgid "The page SEO meta input overrides the link following state."
+msgstr "Sayfa SEO meta girişi, takip eden bağlantıyı geçersiz kılar."
+
+#: inc/classes/builders/seobar/page.class.php:733
+msgid "Link following is discouraged for this post type at the SEO Settings screen."
+msgstr "SEO Ayarları ekranındaki bu yazı türü için bağlantının takip edilmesi önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:732
+#: inc/classes/builders/seobar/term.class.php:696
+msgid "Link following is discouraged for the whole site at the SEO Settings screen."
+msgstr "Bağlantı takip etme, SEO Ayarları ekranındaki tüm site için önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:667
+msgid "Indexing is discouraged for the homepage at the SEO Settings screen."
+msgstr "Dizine ekleme, SEO Ayarları ekranındaki ana sayfa için önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:612
+#: inc/classes/builders/seobar/page.class.php:766
+#: inc/classes/builders/seobar/page.class.php:897
+msgid "This page isn't published and can't be found publicly."
+msgstr "Bu sayfa yayınlanmadı ve herkese açık olarak bulunamıyor."
+
+#: inc/classes/builders/seobar/page.class.php:610
+#: inc/classes/builders/seobar/page.class.php:764
+#: inc/classes/builders/seobar/page.class.php:895
+msgid "Page is invisible."
+msgstr "Sayfa görünmez."
+
+#: inc/classes/builders/seobar/page.class.php:603
+#: inc/classes/builders/seobar/term.class.php:575
+msgid "The robots meta tag does not allow indexing."
+msgstr "Robots meta etiketi dizine eklemeye izin vermiyor."
+
+#: inc/classes/builders/seobar/page.class.php:601
+msgid "Page may not be indexed."
+msgstr "Sayfa indekslenmemiş olabilir."
+
+#: inc/classes/builders/seobar/page.class.php:594
+#: inc/classes/builders/seobar/term.class.php:566
+msgid "The robots meta tag allows indexing."
+msgstr "Robots meta etiketi dizine eklemeye izin verir."
+
+#: inc/classes/builders/seobar/page.class.php:592
+msgid "Page may be indexed."
+msgstr "Sayfa indekslenebilir."
+
+#: inc/classes/builders/seobar/page.class.php:589
+#: inc/classes/builders/seobar/page.class.php:598
+#: inc/classes/builders/seobar/page.class.php:607
+#: inc/classes/builders/seobar/term.class.php:561
+#: inc/classes/builders/seobar/term.class.php:570
+msgctxt "Indexing"
+msgid "I"
+msgstr "I"
+
+#: inc/classes/builders/seobar/page.class.php:585
+#: inc/classes/builders/seobar/term.class.php:557
+msgid "The canonical URL points to another page."
+msgstr "Kurallı URL, başka bir sayfaya işaret eder."
+
+#: inc/classes/builders/seobar/page.class.php:584
+#: inc/classes/builders/seobar/page.class.php:739
+#: inc/classes/builders/seobar/page.class.php:870
+msgid "The page is not published."
+msgstr "Sayfa yayınlanmadı."
+
+#: inc/classes/builders/seobar/page.class.php:583
+msgid "The page is protected."
+msgstr "Sayfa korunuyor."
+
+#: inc/classes/builders/seobar/page.class.php:582
+#: inc/classes/builders/seobar/page.class.php:738
+#: inc/classes/builders/seobar/page.class.php:869
+#: inc/classes/builders/seobar/term.class.php:554
+#: inc/classes/builders/seobar/term.class.php:703
+#: inc/classes/builders/seobar/term.class.php:820
+msgid "WordPress overrides the robots directive."
+msgstr "WordPress, robot direktifini geçersiz kılar."
+
+#: inc/classes/builders/seobar/page.class.php:579
+#: inc/classes/builders/seobar/term.class.php:551
+msgid "A custom canonical URL is set that points to another page."
+msgstr "Başka bir sayfaya işaret eden özel bir kurallı URL belirlenir."
+
+#: inc/classes/builders/seobar/page.class.php:578
+msgid "The page SEO meta input overrides the indexing state."
+msgstr "SEO meta girişi sayfası dizine ekleme durumunu geçersiz kılar."
+
+#: inc/classes/builders/seobar/page.class.php:577
+msgid "The page is protected, so indexing is discouraged."
+msgstr "Sayfa korunuyor, bu nedenle indeksleme önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:576
+msgid "Indexing is discouraged for this post type at the SEO Settings screen."
+msgstr "İndeskleme, SEO Ayarları ekranındaki bu yazı türü için önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:575
+#: inc/classes/builders/seobar/term.class.php:545
+msgid "Indexing is discouraged for the whole site at the SEO Settings screen."
+msgstr "İndeskleme, SEO Ayarları ekranındaki tüm site için önerilmez."
+
+#: inc/classes/builders/seobar/page.class.php:574
+#: inc/classes/builders/seobar/page.class.php:731
+#: inc/classes/builders/seobar/page.class.php:862
+#: inc/classes/builders/seobar/term.class.php:544
+#: inc/classes/builders/seobar/term.class.php:695
+#: inc/classes/builders/seobar/term.class.php:812
+msgid "WordPress discourages crawling via the Reading Settings."
+msgstr "WordPress, Okuma Ayarları üzerinden gezinmeyi önermez."
+
+#: inc/classes/builders/seobar/page.class.php:573
+#: inc/classes/builders/seobar/page.class.php:730
+#: inc/classes/builders/seobar/page.class.php:861
+#: inc/classes/builders/seobar/term.class.php:543
+#: inc/classes/builders/seobar/term.class.php:694
+#: inc/classes/builders/seobar/term.class.php:811
+msgid "The robots.txt file is nonstandard, and may still direct search engines differently."
+msgstr "Robots.txt dosyası standart değildir ve yine de arama motorlarını farklı yönlendirebilir."
+
+#. translators: 1: Word found, 2: Occurrences
+#: inc/classes/builders/seobar/page.class.php:495
+#: inc/classes/builders/seobar/term.class.php:464
+msgid "&#8220;%1$s&#8221; is used %2$d times."
+msgstr "&#8220;%1$s&#8221; %2$d kere kullanıldı."
+
+#: inc/classes/builders/seobar/page.class.php:435
+msgid "The description inputted at the Edit Page screen is used."
+msgstr "Sayfa Düzenle ekranında girilen açıklama kullanılır."
+
+#: inc/classes/builders/seobar/page.class.php:433
+msgid "The description inputted at the SEO Settings screen is used."
+msgstr "SEO Ayarları ekranında girilen açıklama kullanılır."
+
+#: inc/classes/builders/seobar/page.class.php:405
+msgid "No page description is set."
+msgstr "Hiçbir sayfa açıklaması ayarlanmadı."
+
+#: inc/classes/builders/seobar/page.class.php:396
+msgid "It's built from the page content."
+msgstr "Sayfa içeriği kullanılarak oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:392
+#: inc/classes/builders/seobar/term.class.php:379
+msgid "Description, generated"
+msgstr "Açıklama, oluşturuldu"
+
+#: inc/classes/builders/seobar/page.class.php:391
+#: inc/classes/builders/seobar/term.class.php:378
+msgctxt "Description Generated"
+msgid "DG"
+msgstr "DG"
+
+#: inc/classes/builders/seobar/page.class.php:384
+#: inc/classes/builders/seobar/page.class.php:403
+#: inc/classes/builders/seobar/term.class.php:371
+#: inc/classes/builders/seobar/term.class.php:390
+msgid "Empty."
+msgstr "Boş."
+
+#: inc/classes/builders/seobar/page.class.php:377
+msgid "The page is protected, so no description is generated."
+msgstr "Sayfa korumalıdır, bu nedenle açıklama oluşturulmaz."
+
+#: inc/classes/builders/seobar/page.class.php:375
+msgid "There is no usable content, so no description could be generated."
+msgstr "Kullanılabilir içerik yok, bu nedenle hiçbir açıklama oluşturulamadı."
+
+#: inc/classes/builders/seobar/page.class.php:217
+msgid "The title inputted at the Edit Page screen is used."
+msgstr "Sayfa Düzenle ekranında girilen başlık kullanılır."
+
+#: inc/classes/builders/seobar/page.class.php:215
+msgid "The title inputted at the SEO Settings screen is used."
+msgstr "SEO Ayarları ekranında girilen başlık kullanılır."
+
+#: inc/classes/builders/seobar/page.class.php:196
+msgid "It's built from page SEO meta input."
+msgstr "Sayfa SEO meta girişinden oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:194
+msgid "Obtained from page SEO meta input."
+msgstr "Sayfa SEO meta girişinden elde edildi."
+
+#: inc/classes/builders/seobar/page.class.php:234
+msgid "It's built using the site title."
+msgstr "Sayfa başlığı kullanılarak oluşturulmuştur."
+
+#: inc/classes/builders/seobar/page.class.php:185
+#: inc/classes/builders/seobar/page.class.php:394
+#: inc/classes/builders/seobar/term.class.php:197
+#: inc/classes/builders/seobar/term.class.php:381
+msgid "Automatically generated."
+msgstr "Otomatik olarak oluşturuldu."
+
+#: inc/classes/builders/seobar/page.class.php:183
+#: inc/classes/builders/seobar/term.class.php:195
+msgid "Title, generated"
+msgstr "Başlık, oluşturuldu"
+
+#: inc/classes/builders/seobar/page.class.php:182
+#: inc/classes/builders/seobar/term.class.php:194
+msgctxt "Title Generated"
+msgid "TG"
+msgstr "TG"
+
+#: inc/classes/builders/seobar/page.class.php:177
+#: inc/classes/builders/seobar/term.class.php:189
+msgid "Not branded."
+msgstr "Markalı değil."
+
+#: inc/classes/builders/seobar/page.class.php:175
+#: inc/classes/builders/seobar/term.class.php:187
+msgid "Incomplete."
+msgstr "Tamamlanmamış."
+
+#: inc/classes/builders/seobar/page.class.php:171
+#: inc/classes/builders/seobar/term.class.php:183
+msgid "The site title is found multiple times."
+msgstr "Blog adı birden çok kez bulundu."
+
+#: inc/classes/builders/seobar/page.class.php:169
+#: inc/classes/builders/seobar/term.class.php:181
+msgid "It's automatically branded."
+msgstr "Otomatik olarak işaretlendi."
+
+#: inc/classes/builders/seobar/page.class.php:168
+#: inc/classes/builders/seobar/term.class.php:180
+msgid "It's manually branded."
+msgstr "Manuel olarak işaretlendi."
+
+#: inc/classes/builders/seobar/page.class.php:165
+msgid "A page protection state is added which increases the length."
+msgstr "Uzunluğu artıran bir sayfa koruma durumu eklenir."
+
+#. translators: %s = "Untitled"
+#: inc/classes/builders/seobar/page.class.php:162
+#: inc/classes/builders/seobar/term.class.php:174
+msgid "No title could be fetched, \"%s\" is used instead."
+msgstr "Hiçbir başlık alınamadı, bunun yerine \"%s\" kullanılıyor."
+
+#: inc/classes/builders/seobar/page.class.php:159
+#: inc/classes/builders/seobar/term.class.php:171
+msgid "No title could be fetched."
+msgstr "Hiçbir başlık alınamadı."
+
+#: inc/classes/builders/seobar/page.class.php:156
+#: inc/classes/builders/seobar/page.class.php:367
+#: inc/classes/builders/seobar/term.class.php:168
+#: inc/classes/builders/seobar/term.class.php:357
+msgid "Estimated from the number of characters found. The pixel counter asserts the true length."
+msgstr "Bulunan karakter sayısından tahmin edilir. Piksel sayacı gerçek uzunluğu belirler."
+
+#. translators: 1 = An assessment, 2 = Disclaimer, e.g. "take it with a grain
+#. of salt"
+#: inc/classes/builders/seobar/page.class.php:155
+#: inc/classes/builders/seobar/page.class.php:366
+#: inc/classes/builders/seobar/term.class.php:167
+#: inc/classes/builders/seobar/term.class.php:356
+msgid "%1$s (%2$s)"
+msgstr "%1$s (%2$s)"
+
+#: bootstrap/upgrade.php:713
+msgid "The positions in the \"Meta Title Additions Location\" setting for the homepage have been reversed, left to right, but the output has not been changed. If you must downgrade for some reason, remember to switch the location back again."
+msgstr "Ana sayfa için \"Meta Başlık Ekleme Konumu\" ayarındaki konumlar soldan sağa ters çevrildi, ancak çıktı değişmedi. Herhangi bir sebepten dolayı geri almanız gerekiyorsa, konumu tekrar değiştirmeyi unutmayın."
+
+#: bootstrap/upgrade.php:700
+msgid "A cronjob is now used to ping search engines, and it alerts them to changes in your sitemap."
+msgstr "Artık bir cronjob, arama motorlarına ping atmak için kullanılıyor ve onları site haritanızdaki değişiklikler konusunda uyarıyor."
+
+#. translators: %s = Version number, surrounded in markdown-backticks.
+#: bootstrap/upgrade.php:417
+msgid "Thank you for updating The SEO Framework! Your website has been upgraded successfully to use The SEO Framework at database version `%s`."
+msgstr "SEO Framework eklentisini güncellediğiniz için teşekkür ederiz! Web siteniz, SEO Framework `%s` veritabanı sürümünde kullanmak için başarıyla yükseltildi."
+
+#. Author of the plugin
+msgid "The SEO Framework Team"
+msgstr "SEO Framework Ekibi"
+
+#: inc/classes/bridges/plugintable.class.php:125
+msgctxt "Extension Manager is a product name; do not translate it."
+msgid "Get Extension Manager"
+msgstr "Extension Manager'ı edinin"
+
+#: inc/classes/bridges/plugintable.class.php:117
+msgid "View API docs"
+msgstr "API belgelerini görüntüle"
+
+#: inc/classes/bridges/plugintable.class.php:110
+msgid "View documentation"
+msgstr "Dökümantasyonu Görüntüle"
+
+#. translators: %s = term name
+#: inc/classes/bridges/scripts.class.php:763
+msgid "Select Primary %s"
+msgstr "Birincil %s'yi seçin"
+
+#. translators: URLs are in Markdown.
+#: inc/views/sitemap/xsl/footer.php:18
+msgid "Generated by [The SEO Framework](https://theseoframework.com/)"
+msgstr "[The SEO Framework](https://theseoframework.com/) tarafından oluşturuldu"
+
+#: inc/views/profile/author.php:47
+msgid "This may be shown publicly."
+msgstr "Herkese açık olarak gösterilebilir."
+
+#: inc/views/settings/metaboxes/webmaster.php:27
+msgid "Google Search Console Verification Code"
+msgstr "Google Search Console Doğrulama Kodu"
+
+#: inc/views/settings/metaboxes/title.php:312
+msgid "Archive Title Prefixes"
+msgstr "Arşiv Başlığı Önekleri"
+
+#: inc/views/settings/metaboxes/title.php:227
+msgid "Tip: It is a bad practice to style page titles with HTML as inconsistent behavior might occur."
+msgstr "İpucu: Tutarsız davranışların ortaya çıkabileceğinden, sayfa başlıklarını HTML ile biçimlendirmek yanlış bir uygulamadır."
+
+#: inc/views/settings/metaboxes/title.php:221
+msgid "Strip HTML tags from generated titles?"
+msgstr "Oluşturulan başlıklardan HTML etiketleri kaldırılsın mı?"
+
+#: inc/views/settings/metaboxes/social.php:238
+msgid "Facebook Author Fallback Page"
+msgstr "Facebook Geri Dönüş Sayfası"
+
+#: inc/views/settings/metaboxes/social.php:226
+msgid "Only Facebook Business Pages are accepted."
+msgstr "Sadece Facebook İş Sayfaları kabul edilir."
+
+#: inc/views/settings/metaboxes/social.php:222
+msgid "Facebook Publisher page"
+msgstr "Facebook Yayıncı Sayfası"
+
+#: inc/views/settings/metaboxes/social.php:193
+msgctxt "Example Facebook Business URL"
+msgid "https://www.facebook.com/YourBusinessProfile"
+msgstr "https://www.facebook.com/YourBusinessProfile"
+
+#: inc/views/settings/metaboxes/social.php:99
+msgid "Note: Another Twitter Card plugin has been detected. These meta tags might conflict."
+msgstr "Not: Başka bir Twitter Kart eklentisi tespit edildi. Bu etiketler çakışabilir."
+
+#: inc/views/settings/metaboxes/social.php:77
+msgid "Note: Another Open Graph plugin has been detected. These meta tags might conflict."
+msgstr "Not: Başka bir Open Graph eklentisi tespit edildi. Bu etiketler çakışabilir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:310
+msgid "Note: Changes may not appear to have an effect directly because the stylesheet is cached in the browser for 30 minutes."
+msgstr "Not: Stil sayfası tarayıcıda 30 dakika boyunca önbelleğe alındığından değişiklikler doğrudan etkili görünmeyebilir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:175
+msgid "Note: A robots.txt file has been detected in the root folder of your website. This means these settings have no effect."
+msgstr "Not: Web sitenizin kök klasöründe bir robots.txt dosyası tespit edildi. Bu, bu ayarların bir etkisi olmadığı anlamına gelir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:164
+msgid "Consider lowering this value when the sitemap shows a white screen or notifies you of memory exhaustion."
+msgstr "Site haritası beyaz bir ekran gösterdiğinde veya yüksek bellek konusunda sizi bilgilendirdiğinde bu değeri düşürmeyi düşünün."
+
+#: inc/views/settings/metaboxes/sitemaps.php:153
+msgid "Sitemap Query Limit"
+msgstr "Site Haritası Sorgu Limiti"
+
+#: inc/views/settings/metaboxes/sitemaps.php:82
+msgid "Note: Another active sitemap plugin has been detected. This means that the sitemap functionality has been superseded and these settings have no effect."
+msgstr "Not: Başka bir etkin site haritası eklentisi tespit edildi. Bu, site haritası işlevinin yerine geçtiği ve bu ayarların bir etkisi olmadığı anlamına gelir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:33
+msgid "Metadata"
+msgstr "Meta veri"
+
+#: inc/views/settings/metaboxes/schema.php:22
+msgid "Another Schema.org plugin has been detected. These markup settings might conflict."
+msgstr "Başka bir Schema.org eklentisi tespit edildi. Bu biçimlendirme ayarları çakışabilir."
+
+#: inc/views/settings/metaboxes/robots.php:310
+msgid "Warning: No site should enable these options for Posts and Pages."
+msgstr "Uyarı: Yazılar ve Sayfalar için bu seçenekler etkinleştirilmemelidir."
+
+#: inc/views/settings/metaboxes/robots.php:391
+msgid "Warning: No public site should ever enable this option."
+msgstr "Uyarı: Hiçbir genel site bu seçeneği etkinleştirmemelidir."
+
+#: inc/views/settings/metaboxes/homepage.php:226
+msgid "Add Meta Title Additions to the homepage title?"
+msgstr "Ana sayfa başlığına Meta Başlık Ekleri eklensin mi?"
+
+#: inc/views/settings/metaboxes/homepage.php:236
+msgid "Meta Title Additions Location"
+msgstr "Meta Başlık Eklerinin Konumu"
+
+#: inc/views/settings/metaboxes/homepage.php:169
+#: inc/views/settings/metaboxes/homepage.php:342
+#: inc/views/settings/metaboxes/homepage.php:383
+msgid "Note: The description placeholder is fetched from the Page SEO Settings on the homepage."
+msgstr "Not: Açıklama bilgi alanı, ana sayfadaki Sayfa SEO Ayarları'ndan getirilir."
+
+#: inc/views/settings/metaboxes/homepage.php:108
+#: inc/views/settings/metaboxes/homepage.php:322
+#: inc/views/settings/metaboxes/homepage.php:363
+msgid "Note: The title placeholder is fetched from the Page SEO Settings on the homepage."
+msgstr "Not: Başlık bilgi alanı, ana sayfadaki Sayfa SEO Ayarları'ndan getirilir."
+
+#: inc/views/settings/metaboxes/homepage.php:214
+msgid "Meta Title Additions"
+msgstr "Meta Başlık Ekleri"
+
+#: inc/views/settings/metaboxes/robots.php:305
+msgid "Post Type Settings"
+msgstr "Yazı Türü Ayarları"
+
+#: inc/views/settings/metaboxes/description.php:42
+msgid "Automatically generate descriptions?"
+msgstr "Otomatik olarak açıklama oluşturulsun mu?"
+
+#: inc/views/settings/metaboxes/description.php:30
+msgid "Open Graph and Twitter Cards require descriptions. Therefore, it is best to leave this option enabled."
+msgstr "Open Graph ve Twitter Kartları açıklama gerektirir. Bu nedenle, bu seçeneği etkin bırakmak en iyisidir."
+
+#: inc/views/settings/metaboxes/description.php:27
+msgid "A description can be automatically generated for every page."
+msgstr "Her sayfa için bir açıklama otomatik olarak oluşturulabilir."
+
+#: inc/views/settings/metaboxes/description.php:17
+msgid "Description Settings"
+msgstr "Açıklama Ayarları"
+
+#: inc/views/edit/seo-settings-tt.php:92
+#: inc/views/settings/metaboxes/post-type-archive.php:406
+msgid "This tells search engines not to save a cached copy of this term."
+msgstr "Arama motorlarına bu terimin önbelleğe alınmış bir kopyasını kaydetmemesini söyler."
+
+#: inc/views/edit/seo-settings-tt.php:79
+#: inc/views/settings/metaboxes/post-type-archive.php:394
+msgid "This tells search engines not to follow links on this term."
+msgstr "Arama motorlarına bu terimdeki bağlantıları izlememesini söyler."
+
+#: inc/views/edit/seo-settings-tt.php:66
+#: inc/views/settings/metaboxes/post-type-archive.php:382
+msgid "This tells search engines not to show this term in their search results."
+msgstr "Arama motorlarına arama terimlerinde bu terimi göstermemesini söyler."
+
+#: inc/views/edit/seo-settings-singular.php:566
+#: inc/views/edit/seo-settings-tt.php:297
+#: inc/views/settings/metaboxes/homepage.php:394
+#: inc/views/settings/metaboxes/post-type-archive.php:332
+msgid "Social Image URL"
+msgstr "Sosyal Medya Görsel URL'si"
+
+#: inc/views/edit/seo-settings-singular.php:397
+#: inc/views/edit/seo-settings-tt.php:386 inc/views/list/quick-post.php:127
+#: inc/views/list/quick-term.php:127
+#: inc/views/settings/metaboxes/post-type-archive.php:454
+msgid "301 Redirect URL"
+msgstr "301 Yeniden Yönlendirme URL'si"
+
+#: inc/views/edit/seo-settings-singular.php:267
+#: inc/views/edit/seo-settings-tt.php:328 inc/views/list/quick-post.php:97
+#: inc/views/list/quick-term.php:97
+#: inc/views/settings/metaboxes/post-type-archive.php:357
+msgid "Canonical URL"
+msgstr "Kanonik URL"
+
+#: inc/views/edit/seo-settings-singular.php:175
+#: inc/views/edit/seo-settings-tt.php:160
+#: inc/views/settings/metaboxes/post-type-archive.php:200
+msgid "Use this when you want to rearrange the title parts manually."
+msgstr "Başlık bölümlerini el ile yeniden düzenlemek istediğinizde bunu kullanın."
+
+#: inc/views/edit/seo-settings-singular.php:121
+#: inc/views/edit/seo-settings-tt.php:122
+#: inc/views/settings/metaboxes/homepage.php:70
+#: inc/views/settings/metaboxes/post-type-archive.php:156
+msgid "The meta title can be used to determine the title used on search engine result pages."
+msgstr "Meta başlığı, arama motoru sonuç sayfalarında kullanılan başlığı belirlemek için kullanılabilir."
+
+#: inc/views/edit/seo-settings-singular.php:117
+#: inc/views/edit/seo-settings-tt.php:118 inc/views/list/quick-post.php:60
+#: inc/views/list/quick-term.php:60
+#: inc/views/settings/metaboxes/homepage.php:66
+#: inc/views/settings/metaboxes/post-type-archive.php:152
+msgid "Meta Title"
+msgstr "Meta Başlığı"
+
+#: inc/views/profile/author.php:21
+msgid "Twitter profile name"
+msgstr "Twitter profil ismi"
+
+#. translators: %s: Page number.
+#: inc/classes/generate-title.class.php:1295
+msgid "Page %s"
+msgstr "Sayfa %s"
+
+#. translators: %s: search phrase
+#: inc/classes/generate-title.class.php:1178
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221 için arama sorunları;"
+
+#. translators: %s = Blog page title. Front-end output.
+#: inc/classes/generate-description.class.php:784
+msgid "Latest posts: %s"
+msgstr "Son yazılar: %s"
+
+#: inc/classes/admin-pages.class.php:245
+msgid "Multiple SEO tools have been detected. You should only use one."
+msgstr "Birden çok SEO aracı tespit edildi. Sadece bir tanesi kullanılmalıdır."
+
+#: inc/classes/bridges/seosettings.class.php:137
+msgid "Schema.org Settings"
+msgstr "Schema.org Ayarları"
+
+#: inc/classes/admin-init.class.php:328
+msgid "Too long"
+msgstr "Çok uzun"
+
+#: inc/classes/admin-init.class.php:327
+msgid "Too short"
+msgstr "Çok kısa"
+
+#: inc/classes/admin-init.class.php:325
+msgctxt "The string is empty"
+msgid "Empty"
+msgstr "Boş"
+
+#: inc/classes/admin-init.class.php:321
+msgid "It's too long and it will get truncated in search."
+msgstr "Çok uzun ve aramada kısaltılacak."
+
+#: inc/classes/admin-init.class.php:320
+msgid "It's long and it might get truncated in search."
+msgstr "Uzun ve aramada kısaltılabilir."
+
+#: inc/classes/admin-init.class.php:319
+msgid "It's short and it could have more information."
+msgstr "Kısa ve daha fazla bilgiye sahip olabilir."
+
+#: inc/classes/admin-init.class.php:318
+msgid "It's too short and it should have more information."
+msgstr "Çok kısa ve daha fazla bilgiye sahip olmalı."
+
+#: inc/classes/admin-init.class.php:317
+msgid "There's no content."
+msgstr "İçerik yok."
+
+#: inc/views/settings/metaboxes/schema.php:293
+msgid "These settings do not affect sharing behavior with the social networks."
+msgstr "Bu ayarlar, sosyal ağlardaki paylaşım davranışlarını etkilemez. "
+
+#: inc/views/edit/seo-settings-singular.php:536
+#: inc/views/edit/seo-settings-tt.php:282
+#: inc/views/settings/metaboxes/homepage.php:370
+#: inc/views/settings/metaboxes/post-type-archive.php:317
+msgid "Twitter Description"
+msgstr "Twitter Açıklaması"
+
+#: inc/views/edit/seo-settings-singular.php:517
+#: inc/views/edit/seo-settings-tt.php:265
+#: inc/views/settings/metaboxes/homepage.php:350
+#: inc/views/settings/metaboxes/post-type-archive.php:304
+msgid "Twitter Title"
+msgstr "Twitter Başlığı"
+
+#: inc/views/edit/seo-settings-singular.php:500
+#: inc/views/edit/seo-settings-tt.php:250
+#: inc/views/settings/metaboxes/homepage.php:329
+#: inc/views/settings/metaboxes/post-type-archive.php:289
+msgid "Open Graph Description"
+msgstr "Open Graph Açıklaması"
+
+#: inc/views/edit/seo-settings-singular.php:481
+#: inc/views/edit/seo-settings-tt.php:233
+#: inc/views/settings/metaboxes/homepage.php:309
+#: inc/views/settings/metaboxes/post-type-archive.php:276
+msgid "Open Graph Title"
+msgstr "Open Graph Başlığı"
+
+#: inc/views/profile/author.php:30
+msgid "Authorial Info"
+msgstr "Yazar Bilgisi"
+
+#: inc/views/settings/metaboxes/title.php:179
+msgid "Title Separator"
+msgstr "Başlık Ayırıcı"
+
+#: inc/views/settings/metaboxes/social.php:390
+msgid "Some social sites output the shared post's publishing and modified data in the sharing snippet."
+msgstr "Bazı sosyal siteler, yayınlanma tarihi ve değişiklik tarihini paylaşım özetinde gösterir."
+
+#: inc/views/settings/metaboxes/social.php:329
+msgid "Twitter Author Fallback Profile"
+msgstr "Twitter Geliştirici Geri Dönüş Profili"
+
+#: inc/views/settings/metaboxes/social.php:313
+msgid "Website Twitter Profile"
+msgstr "Web Sitesi Twitter Profili"
+
+#: inc/views/settings/metaboxes/social.php:248
+#: inc/views/settings/metaboxes/social.php:339
+msgid "Authors can override this option on their profile page."
+msgstr "Yazarlar, bu seçeneği profil sayfalarında geçersiz kılabilir."
+
+#: inc/views/settings/metaboxes/schema.php:317
+msgid "View your profile."
+msgstr "Profilini görüntüle"
+
+#: inc/views/settings/metaboxes/schema.php:290
+msgid "Connected Social Pages"
+msgstr "Bağlı Sosyal Medya Sayfaları"
+
+#: inc/views/settings/metaboxes/schema.php:176
+#: inc/views/settings/metaboxes/sitemaps.php:374
+msgid "Setting a logo requires JavaScript."
+msgstr "Logo ayarlamak için JavaScript gerekmektedir."
+
+#: inc/views/settings/metaboxes/schema.php:173
+#: inc/views/settings/metaboxes/sitemaps.php:371
+msgid "Logo URL"
+msgstr "Logo URL'si"
+
+#: inc/views/settings/metaboxes/schema.php:164
+msgid "Enable logo?"
+msgstr "Logo etkinleştirilsin mi?"
+
+#: inc/views/settings/metaboxes/schema.php:155
+msgid "These options are used when this site represents an organization. When no logo is outputted, search engine will look elsewhere."
+msgstr "Bu ayarlar, bu site bir kuruluşu temsil ettiğinde kullanılır. Hiçbir logo kullanılmadığında, arama motoru başka bir yere bakar."
+
+#: inc/views/settings/metaboxes/schema.php:91
+msgctxt "Sitelinks Searchbox is a Product name"
+msgid "Enable Sitelinks Searchbox?"
+msgstr "Site Bağlantıları Arama Kutusu etkinleştirilsin mi?"
+
+#: inc/views/settings/metaboxes/schema.php:64
+#: inc/views/settings/metaboxes/schema.php:84
+#: inc/views/settings/metaboxes/schema.php:103
+#: inc/views/settings/metaboxes/schema.php:157
+msgid "Learn how this data is used."
+msgstr "Bu verinin nasıl kullanıldığını öğrenin."
+
+#: inc/views/settings/metaboxes/general.php:353
+msgid "This outputs the complete date including hours, minutes, and timezone."
+msgstr "Bu, saat, dakika ve saat dilimi dahil olmak üzere tam tarihi verir."
+
+#: inc/views/settings/metaboxes/general.php:342
+msgid "This outputs the complete date."
+msgstr "Bu, tam tarihi verir."
+
+#: inc/views/settings/metaboxes/general.php:333
+msgid "This setting determines how specific the timestamp is."
+msgstr "Bu ayar, zaman damgasının ne kadar spesifik olduğunu belirler."
+
+#: inc/views/settings/metaboxes/general.php:327
+msgid "Timestamps help indicate when a page has been published and modified."
+msgstr "Zaman damgaları, bir sayfanın ne zaman yayınlandığını ve değiştirildiğini gösterir."
+
+#: inc/views/settings/metaboxes/general.php:326
+msgid "Timestamp Settings"
+msgstr "Zaman Damgası Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:117
+msgid "Display character counters?"
+msgstr "Karakter sayaçlarını gösterilsin mi?"
+
+#: inc/views/settings/metaboxes/general.php:112
+msgid "Display pixel counters?"
+msgstr "Ekran piksel sayaçları gösterilsin mi?"
+
+#: inc/views/settings/metaboxes/general.php:103
+msgid "The character counter is based on guidelines."
+msgstr "Karakter sayacı kılavuzlara dayanmaktadır."
+
+#: inc/views/settings/metaboxes/general.php:97
+msgid "The pixel counter computes whether the input will fit on search engine result pages."
+msgstr "Piksel sayacı, girdinin arama motoru Sonuç Sayfalarına sığıp sığmayacağını hesaplar."
+
+#: inc/views/settings/metaboxes/general.php:94
+msgid "Counter Settings"
+msgstr "Sayaç Ayarları"
+
+#: inc/views/edit/seo-settings-singular.php:271
+#: inc/views/edit/seo-settings-tt.php:332
+#: inc/views/settings/metaboxes/post-type-archive.php:361
+msgid "This urges search engines to go to the outputted URL."
+msgstr "Arama motorlarını çıkış URL'sine gitmeye teşvik eder."
+
+#: bootstrap/upgrade.php:608
+msgid "The previous sitemap timestamp settings have been converted into new global timestamp settings."
+msgstr "Önceki site haritası zaman damgası ayarları yeni global zaman damgası ayarlarına dönüştürüldü."
+
+#: inc/views/settings/metaboxes/schema.php:218
+msgid "Twitter Profile"
+msgstr "Twitter Profili"
+
+#: inc/views/profile/author.php:14
+msgid "Facebook profile page"
+msgstr "Facebook profil sayfası"
+
+#: inc/classes/bridges/postsettings.class.php:75
+msgid "The SEO Settings may take precedence over these settings."
+msgstr "SEO Ayarları bu ayarların önüne geçer."
+
+#: inc/classes/bridges/postsettings.class.php:73
+#: inc/classes/bridges/postsettings.class.php:81
+msgid "Homepage SEO Settings"
+msgstr "Anasayfa SEO Ayarları"
+
+#: inc/classes/bridges/plugintable.class.php:57
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: inc/classes/bridges/scripts.class.php:625
+msgctxt "Frame title"
+msgid "Select Logo"
+msgstr "Logo Seç"
+
+#: inc/classes/bridges/scripts.class.php:623
+msgid "Remove Logo"
+msgstr "Logoyu kaldır"
+
+#: inc/classes/bridges/scripts.class.php:622
+msgid "Change Logo"
+msgstr "Logoyu değiştir"
+
+#: inc/classes/bridges/scripts.class.php:620
+#: inc/classes/internal/deprecated.class.php:414
+#: inc/views/settings/metaboxes/schema.php:196
+#: inc/views/settings/metaboxes/sitemaps.php:394
+msgid "Select Logo"
+msgstr "Logo Seç"
+
+#. translators: Pixel counter. 1: number (value), 2: number (guideline)
+#: inc/classes/bridges/scripts.class.php:875
+msgid "%1$d out of %2$d pixels are used."
+msgstr "%2$d pikselden %1$d kullanıldı."
+
+#. translators: %s = term name
+#: inc/classes/bridges/scripts.class.php:770
+msgid "Primary %s"
+msgstr "Birincil %s"
+
+#. translators: %s = term name
+#: inc/classes/bridges/scripts.class.php:768
+msgid "Make primary %s"
+msgstr "%s birincil yap"
+
+#: inc/views/settings/metaboxes/general.php:221
+msgid "This allows you to exclude pages from on-site archive listings."
+msgstr "Sayfaları site içi arşiv listelerinden hariç tutmanıza olanak tanır."
+
+#: inc/views/settings/metaboxes/general.php:220
+msgid "Enable archive query alteration?"
+msgstr "Arşiv sorgu değişiklikleri etkinleştirilsin mi?"
+
+#: inc/views/settings/metaboxes/general.php:208
+msgid "This allows you to exclude pages from on-site search results."
+msgstr "Sayfaları site içi arama sonuçlarından hariç tutmanıza olanak tanır."
+
+#: inc/views/settings/metaboxes/general.php:207
+msgid "Enable search query alteration?"
+msgstr "Arama sorgusu değişikliği etkinleştirilsin mi?"
+
+#: inc/views/settings/metaboxes/general.php:179
+msgid "Perform alteration:"
+msgstr "Değişiklik yap:"
+
+#: inc/views/settings/metaboxes/general.php:142
+msgid "Altering the query on the site is much faster, but can lead to inconsistent pagination. It can also lead to 404 error messages if all queried pages have been excluded."
+msgstr "Sitede sorguyu değiştirmek çok daha hızlıdır, ancak tutarsız sayfalamaya yol açabilir. Tüm sorgulanan sayfalar hariç tutulduğunda, 404 hata mesajına da yol açabilir."
+
+#: inc/views/settings/metaboxes/general.php:140
+msgid "Altering the query in the database is more accurate, but can increase database query time."
+msgstr "Sorguyu veritabanında değiştirmek daha doğrudur, ancak veritabanı sorgulama süresini artırabilir."
+
+#: inc/views/settings/metaboxes/general.php:136
+msgid "If your website has thousands of pages, these options can greatly affect database performance."
+msgstr "Web sitenizde binlerce sayfa varsa, bu seçenekler veritabanı performansını büyük ölçüde etkileyebilir."
+
+#: inc/views/settings/metaboxes/general.php:134
+msgid "Altering the query allows for more control of the site's hierarchy."
+msgstr "Sorguyu değiştirmek sitenin hiyerarşisinin daha fazla kontrol edilmesini sağlar."
+
+#: inc/views/settings/metaboxes/general.php:132
+msgid "Query Alteration Settings"
+msgstr "Sorgu Değiştirme Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:127
+msgid "Depending on your server's configuration, adjusting these settings can affect performance."
+msgstr "Sunucunuzun yapılandırılmasına bağlı olarak, bu ayarları düzenlemek performansı etkileyebilir."
+
+#: inc/classes/bridges/ajax.class.php:161
+#: inc/classes/bridges/ajax.class.php:222
+msgid "Image could not be processed."
+msgstr "Görsel işlenemedi."
+
+#: inc/views/edit/seo-settings-singular.php:365
+msgid "Archive Settings"
+msgstr "Arşiv Ayarları"
+
+#: inc/classes/admin-init.class.php:81
+msgid "No Archive"
+msgstr "Arşiv yok"
+
+#: inc/classes/bridges/plugintable.class.php:64 inc/views/settings/wrap.php:25
+#: inc/views/settings/wrap.php:31
+msgctxt "Plugin extensions"
+msgid "Extensions"
+msgstr "Uzantılar"
+
+#. translators: %s = Redirect URL markdown
+#: inc/classes/admin-init.class.php:415
+msgid "There has been an error redirecting. Refresh the page or follow [this link](%s)."
+msgstr "Yeniden yönlendirmede bir hata oluştu. Sayfayı yenileyin veya [bu bağlantıyı](%s) takip edin."
+
+#: inc/views/settings/metaboxes/homepage.php:390
+msgid "A social image can be displayed when your homepage is shared. It is a great way to grab attention."
+msgstr "Ana sayfanız paylaşıldığında sosyal medya görseli gösterilebilir. Dikkat çekmek için harika bir yoldur."
+
+#: inc/views/settings/metaboxes/social.php:177
+msgid "The shortlink tag can be manually used for microblogging services like Twitter, but it has no SEO value whatsoever."
+msgstr "Kısa bağlantı etiketi, Twitter gibi mikroblog hizmetleri için manuel olarak kullanılabilir, ancak hiçbir SEO değeri yoktur."
+
+#: inc/views/settings/metaboxes/sitemaps.php:181
+msgid "Note: robots.txt files can't be generated or used on subdirectory installations."
+msgstr "Not: robots.txt dosyaları alt dizin yüklemelerinde oluşturulamaz veya kullanılamaz."
+
+#: inc/views/settings/metaboxes/feed.php:28
+msgid "Add link to source below the feed entry content?"
+msgstr "Haber akışı içeriğinin altındaki kaynağa bağlantı eklesin mi?"
+
+#: inc/views/edit/seo-settings-singular.php:34
+#: inc/views/settings/metaboxes/homepage.php:41
+#: inc/views/settings/metaboxes/post-type-archive.php:71
+msgid "Social"
+msgstr "Sosyal"
+
+#: inc/views/edit/seo-settings-singular.php:39
+#: inc/views/settings/metaboxes/post-type-archive.php:77
+msgid "Visibility"
+msgstr "Görünürlük"
+
+#: bootstrap/upgrade.php:583
+msgid "Twitter Photo Cards have been deprecated. Your site now uses Summary Cards when applicable."
+msgstr "Twitter Fotoğraf Kartları kullanımdan kaldırıldı. Siteniz şimdi uygun olduğunda Özet Kartları kullanmaktadır."
+
+#: inc/classes/bridges/scripts.class.php:616
+msgctxt "Frame title"
+msgid "Select Social Image"
+msgstr "Sosyal Görseli Seç"
+
+#: inc/views/settings/metaboxes/social.php:147
+msgid "Social Image Fallback URL"
+msgstr "Sosyal Görsel Geri Dönüş URL'si"
+
+#: inc/views/settings/metaboxes/social.php:134
+msgid "A social image can be displayed when your website is shared. It is a great way to grab attention."
+msgstr "Web siteniz paylaşıldığında sosyal bir görsel gösterilebilir. Dikkat çekmek için harika bir yol."
+
+#: inc/views/settings/metaboxes/homepage.php:389
+#: inc/views/settings/metaboxes/social.php:133
+msgid "Social Image Settings"
+msgstr "Sosyal Görsel Ayarları"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://theseoframework.com/"
+msgstr "https://theseoframework.com/"
+
+#: inc/views/sitemap/xsl/table.php:25
+msgid "Last Updated"
+msgstr "Son Güncelleme"
+
+#: inc/views/sitemap/xsl/table.php:19
+msgid "URL"
+msgstr "URL"
+
+#. translators: URLs are in Markdown. Don't localize this URL.
+#: inc/views/sitemap/xsl/description.php:79
+msgid "You can find more information on XML sitemaps at [sitemaps.org](https://www.sitemaps.org/)."
+msgstr "XML site haritaları hakkında daha fazla bilgiyi [sitemaps.org](https://www.sitemaps.org/) adresinde bulabilirsiniz."
+
+#. translators: URLs are in Markdown. Don't forget to localize the URLs.
+#: inc/views/sitemap/xsl/description.php:68
+msgid "This is a generated XML Sitemap, meant to be consumed by search engines like [Google](https://www.google.com/) or [Bing](https://www.bing.com/)."
+msgstr "Bu, [Google](https://www.google.com/) veya [Bing](https://www.bing.com/) gibi arama motorları tarafından kullanılması için oluşturulan bir XML site haritasıdır."
+
+#: inc/views/sitemap/xsl/description.php:58 inc/views/sitemap/xsl/title.php:12
+msgid "XML Sitemap"
+msgstr "XML Site Haritası"
+
+#: inc/views/settings/metaboxes/sitemaps.php:344
+msgid "Sitemap Title and Lines Color"
+msgstr "Site haritası başlığı ve çizgi rengi"
+
+#: inc/views/settings/metaboxes/sitemaps.php:335
+msgid "Sitemap Header Background Color"
+msgstr "Site haritası üstbilgi arka plan rengi"
+
+#: inc/views/settings/metaboxes/sitemaps.php:319
+msgid "This makes the sitemap more readable for humans."
+msgstr "Site haritasının insanlar için daha okunabilir olmasını sağlar."
+
+#: inc/views/settings/metaboxes/sitemaps.php:319
+msgid "Style sitemap?"
+msgstr "Site Haritası biçimlendirilsin mi?"
+
+#: inc/views/settings/metaboxes/sitemaps.php:314
+msgid "Enable Styling"
+msgstr "Stili Etkinleştir"
+
+#: inc/views/settings/metaboxes/sitemaps.php:43
+msgid "Style"
+msgstr "Stil"
+
+#: inc/views/settings/metaboxes/schema.php:110
+msgid "Output Authorized Presence?"
+msgstr "Yetki Varlığı Oluşturulsun mu?"
+
+#: inc/views/settings/metaboxes/schema.php:100
+msgid "The authorized presence Schema.org output helps search engine users find ways to interact with this website."
+msgstr "Yetkili varlığı Schema.org çıktısı, arama motoru kullanıcılarının bu web sitesiyle etkileşimde bulunma yollarını bulmasına yardımcı olur."
+
+#: inc/views/settings/metaboxes/schema.php:99
+msgid "Authorized Presence Options"
+msgstr "Yetkili Durum Seçenekleri"
+
+#: inc/views/settings/metaboxes/schema.php:56
+msgid "For example, search engines display your pages' URLs when listed in the search results. These options allow you to enhance those URLs output."
+msgstr "Örneğin, arama motorları sayfalarınızın URL'lerini arama sonuçlarında listelendiğinde görüntüler. Bu seçenekler, bu URL'lerin çıktısını geliştirmenize olanak tanır."
+
+#: inc/views/settings/metaboxes/schema.php:55
+msgid "The site structure Schema.org output allows search engines to gain knowledge on how your website is built."
+msgstr "Site yapısı Schema.org çıktısı, arama motorlarının web sitenizin nasıl oluşturulduğu hakkında bilgi sahibi olmasını sağlar."
+
+#: inc/views/settings/metaboxes/schema.php:54
+msgid "Site Structure Options"
+msgstr "Site Yapısı Seçenekleri"
+
+#: inc/views/settings/metaboxes/schema.php:37
+msgid "Presence"
+msgstr "Varlık"
+
+#: inc/views/settings/metaboxes/schema.php:32
+msgid "Structure"
+msgstr "Yapı"
+
+#: inc/views/settings/metaboxes/schema.php:26
+msgid "This is also known as the \"Knowledge Graph\" and \"Structured Data\", which is under heavy active development by several search engines. Therefore, the usage of the outputted markup is not guaranteed."
+msgstr "Bu aynı zamanda çeşitli arama motorları tarafından yoğun aktif geliştirme altında olan \"Bilgi Grafiği\" ve \"Yapılandırılmış Veri\" olarak da bilinir. Bu nedenle, çıktı işaretlemenin kullanımı garanti edilmez."
+
+#. translators: %s = Homepage URL markdown
+#: inc/views/settings/metaboxes/homepage.php:120
+#: inc/views/settings/metaboxes/homepage.php:183
+msgid "A plugin has been detected that suggests to maintain this option on the [homepage](%s)."
+msgstr "Bu seçeneği [Ana Sayfa](%s) üzerinde tutmayı öneren bir eklenti tespit edildi."
+
+#: inc/views/settings/metaboxes/general.php:255
+msgctxt "= Detect Automatically, HTTPS, HTTP"
+msgid "Preferred canonical URL scheme:"
+msgstr "Tercih edilen kanonik URL düzeni:"
+
+#: inc/views/settings/metaboxes/general.php:252
+msgid "Scheme Settings"
+msgstr "Düzen Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:248
+msgid "If the canonical URL meta tag represents the visited page, then the search engine will crawl the visited page. Otherwise, the search engine may go to the outputted URL."
+msgstr "Kanonik URL meta etiketi ziyaret edilen sayfayı gösterirse, arama motoru ziyaret edilen sayfayı tarar. Aksi takdirde, arama motoru çıktılanan URL'e gidebilir."
+
+#: inc/views/settings/metaboxes/general.php:247
+msgid "The canonical URL meta tag urges search engines to go to the outputted URL."
+msgstr "Kanonik URL meta etiketi, arama motorlarını çıkış URL'e gitmeye teşvik eder."
+
+#: inc/views/settings/metaboxes/general.php:246
+msgid "Canonical URL Settings"
+msgstr "Kanonik URL Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:75
+msgid "Display the SEO Bar in the SEO Settings metabox?"
+msgstr "SEO Ayarları meta kutusundaki SEO Çubuğu görüntülensin mi?"
+
+#: inc/views/settings/metaboxes/general.php:70
+msgid "Display the SEO Bar in overview tables?"
+msgstr "Önizleme tablolarında SEO Çubuğu görüntülensin mi?"
+
+#: inc/views/settings/metaboxes/general.php:65
+msgid "SEO Bar Settings"
+msgstr "SEO Çubuğu Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:60
+msgid "SEO hints can be visually displayed throughout the dashboard."
+msgstr "SEO ipuçları görsel olarak gösterge panosunda görüntülenebilir."
+
+#: inc/views/settings/metaboxes/general.php:59
+msgid "Administrative Layout Settings"
+msgstr "Yönetici Düzen Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:238
+msgid "Generating the sitemap can use a lot of server resources."
+msgstr "Site haritasının oluşturulması çok fazla sunucu kaynağı kullanabilir."
+
+#: inc/views/settings/metaboxes/general.php:231
+msgid "Transient Cache Settings"
+msgstr "Geçici Önbellek Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:232
+msgid "To improve performance, generated output can be stored in the database as transient cache."
+msgstr "Performansı iyileştirmek için, oluşturulan SEO çıktısı geçici önbellek olarak veritabanında saklanabilir."
+
+#: inc/views/settings/metaboxes/general.php:126
+msgid "Performance Settings"
+msgstr "Performans Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:32
+msgid "Canonical"
+msgstr "Kanonik"
+
+#: inc/views/settings/metaboxes/general.php:22
+msgid "Layout"
+msgstr "Düzen"
+
+#: inc/views/settings/metaboxes/general.php:27
+msgid "Performance"
+msgstr "Performans"
+
+#: inc/classes/bridges/scripts.class.php:617
+#: inc/classes/bridges/scripts.class.php:626
+msgid "Use this image"
+msgstr "Bu görseli kullan"
+
+#: inc/classes/bridges/scripts.class.php:614
+msgid "Remove Image"
+msgstr "Görseli Kaldır"
+
+#: inc/classes/bridges/scripts.class.php:613
+msgid "Change Image"
+msgstr "Görseli Değiştir"
+
+#: inc/classes/bridges/scripts.class.php:611
+#: inc/classes/interpreters/form.class.php:230
+msgid "Select Image"
+msgstr "Görsel Seç"
+
+#: inc/classes/internal/debug.class.php:201
+msgid "incorrectly"
+msgstr "hatalı olarak"
+
+#. translators: 1: Function name, 2: 'Incorrectly', 3: Error message 4: Plugin
+#. Version notification
+#: inc/classes/internal/debug.class.php:199
+msgid "%1$s was called %2$s. %3$s %4$s"
+msgstr "%1$s %2$s olarak adlandırıldı. %3$s %4$s"
+
+#. translators: 1: Function name, 2: 'Deprecated', 3: Plugin Version
+#. notification
+#: inc/classes/internal/debug.class.php:142
+msgid "%1$s is %2$s since version %3$s of The SEO Framework with no alternative available."
+msgstr "The SEO Framework  %3$s sürümünden beri, mevcut hiç bir alternatif bulunmadığı için %1$s fonksiyonu %2$s durumuna geçti."
+
+#: inc/classes/internal/debug.class.php:135
+#: inc/classes/internal/debug.class.php:144
+msgid "deprecated"
+msgstr "kullanım dışı"
+
+#. translators: 1: Function name, 2: 'Deprecated', 3: Plugin Version
+#. notification, 4: Replacement function
+#: inc/classes/internal/debug.class.php:133
+msgid "%1$s is %2$s since version %3$s of The SEO Framework! Use %4$s instead."
+msgstr "%1$s,%3$s The SEO Framework sürümünden beri %2$s! Bunun yerine %4$s kullanın."
+
+#: inc/classes/bridges/seosettings.class.php:78
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: inc/views/settings/metaboxes/schema.php:154
+msgid "Website logo"
+msgstr "Web site logosu"
+
+#: inc/views/settings/metaboxes/homepage.php:485
+msgid "This tells search engines not to save a cached copy of this page."
+msgstr "Arama motorlarına bu sayfanın önbelleğe alınmış bir kopyasını kaydetmemesini söyler."
+
+#. Description of the plugin
+msgid "An automated, advanced, accessible, unbranded and extremely fast SEO solution for your WordPress website."
+msgstr "Herhangi bir WordPress web sitesi için otomatik, gelişmiş, erişilebilir, markasız ve son derece hızlı bir SEO çözümü."
+
+#: inc/views/settings/metaboxes/schema.php:71
+msgid "Enable Breadcrumbs?"
+msgstr "Bağlantı Haritası Etkinleştirilsin mi?"
+
+#: inc/views/settings/metaboxes/schema.php:61
+msgid "Breadcrumb trails indicate page positions in the site's hierarchy. Using the following option will show the hierarchy within the search results when available."
+msgstr "Bağlantı haritası, sitenin hiyerarşisindeki sayfa konumlarını gösterir. Aşağıdaki seçeneği kullanmak, mevcut olduğunda arama sonuçlarında hiyerarşiyi gösterir."
+
+#: inc/views/settings/metaboxes/schema.php:60
+msgid "Breadcrumbs"
+msgstr "Bağlantı haritası"
+
+#: inc/views/settings/metaboxes/schema.php:81
+msgid "When Search users search for your brand name, the following option allows them to search through this website directly from the search results."
+msgstr "Kullanıcılar marka adınızı aradığında, aşağıdaki seçenek doğrudan arama sonuçlarından bu web sitesinde arama yapmalarına olanak tanır."
+
+#: inc/views/settings/metaboxes/schema.php:79
+msgctxt "Product name"
+msgid "Sitelinks Searchbox"
+msgstr "Site Bağlantıları Arama Kutusu"
+
+#: inc/views/settings/metaboxes/schema.php:25
+msgid "When your web pages include structured data markup, search engines can use that data to index your content better, present it more prominently in search results, and use it in several different applications."
+msgstr "Web sayfalarınız yapısal veri biçimlendirmesi içeriyorsa, arama motorları içeriğinizi daha iyi endekslemek, arama sonuçlarında daha belirgin bir şekilde sunmak ve çeşitli farklı uygulamalarda kullanmak için bu verileri kullanabilir."
+
+#: inc/views/settings/metaboxes/schema.php:24
+msgid "The Schema.org markup is a standard way of annotating structured data for search engines. This markup is represented within hidden scripts throughout the website."
+msgstr "Schema.org işaretlemesi, arama motorları için yapılandırılmış verilerin ek açıklamalarının standart bir yoludur. Bu biçimlendirme, web sitesi boyunca gizli komut dosyaları içinde temsil edilir."
+
+#: inc/views/settings/metaboxes/schema.php:19
+msgid "Schema.org Output Settings"
+msgstr "Schema.org Oluşturma Ayarları"
+
+#: inc/views/settings/metaboxes/general.php:332
+msgid "Timestamp Format Settings"
+msgstr "Zaman Damgası Biçim Ayarları"
+
+#: inc/views/settings/metaboxes/schema.php:203
+msgctxt "No spaces. E.g. https://facebook.com/RelatedProfile"
+msgid "RelatedProfile"
+msgstr "ilgiliprofil"
+
+#: inc/views/settings/metaboxes/webmaster.php:49
+msgid "Get the Yandex verification code."
+msgstr "Yandex doğrulama kodunu alın."
+
+#: inc/views/settings/metaboxes/webmaster.php:47
+msgid "Yandex Webmaster Verification Code"
+msgstr "Yandex Web Yöneticisi Doğrulama Kodu"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/general.php:313
+msgid "Add `rel` link tags to the homepage?"
+msgstr "Ana sayfaya 'rel' bağlantı etiketi eklensin mi?"
+
+#: inc/views/settings/metaboxes/social.php:60
+msgid "Social Meta Tags Settings"
+msgstr "Sosyal Meta Etiket Ayarları"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/homepage.php:540
+msgid "Apply `noindex` to every second or later page on the homepage?"
+msgstr "Ana sayfaya her ikinci veya daha sonraki sayfaya `noindex` uygulayın."
+
+#: inc/views/settings/metaboxes/homepage.php:533
+msgid "If your homepage is paginated and outputs content that's also found elsewhere on the website, enabling this option may prevent duplicate content."
+msgstr "Ana sayfanız sıralanmış ve web sitesinde başka bir yerde bulunan içerik oluşturulduysa, bu seçeneğin etkinleştirilmesiyle tekrarlanan içerik önlenebilir."
+
+#: inc/views/settings/metaboxes/homepage.php:532
+msgid "Homepage Pagination Robots Settings"
+msgstr "Ana Sayfa Sayfalama Robot Ayarları"
+
+#: inc/views/settings/metaboxes/homepage.php:46
+msgid "Robots"
+msgstr "Robots"
+
+#: inc/views/settings/metaboxes/robots.php:33
+msgctxt "...for the entire site"
+msgid "the entire site"
+msgstr "Tüm site"
+
+#: inc/views/settings/metaboxes/description.php:25
+msgid "Automated Description Settings"
+msgstr "Otomatik Açıklama Ayarları"
+
+#: inc/views/settings/metaboxes/title.php:316
+msgid "The prefix helps visitors and search engines determine what kind of page they're visiting."
+msgstr "Önek, ziyaretçilerin ve arama motorlarının ziyaret ettikleri sayfayı belirlemelerine yardımcı olur."
+
+#: inc/views/settings/metaboxes/title.php:307
+msgid "For archives, a descriptive prefix may be added to generated titles."
+msgstr "Arşivlerde, oluşturulan başlıklara açıklayıcı bir önek eklenebilir."
+
+#: inc/views/settings/metaboxes/title.php:306
+msgid "Title Prefix Options"
+msgstr "Başlık Önek Seçenekleri"
+
+#: inc/views/settings/metaboxes/title.php:34
+msgid "Example Category"
+msgstr "Örnek Kategori"
+
+#: inc/views/settings/metaboxes/title.php:156
+msgid "Prefixes"
+msgstr "Önekler"
+
+#: inc/views/settings/metaboxes/homepage.php:36
+#: inc/views/settings/metaboxes/title.php:145
+msgid "Additions"
+msgstr "Ekler"
+
+#: inc/views/settings/metaboxes/title.php:52
+msgid "The page title is prominently shown within the browser tab as well as within the search engine results pages."
+msgstr "Sayfa başlığı, tarayıcı sekmesinin yanı sıra arama motoru sonuç sayfalarında da belirgin bir şekilde gösterilir."
+
+#: inc/views/settings/metaboxes/title.php:51
+#: inc/views/settings/metaboxes/title.php:205
+msgid "Automated Title Settings"
+msgstr "Otomatik Başlık Ayarları"
+
+#: inc/views/edit/seo-settings-singular.php:402
+#: inc/views/edit/seo-settings-tt.php:390
+#: inc/views/settings/metaboxes/post-type-archive.php:458
+msgid "This will force visitors to go to another URL."
+msgstr "Ziyaretçileri başka bir URL'ye gitmeye zorlayacaktır."
+
+#. translators: 1: plugin version
+#: inc/classes/internal/debug.class.php:195
+msgid "(This message was added in version %s of The SEO Framework.)"
+msgstr "(Bu mesaj, The SEO Framework %s sürümüne eklendi.)"
+
+#: inc/classes/admin-init.class.php:330
+msgid "Good"
+msgstr "İyi"
+
+#. translators: %s = timestamp
+#: inc/classes/builders/sitemap/base.class.php:180
+msgid "Sitemap is generated on %s"
+msgstr "Site haritası %s tarihinde oluşturuldu"
+
+#: inc/views/sitemap/xml-sitemap.php:34
+msgid "Sitemap is served from cache"
+msgstr "Site haritası önbellekten sunulur"
+
+#: inc/views/sitemap/xml-sitemap.php:32
+msgid "Sitemap is generated for this view"
+msgstr "Site haritası bu görünüm için oluşturuldu"
+
+#: inc/views/settings/metaboxes/feed.php:29
+msgid "This link will not be followed by search engines."
+msgstr "Bu bağlantı arama motorları tarafından takip edilmeyecektir."
+
+#: inc/views/settings/metaboxes/feed.php:26
+msgid "By default the excerpt will be at most 400 characters long."
+msgstr "Varsayılan olarak, alıntı en fazla 400 karakter uzunluğunda olacaktır."
+
+#: inc/views/settings/metaboxes/feed.php:25
+msgid "Convert feed entries into excerpts?"
+msgstr "Haber akışları alıntılara dönüştürülsün mü?"
+
+#: inc/views/settings/metaboxes/feed.php:24
+msgid "Change Feed Settings"
+msgstr "Haber Akışı Ayarlarını Değiştir"
+
+#: inc/views/settings/metaboxes/feed.php:19
+msgid "Adding a backlink below the feed entries will also let the visitors know where the content came from."
+msgstr "Haber akışlarının altına bir backlink eklemek, ziyaretçilerin içeriğin nereden geldiğini bilmesini sağlar."
+
+#: inc/views/settings/metaboxes/feed.php:18
+msgid "Sometimes, your content can get stolen by robots through the WordPress feeds. This can cause duplicate content issues. To prevent this from happening, it's recommended to convert the feed's content into an excerpt."
+msgstr "Bazen içeriğiniz, WordPress akışları aracılığıyla robotlar tarafından çalınabilir. Bu, yinelenen içerik sorunlarına neden olabilir. Bunun olmasını önlemek için yayının içeriğini bir alıntıya dönüştürmeniz önerilir."
+
+#: inc/views/settings/metaboxes/feed.php:17
+msgid "Content Feed Settings"
+msgstr "İçerik Akış Ayarları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:85
+msgid "Note: A sitemap has been detected in the root folder of your website. This means that these settings have no effect."
+msgstr "Not: Web sitenizin kök klasöründe bir site haritası tespit edildi. Bu, bu ayarların bir etkisi olmadığı anlamına gelir."
+
+#: inc/views/settings/metaboxes/webmaster.php:70
+msgid "Get the Pinterest verification code."
+msgstr "Pinterest doğrulama kodunu alın."
+
+#: inc/views/settings/metaboxes/webmaster.php:68
+msgid "Pinterest Analytics Verification Code"
+msgstr "Pinterest Analytics Doğrulama Kodu"
+
+#: inc/views/settings/metaboxes/social.php:182
+msgid "Output shortlink tag?"
+msgstr "Kısa bağlantı etiketi oluşturulsun mu?"
+
+#: inc/views/settings/metaboxes/title.php:300
+msgid "Note: Only use this option if you are aware of its SEO effects."
+msgstr "Not: Sadece SEO etkilerinin farkındaysanız bu seçeneği kullanın."
+
+#: inc/views/edit/seo-settings-singular.php:68
+#: inc/views/edit/seo-settings-tt.php:105
+msgid "Doing it Right"
+msgstr "SEO Kontrolü"
+
+#: inc/classes/render.class.php:1281
+msgid "by Sybre Waaijer"
+msgstr "Sybre Waaijer tarafından"
+
+#: inc/classes/bridges/feed.class.php:180
+msgctxt "The content source"
+msgid "Source"
+msgstr "Kaynak"
+
+#: inc/classes/bridges/seosettings.class.php:177
+msgid "Feed Settings"
+msgstr "Besleme Ayarları"
+
+#. translators: %s: Private post title.
+#: inc/classes/bridges/scripts.class.php:668
+#: inc/classes/generate-title.class.php:1356
+msgid "Private: %s"
+msgstr "Özel: %s"
+
+#. translators: %s: Protected post title.
+#: inc/classes/bridges/scripts.class.php:670
+#: inc/classes/generate-title.class.php:1338
+msgid "Protected: %s"
+msgstr "Korumalı: %s"
+
+#. Plugin Name of the plugin
+msgid "The SEO Framework"
+msgstr "The SEO Framework"
+
+#. translators: %s = Google
+#: inc/views/settings/metaboxes/sitemaps.php:297
+msgid "Notify %s about sitemap changes?"
+msgstr "Site haritası değişiklikleriyle ilgili %s bilgilendirilsin mi?"
+
+#: inc/views/settings/metaboxes/sitemaps.php:286
+msgid "Notify Search Engines"
+msgstr "Arama Motorlarına Bildir"
+
+#: inc/views/settings/metaboxes/sitemaps.php:254
+msgid "By default this will happen at most once an hour."
+msgstr "Varsayılan olarak bu en fazla bir saatte bir gerçekleşir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:253
+msgid "Notifying search engines of a sitemap change is helpful to get your content indexed as soon as possible."
+msgstr "Site haritasındaki değişikliklerin arama motorlarına bildirilmesi, içeriğinizin mümkün olan en kısa sürede dizine eklenmesine yardımcı olur."
+
+#: inc/views/settings/metaboxes/sitemaps.php:252
+msgid "Ping Settings"
+msgstr "Ping Ayarları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:234
+msgid "Timestamps Settings"
+msgstr "Zaman Damgası Ayarları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:214
+msgid "Add sitemap location to robots.txt?"
+msgstr "Robots.txt dosyasında site haritasının konumunu ekleyin"
+
+#: inc/views/settings/metaboxes/sitemaps.php:205
+msgid "If you do not add the sitemap location to the robots.txt output, you should notify search engines manually through webmaster-interfaces provided by the search engines."
+msgstr "Site haritası konumunu robots.txt dosyasına eklemezseniz, arama motorlarını arama motorları tarafından sağlanan Web Yöneticisi Konsolu aracılığıyla manuel olarak bilgilendirmeniz gerekir."
+
+#: inc/views/settings/metaboxes/sitemaps.php:171
+msgid "Robots.txt Settings"
+msgstr "Robots.txt Ayarları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:90
+msgid "Sitemap Output"
+msgstr "Site Haritası Oluşturma"
+
+#: inc/views/settings/metaboxes/sitemaps.php:65
+msgid "Sitemap Integration Settings"
+msgstr "Site Haritası Bütünleştirme Ayarları"
+
+#: inc/views/settings/metaboxes/sitemaps.php:38
+msgctxt "Ping or notify search engine"
+msgid "Ping"
+msgstr "Ping"
+
+#: inc/views/settings/metaboxes/general.php:37
+msgid "Timestamps"
+msgstr "Zaman Damgaları"
+
+#: inc/views/settings/metaboxes/schema.php:291
+msgid "Don't have a page at a site or is the profile only privately accessible? Leave that field empty. Unsure? Fill it in anyway."
+msgstr "Bir sitede bir sayfanız yok mu veya profiliniz herkese açık değil mi? Bu alanı boş bırakın. Emin değil misiniz? Yine de doldurun."
+
+#: inc/views/settings/metaboxes/schema.php:146
+msgid "The organization or personal name"
+msgstr "Organizasyon veya kişisel isim"
+
+#: inc/views/settings/metaboxes/schema.php:127
+msgid "A Person"
+msgstr "Kişi"
+
+#: inc/views/settings/metaboxes/schema.php:126
+msgid "An Organization"
+msgstr "Organizasyon"
+
+#: inc/views/settings/metaboxes/schema.php:120
+msgctxt "...Organization or Person."
+msgid "This website represents:"
+msgstr "Bu web sitesi şunları temsil eder:"
+
+#: inc/views/settings/metaboxes/schema.php:118
+msgid "About this website"
+msgstr "Bu web sitesi hakkında."
+
+#: inc/views/settings/metaboxes/webmaster.php:39
+msgid "Get the Bing verification code."
+msgstr "Bing doğrulama kodunu alın."
+
+#: inc/views/settings/metaboxes/webmaster.php:37
+msgid "Bing Webmaster Verification Code"
+msgstr "Bing Web Yöneticisi Doğrulama Kodu"
+
+#: inc/views/settings/metaboxes/webmaster.php:29
+msgid "Get the Google verification code."
+msgstr "Google doğrulama kodunu alın."
+
+#: inc/views/settings/metaboxes/webmaster.php:80
+msgid "Verifying your website has no SEO value whatsoever. But you might gain added benefits such as search ranking insights to help you improve your website's content."
+msgstr "Web sitenizin doğrulanması hiç bir SEO değeri içermez. Ancak, web sitenizin içeriğini iyileştirmenize yardımcı olacak arama sıralaması bilgileri gibi ek avantajlar elde edebilirsiniz."
+
+#: inc/views/settings/metaboxes/webmaster.php:79
+msgid "When adding your website to Google, Bing and other Webmaster Tools, you'll be asked to add a code or file to your website for verification purposes. These options will help you easily integrate those codes."
+msgstr "Web sitenizi Google, Bing ve diğer Web Yöneticisi Araçları'na eklerken, doğrulama amacıyla web sitenize bir kod veya dosya eklemeniz istenir. Bu seçenekler, bu kodları kolayca entegre etmenize yardımcı olacaktır."
+
+#: inc/views/settings/metaboxes/webmaster.php:78
+msgid "Webmaster Integration Settings"
+msgstr "Web Yöneticisi Bütünleştirme Ayarları"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/general.php:303
+msgid "Add `rel` link tags to archives?"
+msgstr "Arşivlere `rel` bağlantı etiketleri eklensin mi?"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/general.php:293
+msgid "Add `rel` link tags to posts and pages?"
+msgstr "'rel' bağlantı etiketleri Yazılar ve Sayfalara eklensin mi?"
+
+#: inc/views/settings/metaboxes/general.php:287
+msgid "It's recommended to turn these options on for better SEO consistency and to prevent duplicated content issues."
+msgstr "Daha iyi SEO tutarlılığı sağlamak ve yinelenen içerik hatalarını önlemek için bu seçenekleri etkinleştirmeniz önerilir."
+
+#: inc/views/settings/metaboxes/general.php:286
+msgid "Some search engines look for relations between the content of your pages. If you have pagination on a post or page, or have archives indexed, these options will help search engines look for the right page to display in the search results."
+msgstr "Bazı arama motorları, sayfalarınızın içeriği arasındaki ilişkileri arar. Bir gönderi veya sayfada sayfalama varsa veya dizine eklenmiş arşivleriniz varsa, bu seçenekler arama motorlarının arama sonuçlarında görüntülenecek doğru sayfayı aramasına yardımcı olur."
+
+#: inc/views/settings/metaboxes/general.php:285
+msgid "Link Relationship Settings"
+msgstr "Bağlantı İlişki Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:389
+msgid "Post Date Settings"
+msgstr "Yazı Tarihi Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:387
+msgid "Posts"
+msgstr "Yazılar"
+
+#: inc/views/settings/metaboxes/social.php:317
+#: inc/views/settings/metaboxes/social.php:333
+msgid "Find your @username."
+msgstr "@kullanıcıadınızı bulun."
+
+#: inc/views/settings/metaboxes/social.php:271
+msgid "Twitter Card Type"
+msgstr "Twitter Kart Türü"
+
+#: inc/views/profile/author.php:23 inc/views/settings/metaboxes/social.php:260
+msgctxt "Twitter @username"
+msgid "@your-personal-username"
+msgstr "@kisiselkullaniciadiniz"
+
+#: inc/views/settings/metaboxes/social.php:257
+msgctxt "Twitter @username"
+msgid "@your-site-username"
+msgstr "@websitenizinkullaniciadi"
+
+#: inc/views/settings/metaboxes/social.php:210
+msgid "Get Facebook App ID."
+msgstr "Facebook Uygulama Kimliği'ni edinin."
+
+#: inc/views/settings/metaboxes/social.php:206
+msgid "Facebook App ID"
+msgstr "Facebook Uygulama Kimliği"
+
+#: inc/views/settings/metaboxes/social.php:242
+msgid "Your Facebook profile."
+msgstr "Facebook profiliniz"
+
+#: inc/views/settings/metaboxes/social.php:200
+msgid "When these options are filled in, Facebook might link the Facebook profile to be followed and liked when your post or page is shared."
+msgstr "Bu seçenekler doldurulduğunda, Facebook, gönderi veya sayfanız paylaşıldığında izlenecek ve beğenilecek Facebook profilini bağlayabilir."
+
+#: inc/views/settings/metaboxes/social.php:199
+msgid "Facebook post sharing works mostly through Open Graph. However, you can also link your Business and Personal Facebook pages, among various other options."
+msgstr "Facebook yazı paylaşımı çoğunlukla Open Graph ile çalışır. Bununla birlikte, diğer çeşitli seçenekler arasında İş ve Kişisel Facebook sayfalarınızı da bağlayabilirsiniz."
+
+#: inc/views/profile/author.php:16 inc/views/settings/metaboxes/social.php:190
+msgctxt "Example Facebook Personal URL"
+msgid "https://www.facebook.com/YourPersonalProfile"
+msgstr "https://www.facebook.com/YourPersonalProfile"
+
+#: inc/views/settings/metaboxes/social.php:93
+msgid "Output Twitter meta tags?"
+msgstr "Twitter meta etiketleri oluşturulsun mu?"
+
+#: inc/views/settings/metaboxes/social.php:94
+msgid "Output various meta tags targeted at Twitter."
+msgstr "Twitter'da hedeflenen çeşitli etiketleri oluştur."
+
+#: inc/views/settings/metaboxes/social.php:83
+msgid "Output Facebook meta tags?"
+msgstr "Facebook meta etiketleri oluşturulsun mu?"
+
+#: inc/views/settings/metaboxes/social.php:72
+msgid "Facebook, Twitter, Pinterest and many other social sites make use of these meta tags."
+msgstr "Facebook, Twitter, Pinterest ve diğer birçok sosyal medya sitesi bu etiketleri kullanmaktadır."
+
+#: inc/views/settings/metaboxes/social.php:71
+msgid "Output Open Graph meta tags?"
+msgstr "Open Graph meta etiketleri oluşturulsun mu?"
+
+#: inc/views/settings/metaboxes/social.php:61
+msgid "Output various meta tags for social site integration, among other third-party services."
+msgstr "Diğer üçüncü taraf hizmetleri arasında sosyal site entegrasyonu için çeşitli meta etiketlerini oluştur."
+
+#: inc/views/settings/metaboxes/social.php:176
+msgid "Site Shortlink Settings"
+msgstr "Site Kısa Bağlantı Ayarları"
+
+#: inc/views/settings/metaboxes/social.php:43
+msgid "Post Dates"
+msgstr "Yazı Tarihleri"
+
+#: inc/views/edit/seo-settings-singular.php:191
+#: inc/views/edit/seo-settings-tt.php:173
+#: inc/views/settings/metaboxes/description.php:19
+#: inc/views/settings/metaboxes/homepage.php:137
+#: inc/views/settings/metaboxes/post-type-archive.php:225
+msgid "The meta description can be used to determine the text used under the title on search engine results pages."
+msgstr "Meta açıklama, arama motoru sonuçları sayfalarında başlık altında kullanılan metni belirlemek için kullanılabilir."
+
+#: inc/views/settings/metaboxes/homepage.php:23
+msgid "These settings will take precedence over the settings set within the homepage edit screen, if any."
+msgstr "Bu ayarlar, varsa Ana Sayfa düzenleme ekranında ayarlanan ayarların önüne geçer."
+
+#: inc/classes/builders/seobar/page.class.php:401
+#: inc/classes/builders/seobar/page.class.php:410
+#: inc/classes/builders/seobar/term.class.php:388
+#: inc/classes/builders/seobar/term.class.php:397
+msgid "Description"
+msgstr "Açıklama"
+
+#: inc/classes/builders/seobar/page.class.php:192
+#: inc/classes/builders/seobar/term.class.php:204
+msgid "Title"
+msgstr "Başlık"
+
+#: inc/views/settings/metaboxes/robots.php:300
+msgid "Robots Settings"
+msgstr "Robot Ayarları"
+
+#. translators: the backticks are Markdown! Preserve them as-is!
+#: inc/views/settings/metaboxes/robots.php:133
+msgid "Apply `noindex` to every second or later archive page?"
+msgstr "Her ikinci veya daha yeni arşiv sayfasına 'noindex' uygula"
+
+#: inc/views/settings/metaboxes/robots.php:126
+msgid "Indexing the second or later page of any archive might cause duplication errors. Search engines look down upon them; therefore, it's recommended to disable indexing of those pages."
+msgstr "Herhangi bir arşivin ikinci veya daha sonraki sayfasını dizinlemek, çoğaltma hatalarına neden olabilir. Arama motorları önemsiz görür; bu nedenle, bu sayfaların dizine eklenmesini devre dışı bırakmanız önerilir."
+
+#: inc/views/settings/metaboxes/robots.php:125
+msgid "Paginated Archive Settings"
+msgstr "Sayfalandırılmış Arşiv Ayarları"
+
+#: inc/classes/builders/seobar/page.class.php:875
+#: inc/classes/builders/seobar/page.class.php:884
+#: inc/classes/builders/seobar/page.class.php:893
+#: inc/classes/builders/seobar/term.class.php:825
+#: inc/classes/builders/seobar/term.class.php:834
+#: inc/views/edit/seo-settings-singular.php:257
+#: inc/views/edit/seo-settings-tt.php:88 inc/views/list/bulk-post.php:36
+#: inc/views/list/quick-post.php:36 inc/views/list/quick-term.php:36
+#: inc/views/settings/metaboxes/post-type-archive.php:401
+#: inc/views/settings/metaboxes/robots.php:89
+msgid "Archiving"
+msgstr "Arşivleme"
+
+#: inc/classes/builders/seobar/page.class.php:744
+#: inc/classes/builders/seobar/page.class.php:753
+#: inc/classes/builders/seobar/page.class.php:762
+#: inc/classes/builders/seobar/term.class.php:708
+#: inc/classes/builders/seobar/term.class.php:717
+#: inc/views/list/quick-term.php:29 inc/views/settings/metaboxes/robots.php:78
+msgid "Following"
+msgstr "Takip Et"
+
+#: inc/classes/builders/seobar/page.class.php:590
+#: inc/classes/builders/seobar/page.class.php:599
+#: inc/classes/builders/seobar/page.class.php:608
+#: inc/classes/builders/seobar/term.class.php:562
+#: inc/classes/builders/seobar/term.class.php:571
+#: inc/views/edit/seo-settings-singular.php:241
+#: inc/views/edit/seo-settings-tt.php:62 inc/views/list/bulk-post.php:22
+#: inc/views/list/quick-post.php:22 inc/views/list/quick-term.php:22
+#: inc/views/settings/metaboxes/post-type-archive.php:377
+#: inc/views/settings/metaboxes/robots.php:67
+msgid "Indexing"
+msgstr "Dizine ekleme"
+
+#: inc/views/edit/seo-settings-singular.php:29
+#: inc/views/settings/metaboxes/homepage.php:31
+#: inc/views/settings/metaboxes/post-type-archive.php:65
+#: inc/views/settings/metaboxes/robots.php:61
+#: inc/views/settings/metaboxes/sitemaps.php:23
+#: inc/views/settings/metaboxes/social.php:23
+#: inc/views/settings/metaboxes/title.php:140
+msgid "General"
+msgstr "Genel"
+
+#: inc/views/settings/metaboxes/robots.php:53
+msgid "These options most likely prevent caching of the selected archives and pages. If you enable this, bots are urged not create a cached copy of the selected archives or pages."
+msgstr "Bu seçenekler büyük ihtimalle seçilen arşivlerin ve sayfaların önbelleğe alınmasını önler. Bunu etkinleştirirseniz, seçilen arşivlerin veya sayfaların önbelleğe alınmış bir kopyasını botlar oluşturmaz."
+
+#: inc/views/settings/metaboxes/robots.php:49
+msgid "These options most likely prevent links from being followed on the selected archives and pages. If you enable this, the selected archives or pages in-page links will gain no SEO value, including your internal links."
+msgstr "Bu seçenekler büyük olasılıkla bağlantıların seçilen arşivlerde ve sayfalarda izlenmesini önler. Bunu etkinleştirirseniz kendi bağlantılarınız ile seçilen arşivler veya sayfa içindeki sayfa bağlantıları, hiçbir SEO değeri kazanmaz."
+
+#: inc/views/settings/metaboxes/robots.php:45
+msgid "These options most likely prevent indexing of the selected archives and pages. If you enable this, the selected archives or pages will urge to be removed from search engine results pages."
+msgstr "Bu seçenekler büyük ihtimalle seçilen arşivlerin ve sayfaların dizine eklenmesini engeller. Bunu etkinleştirirseniz, seçilen arşivler veya sayfalar arama motoru sonuç sayfalarından kaldırılmaya çalışılacaktır."
+
+#: inc/views/settings/metaboxes/robots.php:28
+msgid "Search pages"
+msgstr "Arama Sayfaları"
+
+#: inc/views/settings/metaboxes/homepage.php:252
+#: inc/views/settings/metaboxes/title.php:267
+msgid "Right:"
+msgstr "Sağ:"
+
+#: inc/views/settings/metaboxes/homepage.php:242
+#: inc/views/settings/metaboxes/title.php:257
+msgid "Left:"
+msgstr "Sol:"
+
+#: inc/views/settings/metaboxes/homepage.php:469
+msgid "This tells search engines not to follow links on this page."
+msgstr "Arama motorlarına bu sayfadaki bağlantıları izlememesini söyler."
+
+#: inc/views/settings/metaboxes/homepage.php:453
+msgid "This tells search engines not to show this page in their search results."
+msgstr "Arama motorlarına bu sayfayı arama sonuçlarında göstermemesini söyler."
+
+#: inc/views/edit/seo-settings-singular.php:187
+#: inc/views/edit/seo-settings-tt.php:169 inc/views/list/quick-post.php:77
+#: inc/views/list/quick-term.php:77
+#: inc/views/settings/metaboxes/homepage.php:133
+#: inc/views/settings/metaboxes/post-type-archive.php:221
+msgid "Meta Description"
+msgstr "Meta Açıklaması"
+
+#. translators: %s = Post Type label
+#: inc/classes/bridges/postsettings.class.php:85
+msgid "%s SEO Settings"
+msgstr "%s SEO Ayarları"
+
+#: inc/classes/generate-title.class.php:959
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Sohbetler"
+
+#: inc/classes/generate-title.class.php:957
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Ses"
+
+#: inc/classes/generate-title.class.php:955
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Durumlar"
+
+#: inc/classes/generate-title.class.php:953
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Bağlantılar"
+
+#: inc/classes/generate-title.class.php:951
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Alıntılar"
+
+#: inc/classes/generate-title.class.php:949
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videolar"
+
+#: inc/classes/generate-title.class.php:947
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Görseller"
+
+#: inc/classes/generate-title.class.php:945
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeriler"
+
+#: inc/classes/generate-title.class.php:943
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Yan sütunlar"
+
+#: inc/classes/generate-title.class.php:938
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: inc/classes/generate-title.class.php:935
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/classes/generate-title.class.php:932
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/classes/generate-title.class.php:918
+#: inc/classes/generate-title.class.php:991
+msgid "Archives"
+msgstr "Arşivler"
+
+#: inc/classes/generate-title.class.php:1166
+msgid "Untitled"
+msgstr "Başlıksız"
+
+#: inc/classes/builders/seobar/page.class.php:991
+#: inc/classes/builders/seobar/page.class.php:1012
+#: inc/classes/builders/seobar/term.class.php:925
+#: inc/classes/builders/seobar/term.class.php:941
+msgctxt "Redirect"
+msgid "R"
+msgstr "Y"
+
+#: inc/classes/builders/seobar/page.class.php:400
+#: inc/classes/builders/seobar/page.class.php:409
+#: inc/classes/builders/seobar/term.class.php:387
+#: inc/classes/builders/seobar/term.class.php:396
+msgctxt "Description"
+msgid "D"
+msgstr "A"
+
+#: inc/classes/builders/seobar/page.class.php:191
+#: inc/classes/builders/seobar/term.class.php:203
+msgctxt "Title"
+msgid "T"
+msgstr "B"
+
+#: inc/classes/admin-init.class.php:322
+msgid "Length is good."
+msgstr "Uzunluk iyi."
+
+#: inc/classes/admin-init.class.php:338
+msgid "Good."
+msgstr "İyi."
+
+#: inc/classes/admin-init.class.php:329
+msgid "Far too long"
+msgstr "Çok uzun"
+
+#: inc/classes/admin-init.class.php:336
+msgid "Too long."
+msgstr "Çok uzun."
+
+#: inc/classes/admin-init.class.php:335
+msgid "Too short."
+msgstr "Çok kısa."
+
+#: inc/classes/admin-init.class.php:326
+msgid "Far too short"
+msgstr "Çok kısa"
+
+#: inc/classes/bridges/seosettings.class.php:167
+msgid "Sitemap Settings"
+msgstr "Site Haritası Ayarları"
+
+#: inc/classes/bridges/seosettings.class.php:157
+msgid "Webmaster Meta Settings"
+msgstr "Web Yöneticisi Meta Ayarları"
+
+#: inc/classes/bridges/seosettings.class.php:147
+#: inc/views/edit/seo-settings-singular.php:288
+#: inc/views/edit/seo-settings-tt.php:346
+#: inc/views/settings/metaboxes/homepage.php:442
+msgid "Robots Meta Settings"
+msgstr "Robots Meta Ayarları"
+
+#: inc/classes/bridges/seosettings.class.php:127
+msgid "Social Meta Settings"
+msgstr "Sosyal Meta Ayarları"
+
+#: inc/classes/bridges/seosettings.class.php:108
+msgid "Homepage Settings"
+msgstr "Ana Sayfa Ayarları"
+
+#: inc/classes/bridges/seosettings.class.php:98
+msgid "Description Meta Settings"
+msgstr "Açıklama Meta Ayarları"
+
+#: inc/classes/bridges/seosettings.class.php:88
+msgid "Title Settings"
+msgstr "Başlık Ayarları"
+
+#: inc/classes/admin-pages.class.php:57
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/classes/admin-pages.class.php:56
+msgid "SEO Settings"
+msgstr "SEO Ayarları"
+
+#: inc/views/settings/wrap.php:45
+msgid "Reset Settings"
+msgstr "Ayarları sıfırla"
+
+#: inc/views/settings/wrap.php:36
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+#: inc/views/settings/wrap.php:43
+msgid "Are you sure you want to reset all SEO settings to their defaults?"
+msgstr "Tüm SEO ayarlarını varsayılanlarına sıfırlamak istediğinizden emin misiniz?"
+
+#: inc/classes/bridges/scripts.class.php:330
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Bu sayfadan ayrılırsanız yaptığınız değişiklikler kaybolacaktır."
+
+#: inc/classes/admin-init.class.php:78
+msgid "No Search"
+msgstr "Arama yok"

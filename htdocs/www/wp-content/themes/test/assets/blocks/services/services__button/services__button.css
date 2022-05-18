@@ -1,0 +1,16 @@
+.services__button {
+	width: 100%;
+	max-width: 81px;
+	max-height: 30px;
+	margin: auto 20px auto 0;
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.services__button:hover {
+	transform: scale(1.2);
+}
+
+.services__button:active {
+	transform: none;
+}

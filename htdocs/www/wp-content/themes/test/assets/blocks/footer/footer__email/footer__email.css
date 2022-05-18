@@ -1,0 +1,12 @@
+.footer__email {
+	text-decoration: underline;
+	color: #29282C;
+}
+
+@media (max-width: 416px) {
+	.footer__email {
+		font-weight: 400;
+		font-size: 25px;
+		line-height: 31px;
+	}
+}

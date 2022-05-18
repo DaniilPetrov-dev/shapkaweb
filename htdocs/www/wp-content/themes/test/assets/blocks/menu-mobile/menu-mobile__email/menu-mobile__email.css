@@ -1,0 +1,9 @@
+@media (max-width: 820px) {
+	.menu-mobile__email {
+		text-decoration: underline;
+		font-weight: 400;
+		font-size: 18px;
+		line-height: 23px;
+		color: #29282C;
+	}
+}

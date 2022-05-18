@@ -1,0 +1,5 @@
+@media (max-width: 416px) {
+	.description__place-title_reverse {
+		text-align: end;
+	}
+}

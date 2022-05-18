@@ -1,0 +1,11 @@
+@media (max-width: 416px) {
+	.description__background-mobil {
+		/*background-image: url("../../../image/description__background-mobil-min.svg");*/
+		background-repeat: no-repeat;
+		background-position: 0% 100%;
+		min-height: 355px;
+		box-sizing: border-box;
+		padding-top: 17px;
+		margin-left: 9px;
+	}
+}

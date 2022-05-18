@@ -1,0 +1,17 @@
+.works-page__title-con {
+	margin: 70px auto 0;
+	max-width: 1270px;
+	width: 100%;
+}
+
+@media (max-width: 1270px) {
+	.works-page__title-con {
+		max-width: 90%;
+	}
+}
+
+@media (max-width: 415px) {
+	.works-page__title-con {
+		max-width: 335px;
+	}
+}

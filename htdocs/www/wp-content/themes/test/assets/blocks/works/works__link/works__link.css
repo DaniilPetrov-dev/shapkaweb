@@ -1,0 +1,29 @@
+.works__link {
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-decoration-line: underline;
+	color: #EE6C43;
+	transition: color 0.5s linear;
+	
+}
+
+.works__link:hover {
+	color: #6768A7;
+}
+
+.works__link:active {
+	color: #EE6C43;
+}
+
+@media (max-width:830px) {
+	.works__link {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 416px) {
+	.works__link {
+		display: none;
+	}
+}

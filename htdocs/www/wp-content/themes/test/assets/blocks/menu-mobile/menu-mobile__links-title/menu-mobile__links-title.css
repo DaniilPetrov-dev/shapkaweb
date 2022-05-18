@@ -1,0 +1,8 @@
+@media (max-width:820px) {
+	.menu-mobile__links-title {
+		margin: 0 0 20px 0;
+		font-weight: 400;
+		font-size: 18px;
+		line-height: 23px;
+	}
+}

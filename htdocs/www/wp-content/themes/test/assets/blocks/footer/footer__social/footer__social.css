@@ -1,0 +1,9 @@
+.footer__social {
+	margin: 0 0 0 auto;
+}
+
+@media (max-width: 820px) {
+	.footer__social {
+		margin: 30px 0 0 0;
+	}
+}

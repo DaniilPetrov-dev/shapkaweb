@@ -1,0 +1,20 @@
+.works__title {
+	color: #6768A7;
+	font-weight: 700;
+	font-size: 45px;
+	line-height: 57px;
+	margin: 0 24px 0 0;
+}
+
+@media (max-width:830px) {
+	.works__title {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 416px) {
+	.works__title {
+		font-weight: 700;
+		line-height: 38px;
+	}
+}

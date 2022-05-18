@@ -1,0 +1,14 @@
+.slider__con-text {
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	color: #EFEDE8;
+}
+
+@media (max-width: 416px) {
+	.slider__con-text {
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 20px;
+	}
+}

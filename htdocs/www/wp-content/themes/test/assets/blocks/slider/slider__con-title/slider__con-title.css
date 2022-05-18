@@ -1,0 +1,16 @@
+.slider__con-title {
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 31px;
+	color: #EFEDE8;
+	margin: 0 0 10px 0;
+}
+
+@media (max-width: 416px) {
+	.slider__con-title {
+		font-weight: 400;
+		font-size: 20px;
+		line-height: 25px;
+		min-width: 175px;
+	}
+}

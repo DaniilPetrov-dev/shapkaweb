@@ -1,0 +1,8 @@
+.works-page__contain {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	max-width: 1270px;
+	width: 100%;
+	margin: 25px auto 250px;
+}

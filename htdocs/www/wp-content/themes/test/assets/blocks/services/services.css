@@ -1,0 +1,19 @@
+.services {
+	background-image: url("../../image/services__background-min.svg");
+	min-height: 1100px;
+	max-width: 1600px;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+}
+
+@media (max-width: 416px){
+	.services {
+		background-image: url("../../image/services__background_mobil-min.svg");
+		max-width: 415px;
+		width: 100%;
+		background-size: contain;
+		min-height: 600px;
+	}
+}

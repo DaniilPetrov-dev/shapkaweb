@@ -1,0 +1,7 @@
+.text_color_white {
+	color: #EFEDE8;
+}
+
+.footer__link.text_color_white:hover {
+	color: #EE6C43;
+}

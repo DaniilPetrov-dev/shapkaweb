@@ -1,0 +1,16 @@
+.slider__card {
+	max-width: 490px;
+	margin: 0 30px 0 0;
+	padding: 0;
+	box-shadow: -7px 7px 10px 2px rgba(0, 0, 0, 0.2);
+}
+
+.slider__card:last-child {
+	margin-right: 0;
+}
+
+@media (max-width: 416px) {
+	.slider__card {
+		max-width: 300px;
+	}
+}

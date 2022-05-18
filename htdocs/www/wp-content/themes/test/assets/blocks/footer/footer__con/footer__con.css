@@ -1,0 +1,31 @@
+.footer__con {
+	display: flex;
+	flex-direction: row;
+	justify-content:flex-start;
+	max-width: 1095px;
+	width: 100%;
+	color: #29282C;
+	margin: 0 auto 80px auto;
+}
+
+@media (min-width: 820px) and (max-width: 1095px) {
+	.footer__con {
+		max-width: 98%;
+	}
+}
+
+@media (max-width:820px) {
+	.footer__con {
+		flex-direction: column;
+		margin: 40px auto 20px;
+		max-width: 90%;
+	}
+}
+
+@media (max-width: 416px) {
+	.footer__con {
+		max-width: 335px;
+		flex-direction: column;
+		margin: 40px auto 20px;
+	}
+}

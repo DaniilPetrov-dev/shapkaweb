@@ -1,0 +1,7 @@
+.footer__email-con {
+	display: flex;
+	flex-direction: row;
+	color: #29282C;
+	align-items: center;
+	
+}

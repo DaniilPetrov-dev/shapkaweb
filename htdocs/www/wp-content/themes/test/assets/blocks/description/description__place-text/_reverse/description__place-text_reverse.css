@@ -1,0 +1,6 @@
+@media (max-width: 416px) {
+	.description__place-text_reverse {
+	text-align: end;
+	max-width: 250px;
+	}
+}

@@ -1,0 +1,21 @@
+.works__title-con {
+	max-width: 1270px;
+	margin: 110px 0 25px 0;
+	display: flex;
+	align-items: baseline;
+	align-self: flex-start;
+}
+
+@media (max-width: 1270px) {
+	.works__title-con {
+		max-width: 90%;
+		margin: 50px auto 25px auto;
+	}
+}
+
+@media (max-width: 416px) {
+	.works__title-con {
+		margin: 70px auto 10px;
+		max-width: 335px;
+	}
+}

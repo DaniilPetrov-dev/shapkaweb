@@ -1,0 +1,23 @@
+.slider__arrow {
+	width: 100%;
+	max-width: 81px;
+	max-height: 30px;
+	align-self: flex-end;
+	margin: 0 32px 33px 0;
+	transition: 0.5s;
+	cursor: pointer;
+}
+
+.slider__arrow:hover {
+	transform: scale(1.2);
+}
+
+.slider__arrow:active {
+	transform: none;
+}
+
+@media (max-width: 416px) {
+	.slider__arrow {
+		margin: 0 20px 20px 0;
+	}
+}

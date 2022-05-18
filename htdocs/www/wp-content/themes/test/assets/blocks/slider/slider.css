@@ -1,0 +1,22 @@
+.slider {
+	overflow: scroll;
+	padding: 0 10px 15px 10px;
+	-ms-overflow-style: none;  /* IE и Edge */
+	scrollbar-width: none;  /* Firefox */
+}
+
+.slider__track {
+	display: flex;
+	flex-direction: row;
+	transition: 1s;
+	-ms-overflow-style: none;  /* IE и Edge */
+	scrollbar-width: none;  /* Firefox */
+}
+
+.slider::-webkit-scrollbar {
+	display: none;
+}
+
+.slider__track::-webkit-scrollbar {
+	display: none;
+}

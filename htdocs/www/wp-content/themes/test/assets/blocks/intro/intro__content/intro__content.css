@@ -1,0 +1,27 @@
+.intro__content {
+	max-width: 1270px;
+	max-height: 455px;
+	margin: 0 auto 0;
+	display: flex;
+	justify-content: space-between;
+}
+
+@media (max-width: 1270px) {
+	.intro__content {
+		max-width: 90%;
+	}
+}
+
+@media (max-width:830px) {
+	.intro__content {
+		flex-direction: column-reverse;
+		justify-content: center;
+		width: 100%;
+	}
+}
+
+@media (max-width: 416px) {
+	.intro__content {
+		max-width: 335px;
+	}
+}

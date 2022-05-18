@@ -1,0 +1,18 @@
+.description__place-img {
+	max-width: 230px;
+	margin: 0;
+	padding: 0;
+}
+
+@media (max-width: 1270px) {
+	.description__place-img {
+		max-width: 200px;
+	}
+}
+
+@media (max-width: 416px) {
+	.description__place-img {
+		max-width: 155px;
+		max-height: 155px;
+	}
+}

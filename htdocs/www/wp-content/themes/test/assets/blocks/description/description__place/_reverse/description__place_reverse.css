@@ -1,0 +1,14 @@
+@media (max-width: 416px) {
+	.description__place_reverse {
+		flex-direction: row-reverse;
+	}
+
+	.description__place-con_reverse {
+		margin-left: 0 !important;
+		margin-right: 25px;
+	}
+
+	.description__place-img_reverse {
+		padding-right: 4px;
+	}
+}

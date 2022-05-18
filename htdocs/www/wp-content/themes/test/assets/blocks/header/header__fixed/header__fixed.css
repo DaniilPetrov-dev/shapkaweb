@@ -1,0 +1,11 @@
+.header__fixed {
+	background-color: #6768A7;
+	padding: 25px 0 25px;
+	transition: .8s;
+}
+
+@media (max-width: 416px) {
+	.header__fixed {
+		padding: 21px 0 21px;
+	}
+}

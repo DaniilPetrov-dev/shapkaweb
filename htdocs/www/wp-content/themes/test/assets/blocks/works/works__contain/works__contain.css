@@ -1,0 +1,11 @@
+.works__contain {
+	max-width: 1270px;
+	margin: 0 auto 0;
+}
+
+@media (max-width: 416px) {
+	.works__contain {
+		max-width: 416px;
+		margin-top: 0;
+	}
+}

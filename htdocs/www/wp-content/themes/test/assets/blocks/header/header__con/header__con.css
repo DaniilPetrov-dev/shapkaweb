@@ -1,0 +1,23 @@
+.header__con {
+	max-width: 1270px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: auto;
+	padding: 0;
+}
+
+@media (max-width: 1270px) {
+	.header__con {
+		max-width: 90%;
+	}
+}
+
+@media (max-width: 415px) {
+	.header__con {
+		max-width: 335px;
+		width: 100%;
+		margin: auto;
+	}
+}

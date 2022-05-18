@@ -1,0 +1,15 @@
+.footer__contacts-title {
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 31px;
+	margin: 0 0 20px 0;
+}
+
+@media (max-width: 416px) {
+	.footer__contacts-title {
+		font-weight: 400;
+		font-size: 30px;
+		line-height: 38px;
+		margin-bottom: 10px;
+	}
+}

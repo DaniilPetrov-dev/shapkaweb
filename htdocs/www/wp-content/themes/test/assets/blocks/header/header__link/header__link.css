@@ -1,0 +1,28 @@
+.header__link {
+	color: #E5E5E5;
+	display: block;
+	text-decoration: none;
+	padding: 0px;
+	margin: 0 0 0 45px;
+	font-weight: 500;
+	font-size: 20px;
+	transition: 0.5s;
+	transition: color 0.4s linear;
+}
+
+.header__link:hover {
+	color: #EE6243;
+	transform: scale(1.05);
+
+}
+
+.header__link:active {
+	transform: none;
+	color: #E5E5E5;
+}
+
+@media (max-width: 820px) {
+	.header__link {
+		display: none;
+	}
+}

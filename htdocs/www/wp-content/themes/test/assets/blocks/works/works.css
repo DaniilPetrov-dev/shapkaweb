@@ -1,0 +1,17 @@
+.works {
+	min-height: 1070px;
+	display: flex;
+	flex-direction: column;
+}
+
+@media (max-width:1270px) {
+	.works {
+		min-height: 900px;
+	}
+}
+
+@media (max-width: 416px) {
+	.works {
+		min-height: 778px;
+	}
+}

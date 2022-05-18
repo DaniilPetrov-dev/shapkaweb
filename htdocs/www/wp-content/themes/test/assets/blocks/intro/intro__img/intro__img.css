@@ -1,0 +1,21 @@
+.intro__img {
+	z-index: 3;
+	max-width: 830px;
+	width: 100%;
+	object-fit: cover;
+	overflow: visible;
+	margin-left: -100px;
+}
+
+@media (max-width: 830px) {
+	.intro__img {
+		margin: auto;
+		max-width: 615px;
+	}
+}
+
+@media (max-width: 416px) {
+	.intro__img {
+		max-width: 353px;
+	}
+}

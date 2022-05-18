@@ -1,0 +1,11 @@
+.slider__card-img {
+	max-width: 490px;
+}
+
+@media (max-width: 416px) {
+	.slider__card-img {
+		max-width: 300px;
+		min-height: 370px;
+		object-fit:cover;
+	}
+}

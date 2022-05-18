@@ -1,0 +1,6 @@
+.works-page__body {
+	max-width: 1600px;
+	display: flex;
+	flex-direction: column;
+	padding-top: 78px;
+}

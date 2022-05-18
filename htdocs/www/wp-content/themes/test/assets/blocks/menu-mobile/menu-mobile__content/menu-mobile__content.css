@@ -1,0 +1,18 @@
+@media (max-width: 820px) {
+	.menu-mobile__content {
+		width: 100%;
+		max-width: 90%;
+		margin: auto auto 1vh;
+		min-height: 530px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	
+}
+
+@media (max-width: 416px) {
+	.menu-mobile__content {
+		max-width: 335px;
+	}
+}

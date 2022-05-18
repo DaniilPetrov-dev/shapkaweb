@@ -1,0 +1,21 @@
+.footer__link {
+	display: block;
+	margin: 0 0 20px 0;
+	color: #29282C;
+	text-decoration: none;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	transition: color 0.5s ease-in;
+	transition: font-size 0.1s ease-in;
+}
+
+.footer__link:hover {
+	color: #6768A7;
+	transform: scale(1.05);
+}
+
+.footer__link:active {
+	transform: none;
+	color: #29282C;
+}

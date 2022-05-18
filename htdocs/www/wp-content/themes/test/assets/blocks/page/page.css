@@ -1,0 +1,27 @@
+.page {
+	font-family: 'Roboto', sans-serif;
+	min-width: 310px;
+	max-width: 1600px;
+	text-rendering:optimizeLegibility;
+	background-color: #E5E5E5;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+}
+
+@media (max-width: 830px) {
+	body.lock {
+		overflow: hidden;
+	}
+}
+
+@media (max-width: 415px) {
+	.page {
+		max-width: 415px;
+	}
+}

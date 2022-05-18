@@ -1,0 +1,27 @@
+.description__contain {
+	max-width: 1270px;
+	min-height: 692px;
+	height: 100%;
+	margin: 120px auto auto;
+	box-sizing: border-box;
+	/*background-image: url("../../../image/description__background-min.svg");*/
+	background-repeat: no-repeat;
+	background-position: left;
+	color: #6768a7;
+	display: flex;
+}
+
+@media (max-width: 1270px) {
+	.description__contain {
+		margin-top: 0;
+	}
+}
+
+@media (max-width: 416px) {
+	.description__contain {
+		background-image: none;
+		margin-top: 0;
+		max-width: 335px;
+		min-height: 355px;
+	}
+}

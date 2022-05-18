@@ -1,0 +1,6 @@
+@media (max-width: 416px) {
+	.description__place-con {
+		margin-left: 25px;
+		text-align: start;
+	}
+}
